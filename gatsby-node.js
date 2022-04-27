@@ -10,7 +10,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           edges {
             node {
               slug
-              index
               id
             }
           }
@@ -33,7 +32,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       // as a GraphQL variable to query for data from the markdown file.
       context: {
         id: node.id,
-        pagePath: path,
       },
     });
   });
