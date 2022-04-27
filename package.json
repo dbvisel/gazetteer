@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gazetteer",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Digital version of Gazetteer of SEAsian Place Names",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dan Visel <dbvisel@gmail.com>",
   "dependencies": {
     "gatsby": "^4.13.0",
     "gatsby-plugin-gatsby-cloud": "^4.13.0",
@@ -22,9 +22,6 @@
   "devDependencies": {
     "prettier": "^2.6.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
@@ -37,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/dbvisel/gazetteer.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/dbvisel/gazetteer/issues"
   }
 }
