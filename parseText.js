@@ -1,6 +1,16 @@
 const fs = require("fs");
 const path = require("path");
 
+const cleanLatLong = (raw) => {
+  const degrees = parseInt(raw.split("DEG")[0], 10);
+  const minutes = parseInt(raw.split("DEG")[1].split(`'`)[0], 10);
+  const direction = raw.split("'")[1];
+  const value =
+    degrees +
+    (minutes / 60) * (direction === "W" || direction === "S" ? -1 : 1);
+  return value;
+};
+
 const storeData = (data, path) => {
   try {
     fs.writeFileSync(path, JSON.stringify(data));
@@ -59,6 +69,8 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
         if (lat && long) {
           output[i].rawLat = lat[0];
           output[i].rawLong = long[0];
+          output[i].lat = cleanLatLong(lat[0]);
+          output[i].long = cleanLatLong(long[0]);
           //TODO: decimalize these. N is positive, E is positive
           // deg + min / 60
         }
