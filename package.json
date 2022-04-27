@@ -28,6 +28,7 @@
   },
   "license": "0BSD",
   "scripts": {
+		"prebuild": "node parseText.js",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",

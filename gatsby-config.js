@@ -6,7 +6,13 @@ module.exports = {
     siteUrl: `https://gazetteer.netlify.app/`,
   },
   plugins: [
-    `gatsby-plugin-netlify`,
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        mergeLinkHeaders: false, // boolean to turn off the default gatsby js headers
+        mergeCachingHeaders: false, // boolean to turn off the default caching headers
+      },
+    },
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,

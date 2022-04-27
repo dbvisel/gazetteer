@@ -6,8 +6,8 @@ const cleanLatLong = (raw) => {
   const minutes = parseInt(raw.split("DEG")[1].split(`'`)[0], 10);
   const direction = raw.split("'")[1];
   const value =
-    degrees +
-    (minutes / 60) * (direction === "W" || direction === "S" ? -1 : 1);
+    (degrees + minutes / 60) *
+    (direction === "W" || direction === "S" ? -1 : 1);
   return value;
 };
 
