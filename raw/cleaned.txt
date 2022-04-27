@@ -105,8 +105,8 @@ AN KHANH - town, Vietnam 10DEG13'N 105DEG51'E
 Other: An Hoa Dong
 Ankroet, Lac d' - see Dan Kia
 Anna - see Annam
-ANNAM - region, Vietnam 15DEGOO'N 108DEGOO'E [literally: "peace of the south" (W.P., p. 397)] Other: A'nam; Anam; Anna; Aynam; Chiu Chen; Cuu-chan; Giao Chi; Jih-nan; Ngan-Nam; Trung Phan; Yavana; Yawana
-ANNAMITE CORDILLERA — mountain range, Laos/Vietnam 17DEGOO'N 106DEGOO'E Other: Chaine Annamitique; Cyong-Chon; Truong Son
+ANNAM - region, Vietnam 15DEG00'N 108DEG00'E [literally: "peace of the south" (W.P., p. 397)] Other: A'nam; Anam; Anna; Aynam; Chiu Chen; Cuu-chan; Giao Chi; Jih-nan; Ngan-Nam; Trung Phan; Yavana; Yawana
+ANNAMITE CORDILLERA — mountain range, Laos/Vietnam 17DEG00'N 106DEG00'E Other: Chaine Annamitique; Cyong-Chon; Truong Son
 Annamitique, Chaine - see Annamite
 An nan - see Tonkin (Mills, n. 10)
 Anseam - see Thailand (de Campos, p. 215)
@@ -115,7 +115,7 @@ Ansian - see Thailand
 Ansyan - see Thailand
 Ansyane - see Thailand
 An-te-man shan - see Andaman (Milis, n. 12)
-AN TINH - town, Vietnam 14DEG19'N 109DEGO8'E Other: An Buong
+AN TINH - town, Vietnam 14DEG19'N 109DEG08'E Other: An Buong
 An-to-man kwoh - see Andaman (Schlegel "B", p. 188)
 An-tu-man - see Andaman (Mills, n. 12)
 Ao yu shan - see Buaya (Mills, n. 14)
@@ -127,12 +127,12 @@ Aracan - see Arakan (Guehler, p. 267; Cordier, p. 228)
 Aracangil - see Arakan
 Aracan Yoma - see Arakanyoma
 Arackan - see Arakan
-ARAKAN - region, Burma 19DEGOO'N 94DEG15'E Other: A-lo-han; Aracan; Aracangil; Arackan; Araquan; Argire; Argyra; Argyre?; Arracan; Arracao; Arrakan; Mogen; Rahkaing; Rahkaingpyi; Recon; Rokhang
+ARAKAN - region, Burma 19DEG00'N 94DEG15'E Other: A-lo-han; Aracan; Aracangil; Arackan; Araquan; Argire; Argyra; Argyre?; Arracan; Arracao; Arrakan; Mogen; Rahkaing; Rahkaingpyi; Recon; Rokhang
 Arakan Hills - see Arakanyoma
-ARAKAN TOWN - Burma 19DEGOO'N 94DEG15'N Other: Lo-k'eng; Myauku
-ARAKANYOMA - mountain range, Burma-India 19DEGOO'N 94DEG40'R Other: Aracan Yoma; Arakan Hills range includes: Chin Hills, Lushai Hills, and Naga Hills
+ARAKAN TOWN - Burma 19DEG00'N 94DEG15'N Other: Lo-k'eng; Myauku
+ARAKANYOMA - mountain range, Burma-India 19DEG00'N 94DEG40'R Other: Aracan Yoma; Arakan Hills range includes: Chin Hills, Lushai Hills, and Naga Hills
 ARAMASA - river, Indonesia 2DEG25'S 133DEG50'E Other: Naremas
-ARA NIBONG - river, Brunei 4DEGO8'N 114DEG39'E Other: Aranidong
+ARA NIBONG - river, Brunei 4DEG08'N 114DEG39'E Other: Aranidong
 Aranidong - see Ara Nibong
 Araquan - see Arakan
 Arau - see Aru (Crawfurd, p. 23)
@@ -152,10 +152,10 @@ Arramana - see Pegu
 Arroe - see Aru
 Arrow Shoopting Mountain - see Banang
 Arru - see Aru (Cordier, text, col. 1217)
-ARU - islands and ancient state, Indonesia 6DEGOO'S 134DEG30'E
+ARU - islands and ancient state, Indonesia 6DEG00'S 134DEG30'E
 Other: Aaru; A-lou; A-1u; Ara; Arau; Arroe; Aroe; Arru;
-Haru; Recandaru; Regno Daruu; Ya-lu ARUAH - islands, Indonesia 2DEG52'N 100DEG34'E Other: Chi ku hst Arucetto - see Haruku (Pigafetta, v. 2, p. 225, n. 570) Arucheto - see Haruku (Pigafetta, v. 2, p. 225, n. 570) ARURI - island, Indonesia ODEG52'N 135DEG26'E Other: Noefadoeai Asaan - see Asahan (Crawfurd, p. 24) ASAHAN - river, Indonesia 3DEGO2'N 99DEG52'E Other: Asaan ASARAMIRUBA - river, Papua-New Guinea 8DEG15'S 143DEG30'E Other: Segaraturi Asion - see Thailand (de Campos, p. 215) Assan - see Marinduque (Quirino, p. 67) Asses Ears - see Lingga ASUASANG - mountain, Indonesia 1DEG48'N 109DEG29'g Other: T'ung ku shan Atchin - see Achin (Cordier, p. 229) 
-ATINGGOLA - town, Indonesia ODEG53'N 123DEGO8'E Other: Kattinggola 
+Haru; Recandaru; Regno Daruu; Ya-lu ARUAH - islands, Indonesia 2DEG52'N 100DEG34'E Other: Chi ku hst Arucetto - see Haruku (Pigafetta, v. 2, p. 225, n. 570) Arucheto - see Haruku (Pigafetta, v. 2, p. 225, n. 570) ARURI - island, Indonesia ODEG52'N 135DEG26'E Other: Noefadoeai Asaan - see Asahan (Crawfurd, p. 24) ASAHAN - river, Indonesia 3DEG02'N 99DEG52'E Other: Asaan ASARAMIRUBA - river, Papua-New Guinea 8DEG15'S 143DEG30'E Other: Segaraturi Asion - see Thailand (de Campos, p. 215) Assan - see Marinduque (Quirino, p. 67) Asses Ears - see Lingga ASUASANG - mountain, Indonesia 1DEG48'N 109DEG29'g Other: T'ung ku shan Atchin - see Achin (Cordier, p. 229) 
+ATINGGOLA - town, Indonesia ODEG53'N 123DEG08'E Other: Kattinggola 
 Atjeh - see Achin 
 Atschin - see Achin 
 Atsjin - see Achin Attabas - see Pahang River (Wheatley, p. 149) 
@@ -164,7 +164,7 @@ Auru;
 Other: Aor; Awari; Hsi chu shan; Pulo la ore; Tung Chu shan;
 Tung Hsi chu Aurea Quersoneo - see Malay Peninsula (Lach, p. 574) Aureae Chersonesi - see Malay Peninsula (Wheatley, Pe 173) Auru - see Aru AVA - town, Burma 21DEG51'N 95DEG58'E
 Other: Aba; Ang Wa; Ara; A-wa; Awa; Awak; D'aba; Da'va;
-Dava; Eng Wa; Macinus; Mahachin; Ratanapura AVA - point, Papua-New Guinea 10DEG35'S 149DEG50'E Other: Cone Point A-wa - see Ava (Mills, n.7) Awa — see Ava (Meersman, p. 356) Awak - see Ava (Crawfurd, p. 429) Awar - see Aur (Crawfurd, p. 25) Ay - see Ai Aynam - see Annam Ayodhyapura - see Ayuthia Ayogyakarta - see Jogjakarta (Crawfurd, p. 448) AY ON - town, Laos 21DEGO3'N 101DEG36'E Other: Ai One Ayudhia - see Ayuthia (R.F.G., p. 196) Ayudhya - see Ayuthia Ayuga-Karta - see Jogjakarta
+Dava; Eng Wa; Macinus; Mahachin; Ratanapura AVA - point, Papua-New Guinea 10DEG35'S 149DEG50'E Other: Cone Point A-wa - see Ava (Mills, n.7) Awa — see Ava (Meersman, p. 356) Awak - see Ava (Crawfurd, p. 429) Awar - see Aur (Crawfurd, p. 25) Ay - see Ai Aynam - see Annam Ayodhyapura - see Ayuthia Ayogyakarta - see Jogjakarta (Crawfurd, p. 448) AY ON - town, Laos 21DEG03'N 101DEG36'E Other: Ai One Ayudhia - see Ayuthia (R.F.G., p. 196) Ayudhya - see Ayuthia Ayuga-Karta - see Jogjakarta
 AYUTHIA - Town, Thailand 14DEG21'N 100DEG33'E Other: Ayodhyapura; Ayudhia; Ayudhya; Ayutia; Ayutthaya; Cereaci; Cerener; Crung; Hudia; India; Iudia; Iudica; Judia; Juthya; Krung Kao; Odia; Sarnao; Sarnau; Sarnaur; Shahr-i-nao; Shahr-i-naw; Shaiyr-I Naw; Sharnau; Siyuthia; Sornao; Sorna; Sornam; Sornau; Udia; Yodaya; Yu-ti-ya; Yuthia; Zerena
 Ayutia - see Ayuthia (Hutchinson, p. 94)
 Ayutthaya - see Ayuthia (I.S.S.E.A., p. 76; Smith, p. 264)
@@ -195,10 +195,10 @@ Bagou - see Pegu (Lach, p. 540)
 Baibai and Ceilon - see Leyte (Quirino, fig. 8)
 Bai Can - see Bai Canh
 BAI CANH, HON - island, Vietnam 8DEG40'N 106DEG41'E Other: Bai Can
-BAJUR, TELUK - bay, Indonesia 1DEGO1'S 100DEG22'E Other: Brandewynsbaai; Emmahaven; Koningine; Tulukba jur
+BAJUR, TELUK - bay, Indonesia 1DEG01'S 100DEG22'E Other: Brandewynsbaai; Emmahaven; Koningine; Tulukba jur
 Bakian - see Batjan
 Balaba - see Palawan
-BALABAC - island, Philippines 7DEG57'N 117DEGO1'E Other: Balabak; Bibalon; Lo fu shan
+BALABAC - island, Philippines 7DEG57'N 117DEG01'E Other: Balabak; Bibalon; Lo fu shan
 Balabak - see Balabac (P.C.G.N., p. 2)
 Balabalaga - see Balabalangan
 BALABALANGAN - islands, Indonesia 2DEG20'S 117DEG25'E Other: Balabalaga; Little Paternosters
@@ -209,12 +209,12 @@ BALANAWANG - harbor, Papua-New Guinea 4DEG05'S 152DEG30'1 Other: Port Hunter
  
 uj
 Balayan - see Batangas (Crawfurd, p. 43)
-BALEH - river, Malaysia 2DEGO1'N 113DEGO1'E Other: Other: Jengayan
-BALI - island, Indonesia 8DEG20'S 115DEGOO'E Other: Chorum?; Mo-li shan; P'o-1i; Po-Li?
+BALEH - river, Malaysia 2DEG01'N 113DEG01'E Other: Other: Jengayan
+BALI - island, Indonesia 8DEG20'S 115DEG00'E Other: Chorum?; Mo-li shan; P'o-1i; Po-Li?
 BALI PEAK - volcano, Indonesia 8DEG21'S 115DEG30'E Other: Agoeng; Agung
 BALUAN - island, Papua-New Guinea 2DEG35'S 147DEG20'1 Other: Saint Patrick
 Balus - see Barus (Wheatley, p. 218)
-BAM - island, Papua-New Guinea 3DEG35'S 145DEGOO'E Other: Lesson
+BAM - island, Papua-New Guinea 3DEG35'S 145DEG00'E Other: Lesson
 Bamo - see Bhamo
 Bamoo - see Bhamo
 Banagh - see Pahang (Wheatley, p. 237)
@@ -264,13 +264,13 @@ Bankoc - see Bangkok (F.F.S.M., p. 157)
 Bankok - see Bangkok
 Ban Loppadi Chok - see Loppadichok
 Ban Mak Khaeng - see Udonthani
-BAN ME THUOT - town, Vietnam 12DEG41'N 108DEGO2'E Other: Buon Me Thuot; Lac Giao
-BANTAM - town, Indonesia 6DEGO3'S 106DEG09'E Other: Bantan: Banten: Hsia chiang; Shun-t'a
+BAN ME THUOT - town, Vietnam 12DEG41'N 108DEG02'E Other: Buon Me Thuot; Lac Giao
+BANTAM - town, Indonesia 6DEG03'S 106DEG09'E Other: Bantan: Banten: Hsia chiang; Shun-t'a
 Bantan - see Bantam (Crawfurd, p. 38)
 Banten - see Bantam
 Bantigui - see Bocboc
 Bantolinao - see Bantulin
-BANTULIN - point, Philippines 10DEG55'N 124DEGO3'E Other: Bantolinao
+BANTULIN - point, Philippines 10DEG55'N 124DEG03'E Other: Bantolinao
 Banyermassing - see Banjarmasin
 Ba Phnom - see Banam (Cordier, p. 230)
 Barahla - see Berhala
@@ -285,15 +285,15 @@ Baros - see Barus (Wheatley, p. 220)
 Barow - see Brunei
 Baru - see Buru
 Baruez - see Barus
-BARUS - town and island, Indonesia 2DEGOO'N 98DEG24'E Other: Balus; Baros: Baruez; Fan-su-erh; Fansur; Ku-li Pan-tsu; P'o-lu-shih; Pan-tsu; Pan-Tsuh-Urh; Panchur; Pansur
+BARUS - town and island, Indonesia 2DEG00'N 98DEG24'E Other: Balus; Baros: Baruez; Fan-su-erh; Fansur; Ku-li Pan-tsu; P'o-lu-shih; Pan-tsu; Pan-Tsuh-Urh; Panchur; Pansur
 Ba Sak - see Can Tho
 Basalar - see Jugra (Wheatley, p. 234)
 Basay - see Bashi
 Bashee - see Bashi (Crawfurd, p. 40)
 BASHI - islands, Philippines 20DEG30'N 121DEG50'E Other: Bashee; Basay; Batan; Batanes; Grafton; Ibugos
 Basila - see Basilan (Quirino, p. 67)
-BASILAKI - island, Papua-New Guinea 10DEG35'S 151DEGOO'E Other: Moresby
-BASILAN - island, Philippines 6DEG34'N 122DEGO3'E Other: Basila; Tagema; Taghima; Tagimar; Taglima; Tagyto; Tamgym; Tanguima
+BASILAKI - island, Papua-New Guinea 10DEG35'S 151DEG00'E Other: Moresby
+BASILAN - island, Philippines 6DEG34'N 122DEG03'E Other: Basila; Tagema; Taghima; Tagimar; Taglima; Tagyto; Tamgym; Tanguima
 Basma - see Pasai
 Basman - see Pasai
 Bassac - see 1. Champasak (I.S.S.E.A., p. 66; Cordier, p. 231) 2. Hau Giang
@@ -305,7 +305,7 @@ Batagh - see Pinang (Wheatley, p. 237)
 Batan - see Bashi (Quirino, p. 67; Crawfurd, p. 43)
 Batanes - see Bashi (Crawfurd, p. 43)
 Batani - see Patani (Wheatley, p. 235)
-BATANGAS - province, Philippines 13DEG55'N 121DEGO5'E Other: Balayan; Mo-lao-yang chiang
+BATANGAS - province, Philippines 13DEG55'N 121DEG05'E Other: Balayan; Mo-lao-yang chiang
 Batavia - see Jakarta (Crawfurd, p. 44; Room, p. 58) [Taylor, p. 77 notes that the name was derived from "Bet-au" - "the good (or better) land".]
 BATEK - island, Indonesia 9DEG16'S 123DEG59'E Other: Bacham; Bachan; Bachian; Bakian; Batjian; Mandioli; Pachel?; Pulongha?; Seque
 Ba Thac - see Khanh Hung
@@ -318,7 +318,7 @@ Batochina do Moro - see Halmahera (Lach, p. 504)
 10
 Bato Tsima - see Halmahera
 Batsch - see Botiangin (U.S., p. 43)
-BATU - islands, Indonesia 7DEGO1'S 120DEG44'E Other: Masa [actually one of the group]
+BATU - islands, Indonesia 7DEG01'S 120DEG44'E Other: Masa [actually one of the group]
 Batu China - see Halmahera
 Batudaka - see Schildpad
 Batu Ket jil - see Betua
@@ -358,7 +358,7 @@ Beraw - see Brunei
 BERBAK - river, Indonesia 1DEG04's 104DEG12'E1f, McCluer Gulf
 Berau Peninsula - see Deberai (Room, pe 32)
 Beraw - see Brunei
-BERBAK - river, Indonesia 1DEGO4'S 104DEG12'E Other: Pai-pi chiang
+BERBAK - river, Indonesia 1DEG04'S 104DEG12'E Other: Pai-pi chiang
 BERHALA - strait, Indonesia ODEG48'S 104DEG25'E
 Other: Ling-ya-men; Lingga Strait
  
@@ -375,7 +375,7 @@ BETUNG -- bay, Indonesia 5DEG28'S 105DEG28'E Other: Oosthaven; Pand jang
 BHAMO - town, Burma 24DEG16'N 97DEG14'E Other: Bamo; Bamoo; Manmaw
 Bhoga - see Palembang
 Bhuket - see Phuket
-BIAK - island, Indonesia 1DEGOO'S 136DEGOO'E Other: Wiak
+BIAK - island, Indonesia 1DEG00'S 136DEG00'E Other: Wiak
 Biaro - see Roang
 Bibalon - see Balabac (Quirino, p. 67)
 Bicaia - see Davao (Quirino, p. 68)
@@ -390,15 +390,15 @@ BIMA - town, Indonesia 8DEG28'S 118DEG43'E Other: Kore
 Bimaya - see Pimai
 Bimta - see Bintan
 Bimtam - see Bintan
-BINANAN - island, Philippines 11DEGO9'N 123DEGO5'E Other: Binauan
+BINANAN - island, Philippines 11DEG09'N 123DEG05'E Other: Binauan
 BINANGA - town, Philippines 14DEG45'N 120DEG15'E Other: Minangas
-BINATURI - river, Papua-New Guinea 9DEGO5'S 143DEGOO'E Other: Katau
+BINATURI - river, Papua-New Guinea 9DEG05'S 143DEG00'E Other: Katau
 Binauan - see Binanan
 BINAY - town, Philippines 13DEG30'N 122DEG36'E Other: Oacan
-BINH DINH - town, Vietnam 14DEGO6'N 108DEG47'E Other: Cha-ban; She-p'an; Vijaya
+BINH DINH - town, Vietnam 14DEG06'N 108DEG47'E Other: Cha-ban; She-p'an; Vijaya
 YA
 BINH XUAN - town, Vietnam 15DEG39'N 108DEG24'E Other: An Dai
-BINTAN - island, Indonesia 1DEGO5'N 104DEG30'E Other: Bentan; Bent&o; Bimta; Bimtam; Bintang; Bintaon; Byntaon; Pentam; Pentan; Pentayn; Pentera; Penthera; Pontain
+BINTAN - island, Indonesia 1DEG05'N 104DEG30'E Other: Bentan; Bent&o; Bimta; Bimtam; Bintang; Bintaon; Byntaon; Pentam; Pentan; Pentayn; Pentera; Penthera; Pontain
 Bintang - see Bintan (Crawfurd, p. 53)
 Bint&o - see Bertam
 Bintaon - see Bintan
@@ -435,7 +435,7 @@ Bolbok, - see San Juan
 BOLINAO - cape, Philippines 16DEG22'N 119DEG50'E Other: Piao shan; Ma-li-1ao hstt; Ma-li-lao piao shan: Mandoto
 Boman - see Burma (Schlegel "A", p. 380)
 Bombon - see Taal (Crawfurd, p. 424)
-BO'NE - gulf, Indonesia 4DEGOO'S 120DEG40'E Other: Bo'Ni
+BO'NE - gulf, Indonesia 4DEG00'S 120DEG40'E Other: Bo'Ni
  
 uj
 13
@@ -447,7 +447,7 @@ Bonthein - see Bonthain
 Bonti - see Bonthain
 Borne - see Brunei
 Bornei - see Brunei (Lach, p. 503)
-BORNEO - island, Brunei/Malaysia/Indonesia 1DEGOO'N 114DEGOO'E Other: Ho-ling; Java Menore; Karpuradvipa; P'o-10 [See also Brunei.]
+BORNEO - island, Brunei/Malaysia/Indonesia 1DEG00'N 114DEG00'E Other: Ho-ling; Java Menore; Karpuradvipa; P'o-10 [See also Brunei.]
 Borneo Proper - see Brunei (Crawfurd, p. 66)
 Borneo Town - see Bandar Seri Begawan
 Borneo Utara - see Sabah
@@ -456,7 +456,7 @@ BOROMOMUBA - island, Papua-New Guinea 8DEG30'S 143DEG15'E Other: Buncie
 Bosman - see Pasai
 BOTIANGIN - cape, Papua-New Guinea 2DEG40'S 150DEG10'E Other: Batsch
 Bougainville (Cape) - see Metlik (U.S., p. 47)
-BOUGAINVILLE BAY - Papua-New Guinea 2DEG35'S 141DEGOO'E Other: Oinake
+BOUGAINVILLE BAY - Papua-New Guinea 2DEG35'S 141DEG00'E Other: Oinake
 Bournee - see Brunei
 Bourni - see Brunei
 Bouro - see Buru
@@ -496,14 +496,14 @@ Buglas - see Negros (Quirino, p. 68)
 Buitenzorg - see Bogor (Crawfurd, p. 76; Room, p. 15)
 Bukit Jugra - see Jugra
 BUKITTINGGI - town, Indonesia ODEG19'S 100DEG22'E [site of Fort de Kock]
-BULACAN - province, Philippines 15DEGOO'N 121DEGO5'E Other: Mecatlayan
+BULACAN - province, Philippines 15DEG00'N 121DEG05'E Other: Mecatlayan
 Bun-lai - see Brunei (Brown, p. 132)
 Buncie - see Boromomuba (U.S., p. 37)
 Bungoran - see Natuna Besar
 Buon Me Thuot - see Ban Me Thuot
 Buraghmah - see Burma (Schlegel "A", p. 380)
-BURIAS - island, Philippines 12DEG57'N 123DEGO8'E Other: Gabion; Mataban; Vireies; Vire jos
-BURIRAM - town, Thailand 15DEGOO'N 103DEGO7'E Other: Puriramya
+BURIAS - island, Philippines 12DEG57'N 123DEG08'E Other: Gabion; Mataban; Vireies; Vire jos
+BURIRAM - town, Thailand 15DEG00'N 103DEG07'E Other: Puriramya
 BURMA - nation, Southeast Asia Other: Barma; Berma; Birma; Birmah; Birmanie; Birmoi; Boman; Brahma; Brama; Brema; Buraghmah; Burmah; India Extra Gangem; India Without Ganges; Kawl; Mianma; Mien; Mien tien; Mranma; Pagan; Po-lo-mun; Rahma: Ramannadesa; Vai; Varma; Verma
 Burmah - see Burma
 Burnai - see Brunei (Lach, p. 503; Crawfurd, p. 64)
@@ -512,17 +512,17 @@ Burneo - see Brunei (Pigafetta, v. 2, p. 198, n. 398)
 Burni - see Brunei
 BURU - island, Indonesia 3DEG24'S 126DEG40'E Other: Baru; Boeroe; Bouro; Buero
 Buruneng - see Brunei (Brown, p. 132)
-BUSHANGA - island, Philippines 12DEG05'N 120DEGO5'E Other: Busuagan; Mang yen shan; Pa-ki-nung
+BUSHANGA - island, Philippines 12DEG05'N 120DEG05'E Other: Busuagan; Mang yen shan; Pa-ki-nung
 Busuangan - see Bustlanga
 Buton - see Butung (P.C.G.N., p. 3)
 15
 Butuan 8. Caleghan - see Mindanao
-BUTUNG - island, Indonesia 5DEGOO'S 122DEG55'E Other: Boeton; Bouton; Buton
+BUTUNG - island, Indonesia 5DEG00'S 122DEG55'E Other: Boeton; Bouton; Buton
 Buwang Basi - see Haruku (Crawfurd, p. 147)
 Byntaon - see Bintan
 16
 Caba - see Champa
-CABICUNGAN - town, Philippines 18DEG37'N 121DEGO5'E Other: Claveria
+CABICUNGAN - town, Philippines 18DEG37'N 121DEG05'E Other: Claveria
 Cabo - see Cebu (Pigafetta, v. 1, p. 256, n. 265)
 Cabue - see Cebu (Quirino, p. 68)
 CABULAUAN - island, Philippines 11DEG25'N 120DEG08'E Other: Sombrero
@@ -535,12 +535,12 @@ Cagayan de Jolo - see Cagayan Sulu (Crawfurd, p. 79)
 Cagayan de Sulu - see Cagayan Sulu
 CAGAYAN ISLANDS - Philippines 9DEG40'N 121DEG37'E Other: Bangaia; Cagayannes; Caghaiam; Cangaia; Kagayan
 Cagayannes - see Cagayan Islands (Quirino, p. 68)
-CAGAYAN SULU - island, Philippines 7DEGO1'N 118DEG30'E Other: Cagaiam; Cagaian; Cagayan de Jolo; Cagayan de Sulu; Caghaian; Caram; Cayta; Fagajam; Mauritius; Quagayan
+CAGAYAN SULU - island, Philippines 7DEG01'N 118DEG30'E Other: Cagaiam; Cagaian; Cagayan de Jolo; Cagayan de Sulu; Caghaian; Caram; Cayta; Fagajam; Mauritius; Quagayan
 Cagayau - see Cagayan River
 Caghaiam - see Cagayan Islands (Quirino, p. 68)
 Caghaian - see Cagayan Sulu (Lach, p. 637)
 Caidon - see Panaon (Quirino, p. 68)
-CAIMANES - river, Philippines 8DEGOO'N 117DEGO3'E Other: Gading; Libungan
+CAIMANES - river, Philippines 8DEG00'N 117DEG03'E Other: Gading; Libungan
 Calabashes, Island of - see Condore
 Calabats - see Sulawesi
 Calabres - see Sulawesi
@@ -548,7 +548,7 @@ Calaghan - see Mindanao
 Calaghann - see Mindanao
 Calamgor - see Selangor (Wheatley, p. 317)
 Calamianes - see 1, Calamians (Quirino, p. 68) 2. Palawan (Quirino, p. 71)
-CALAMIANS - islands, Philippines 12DEGOO'N 120DEGOO'E Other: Calamianes; Calamines; Calomiands?; Chia-ma-yen; Islands of Canes; Kia-ma-yen
+CALAMIANS - islands, Philippines 12DEG00'N 120DEG00'E Other: Calamianes; Calamines; Calomiands?; Chia-ma-yen; Islands of Canes; Kia-ma-yen
 Calamines - see Calamians
 Calantam - see Kelantan
 Calantan - see Kelantan (Pigafetta, v. 2, p. 231, n. 587; Crawfurd, p. 80)
@@ -560,7 +560,7 @@ Calivo - see Kalibo
 Calomiands - see 1. Calamians 2. Palawan
 17
 Camatra - see Sumatra
-CA MAU - town, Vietnam 9DEG11'N 105DEGO8'E Other: Camau; Quan Long
+CA MAU - town, Vietnam 9DEG11'N 105DEG08'E Other: Camau; Quan Long
 CAMAU - point, Vietnam 8DEG38'N 104DEG44'E Other: Cambodia Point; Cap Ong-dok: Mui Bai Bung; Tuk-Khmau
 Camau (Town) - see Ca Mau
 Camba - see Champa
@@ -586,9 +586,9 @@ Candapuri - see Chanthaburi
 Candaya - see Samar (Quirino, p. 68)
 Canes, Islands of - see Calamians
 Cangaia - see Cagayan Islands (Quirino, p. 68)
-CANLAON - volcano, Philippines 10DEG25'N 123DEGO8'E Other: Malaspina
+CANLAON - volcano, Philippines 10DEG25'N 123DEG08'E Other: Malaspina
 Canola - see Zamboanga (Quirino, p. 68)
-CAN THO - town, Vietnam 10DEGO2'N 105DEG47'R Other: Ba-sak; Ba-thak; Tran Di Dao
+CAN THO - town, Vietnam 10DEG02'N 105DEG47'R Other: Ba-sak; Ba-thak; Tran Di Dao
 Cao-men - see Kampuchea
 Cape Bolinao - see Bolinao
 Cape Botiangin - see Botiangin
@@ -616,11 +616,11 @@ Caplan - see Capelam
 Cap Mui Ron - see Ron
 Cap Mui Ron Ma - see Ron
 Cap Ong-dok - see Camau Point
-CAPONES - islands, Philippines 14DEG55'N 120DEGO1'E Other: T'ou chin chiao
+CAPONES - islands, Philippines 14DEG55'N 120DEG01'E Other: T'ou chin chiao
 Cap St. Jacques - see Vung Tau
 Cap Varella - see Varella
 Capyam - see Kipit (Pigafetta, v. 2, p. 196, n. 390)
-CARABALLO - mountains, Philippines 16DEGO8'N 121DEGO5'E Other: Caraballos; Cordillera Central
+CARABALLO - mountains, Philippines 16DEG08'N 121DEG05'E Other: Caraballos; Cordillera Central
 Caraballos - see Caraballo
 Caram - see Cagayan Sulu (Pigafetta, v. 2, p. 197, n. 395)
 Caranguor - see Selangor
@@ -667,11 +667,11 @@ Ceylan - see Sri Lanka (Cordier, p. 238)
 Ceylom - see Leyte (Pigafetta, v. 1, p. 255, n. 251)
 Ceylon - see 1. Leyte (Quirino, p. 69) 2. Panaon (Lach, p. 630) 3. Sri Lanka (Room, p. 150)
 Cha-ban - see Binh Dinh (Mills, n. 536; I.S.S.E.A., p. 239)
-CHACHOENGSAO - town, Thailand 13DEG42'N 101DEGO5'E Other: Chaxerngsao
+CHACHOENGSAO - town, Thailand 13DEG42'N 101DEG05'E Other: Chaxerngsao
 CHAINAT - town, Thailand 15DEG11'N 100DEG08'E Other: Jainat; Jayanada
 Chaine Annamitique - see Annamite
 CHAIYA - town, Thailand 9DEG23'N 99DEG14'E Other: Ch'ih-tzu; Chia-1o-hsi; Grahi; Hsieh-tzu; Ka-1o-hei; P'an-p'an; Pan-Pan?
-CHAIYAPHUM - town, Thailand 15DEG48'N 102DEGO2'E Other: Jatabhumi; Jayabhumi; Jayabum
+CHAIYAPHUM - town, Thailand 15DEG48'N 102DEG02'E Other: Jatabhumi; Jayabhumi; Jayabum
 Chalachap - see Chilachap
 Chalang - see Phuket
 Chamba - see Champa
@@ -695,14 +695,14 @@ Chan la chiang - see Song Nha Be (Mills, n. 19)
 Chan p'u shan - see Chau Vien (Mills, n. 23)
 Chan-pei - see Jambi (Mills, n. 20)
 Chantabun - see Chanthaburi
-CHANTHABURI - town, Thailand 12DEG36'N 102DEGO9'R Other: Candapuri; Chantabun; Jandibum; Jantaburi
+CHANTHABURI - town, Thailand 12DEG36'N 102DEG09'R Other: Candapuri; Chantabun; Jandibum; Jantaburi
 Chao Phraya - see Menam Chao Phraya
 Chao wa - see Java (Mills, n. 32; Wheatley, p. 89; BB SA DAN Ae, p. 234)
 Chaou-dok - see Chau Doc
 Chapo - see Java
 Ch'a-p'an - see Tioman
 CHATHINGPHRA - town, Thailand 7DEG46'N 100DEG19'E Other: Ranot
-CHAU DOC - town and region/province, Vietnam 10DEG42'N 105DEGO7'E Other: An Giang; Angiang; An Ha; Chaou-dok; Chaudoc; Chau Phu; Meat Chrouk; Tyaou-dok
+CHAU DOC - town and region/province, Vietnam 10DEG42'N 105DEG07'E Other: An Giang; Angiang; An Ha; Chaou-dok; Chaudoc; Chau Phu; Meat Chrouk; Tyaou-dok
 Chaudoc - see Chau Doc
 Chau Phu - see Chau Doc
 CHAU VIEN (NUI) - mountain, Vietnam 10DEG24'N 107DEG16'E Other: Chan p'u shan
@@ -763,7 +763,7 @@ Chih-t'u - see Phatthalung (Wheatley, pp. 32-33 notes simply a place on the Mala
 Ch'ih-tzu - see Chaiya
 Chi ku hsti - see Aruah (Mills, n. 47)
 Chi-kuo - see Champa
-CHILACHAP - town, Indonesia 7DEG44'S 109DEGOO'E Other: Chalachap; Tjilatjap
+CHILACHAP - town, Indonesia 7DEG44'S 109DEG00'E Other: Chalachap; Tjilatjap
 Chi-1an-chou - see Kelantan (Wheatley, p. 71)
  
 22
@@ -813,7 +813,7 @@ Chorum - see Bali (?Pigafetta, v. 2, p. 228, n. 585)
 Chotomuj - see Ko Tao Mo (Wheatley, p. 320)
  
 23
-Chryse - see Malay Peninsula (Wheatley, p. 284; Herrmann, p. 19 notes also north-central Burma) Chuan-10-p'o-ti - see Dvaravati Chu-ch'i ma shan - see Zamboanga (?Mills, n. 125) Chudermuch - see Phnom Penh (Lach, p. 566) Chien ytan - see Bidong Laut (Mills, n. 139) Chu hst - see 1. Ba (Mills, n. 126) 2. Mundu (Mills, n. 128) Chu-li-mu - see Phnom Penh (Mills, n. 130) C'hu luan wu - see Nicobar (Mills, n. 137) Chu-man - see Tuban (Mills, n. 132) Ch'u-ma shan - see Tioman (Mills, n. 138; Wheatley, p. 96) CHUMPHON - town, Thailand 10DEG20'N 98DEG50'E Other: Jumporn Chung chia 10 - see Tambora (Mills, n. 141) Ciaban - see Champa Ciama - see Thailand Ciamba - see Champa Ciampa - see Champa Cidayo - see Sidayu (Lach, p. 588) Cilan - see Sri Lanka Cingapura - see Singapore Cinghapola - see Singapore (Pigafetta, v. 2, p. 231, n. 597) Cipara ma did Japara (Lach, p. 589; Pigafetta, v. 2, p. 229, n. 587 Ciparasidain - corruption of Japara and Sidayu Cippit - see Kipit Cirion - see Syriam Cirubaia - see Surabaya (Pigafetta, v. 2, p. 229, n. 587) City of the Angels - see Bangkok City of the Lord of the Dharma - see Nakhon Si Thammarat Clam - see Klang (Wheatley, p. 319) Clamtam - see Kelantan (Wheatley, p. 317) Claveria - see Cabicungan Clear River - see Song Lo (Murzayev, p. 819) Clove Islands - see Moluccas (Crawfurd, p. 430) Coala Penagy - see Kuala Linggi Cochi - see Cochin China Cochii - see Cochin China COCHIN CHINA - region, Vietnam 11DEGOO'N 107DEGOO'E Other: Cochi; Cochii; Cochinchine; Cotchin-Djina; Kuchi; Nam Phan; Nam-Bo; Nam-Ky; Quinam Cochinchine - see Cochin China (Cordier, p. 241) Coconut Land - see Nicobar (Wheatley, p. 283) COCOS - islands, Australia 11DEG50'S 90DEG50'E Other: Keeling Islands Coi - see Song Hong COLORADA - point, Philippines 13DEG10'N 123DEGOO'E Other: Norte Comodo - see Komodo (Crawfurd, p. 115) Con Dao - see Condore Condor - see Condore
+Chryse - see Malay Peninsula (Wheatley, p. 284; Herrmann, p. 19 notes also north-central Burma) Chuan-10-p'o-ti - see Dvaravati Chu-ch'i ma shan - see Zamboanga (?Mills, n. 125) Chudermuch - see Phnom Penh (Lach, p. 566) Chien ytan - see Bidong Laut (Mills, n. 139) Chu hst - see 1. Ba (Mills, n. 126) 2. Mundu (Mills, n. 128) Chu-li-mu - see Phnom Penh (Mills, n. 130) C'hu luan wu - see Nicobar (Mills, n. 137) Chu-man - see Tuban (Mills, n. 132) Ch'u-ma shan - see Tioman (Mills, n. 138; Wheatley, p. 96) CHUMPHON - town, Thailand 10DEG20'N 98DEG50'E Other: Jumporn Chung chia 10 - see Tambora (Mills, n. 141) Ciaban - see Champa Ciama - see Thailand Ciamba - see Champa Ciampa - see Champa Cidayo - see Sidayu (Lach, p. 588) Cilan - see Sri Lanka Cingapura - see Singapore Cinghapola - see Singapore (Pigafetta, v. 2, p. 231, n. 597) Cipara ma did Japara (Lach, p. 589; Pigafetta, v. 2, p. 229, n. 587 Ciparasidain - corruption of Japara and Sidayu Cippit - see Kipit Cirion - see Syriam Cirubaia - see Surabaya (Pigafetta, v. 2, p. 229, n. 587) City of the Angels - see Bangkok City of the Lord of the Dharma - see Nakhon Si Thammarat Clam - see Klang (Wheatley, p. 319) Clamtam - see Kelantan (Wheatley, p. 317) Claveria - see Cabicungan Clear River - see Song Lo (Murzayev, p. 819) Clove Islands - see Moluccas (Crawfurd, p. 430) Coala Penagy - see Kuala Linggi Cochi - see Cochin China Cochii - see Cochin China COCHIN CHINA - region, Vietnam 11DEG00'N 107DEG00'E Other: Cochi; Cochii; Cochinchine; Cotchin-Djina; Kuchi; Nam Phan; Nam-Bo; Nam-Ky; Quinam Cochinchine - see Cochin China (Cordier, p. 241) Coconut Land - see Nicobar (Wheatley, p. 283) COCOS - islands, Australia 11DEG50'S 90DEG50'E Other: Keeling Islands Coi - see Song Hong COLORADA - point, Philippines 13DEG10'N 123DEG00'E Other: Norte Comodo - see Komodo (Crawfurd, p. 115) Con Dao - see Condore Condor - see Condore
 24
 CONDORE - islands, Vietnam 8DEG43'N 106DEG36'E Other: Con Dao; Condor; Con-non; Con Son; Hsiao K'un-1un; Island of Calabashes; Java Minor?; Kondor; Kon-Non; Kun-1un; K'un-lun shan; Kundur; Poulo Condore
 Cone Point - see Ava Point (U.S., p. 20)
@@ -829,10 +829,10 @@ Cosmi - see Bassein (Lach, facing p. 608)
 Cosmin - see Bassein (Lach, p. 541)
 Cotchin-Djina - see Cochin China
 Cotinuo - see Ko Tao Mo (Wheatley, p. 320)
-COTO (NUI) - mountain, Vietnam 10DEG27'N 105DEGOO'E Other: Nui Soa Ton; Nui Xoui Ton; Phnom Kto
+COTO (NUI) - mountain, Vietnam 10DEG27'N 105DEG00'E Other: Nui Soa Ton; Nui Xoui Ton; Phnom Kto
 Cotom - see Cu Lao Re
 Cracketouw - see Krakatau
-CRAN - bay, Philippines 9DEGO6'N 117DEG43'E Other: Eran
+CRAN - bay, Philippines 9DEG06'N 117DEG43'E Other: Eran
 Cressi - see Gresik (Lach, p. 589)
 Croampa - see Champa
 Crung - see Ayuthia
@@ -844,15 +844,15 @@ Cubu - see Cebu (Quirino, p. 68)
 Cubur - see Cebu (Quirino, p. 68)
 Cu Lao Hon - see Cu Lao Thu
 CU LAO LOI QUAN - island, Vietnam 10DEG18'N 106DEG38'E Other: Mao hsieh chou
-CU LAO RE - island, Vietnam 15DEG24'N 109DEGO6'E Other: Isle de Poulo Canton; Poulo Canton; Pulo Cotom; Wai lo shan
+CU LAO RE - island, Vietnam 15DEG24'N 109DEG06'E Other: Isle de Poulo Canton; Poulo Canton; Pulo Cotom; Wai lo shan
 CU LAO THU - island, Vietnam 10DEG30'N 108DEG57'E Other: Cu Lao Hon; K'ou-lao Tou; Poulo Cegir de Mer; Tai Mei chou
 Gunda - see Sunda
 Cupang - see Kupang
 Cuu-chan - see Annam
 Cuu Long - see Mekong (Murzayev, p. 817)
 Cuu Long Giang - see Mekong
-CUYO - island(s), Philippines 10DEG51'N 121DEGOO'E Other: Doyo
-CUYO - anchorage, Philippines 10DEG51'N 121DEGOO'E Other: Kao-yao chiang
+CUYO - island(s), Philippines 10DEG51'N 121DEG00'E Other: Doyo
+CUYO - anchorage, Philippines 10DEG51'N 121DEG00'E Other: Kao-yao chiang
 Cyong-Chon - see Annamite
  
 25
@@ -871,25 +871,25 @@ Dai-Co-Viet - see Vietnam
 Dai-Cu-Viet - see Vietnam
 DAIK - mountain, Indonesia ODEG12'S 104DEG33'E Other: Lingga Peak; Lung-ya ta shan
 Dai Laung Petchabun - see Luang Prabang Mountains
-DAI LOC - town, Vietnam 15DEG53'N 108DEGO7'E Other: Ai Nghia
+DAI LOC - town, Vietnam 15DEG53'N 108DEG07'E Other: Ai Nghia
 Dai Viet - see Vietnam
 Dak - see Tak
 DAKYAT-BANMAI - town, Laos 15DEG13'N 107DEG10'E Other: Douane
 Dala - see Dalla (Lach, p. 541)
-DALLA - town, Burma 16DEG45'N 96DEGO9'E Other: Dala; Dela
-DALUPIRI - island, Philippines 19DEGO5'N 121DEG14'E Other: Hung tou hst
+DALLA - town, Burma 16DEG45'N 96DEG09'E Other: Dala; Dela
+DALUPIRI - island, Philippines 19DEG05'N 121DEG14'E Other: Hung tou hst
 Dama - see Japara (Lach, p. 589)
 Damak - see Japara
 Damkong - see Ta-U
 Danan - see Krakatau
 Da Nang - see Danang
-DANANG - town, Vietnam 16DEGO4'N 108DEG13'E Other: Cua Han; Da Nang; Thu Han; Tourane; Touron
+DANANG - town, Vietnam 16DEG04'N 108DEG13'E Other: Cua Han; Da Nang; Thu Han; Tourane; Touron
 Dan-dan - see Terengganu
 Dandon - see Ambon
 Dang Dang - see Dinding (Wheatley, p. 241)
 Da Ngon - see Ho Chi Minh City
 Dangrek Mountains - see Phanom Dong Rak
-DAN KIA - lake, Vietnam 12DEGO1'N 108DEG23'E Other: Ho Dan Kia; Lac d'Ankroet
+DAN KIA - lake, Vietnam 12DEG01'N 108DEG23'E Other: Ho Dan Kia; Lac d'Ankroet
 D'Ankroet - see Dan Kia
 Dansalan - see Marawi City (Room, p. 92)
 Dao Phu Quoc - see Phu Quoc
@@ -897,17 +897,17 @@ DAPITAN - town, Philippines 8DEG39'N 123DEG25'E Other: Dapito; Na-pi-tan; Quepsi
 Dapito - see Dapitan (Quirino, p. 68)
 Dapoer - see Dapur
 26
-DAPUR - island, Indonesia 3DEGO7'S 106DEG32'E Other: Dapoer; Liang san chiao
-DATU - cape, Indonesia 2DEGO5'N 109DEG39'E Other: Tung she lung
+DAPUR - island, Indonesia 3DEG07'S 106DEG32'E Other: Dapoer; Liang san chiao
+DATU - cape, Indonesia 2DEG05'N 109DEG39'E Other: Tung she lung
 Da'va - see Ava
 Dava - see Ava (Lach, p. 541)
-DAVAO - region, Philippines 7DEGOO'N 125DEG55'E Other: Bicaia; Dabaw
+DAVAO - region, Philippines 7DEG00'N 125DEG55'E Other: Bicaia; Dabaw
 Daya - see Kediri Town (Lach, p. 589)
 DEBERAI - peninsula, Indonesia 1DEG30'S 132DEG30'E Other: Berau Peninsula; Vogelkop;
 Degu - see Rangoon (Lach, p. 555)
 Dela - see Dalla
 Demak - see Japara (Lach, p. 589)
-DEMPO - mountain, Indonesia 4DEGO2'S 103DEGO9'E Other: Heng shan
+DEMPO - mountain, Indonesia 4DEG02'S 103DEG09'E Other: Heng shan
 De Ngon - see Ho Chi Minh City (Murzayev, p. 814)
 DENPASAR - town, Indonesia 8DEG39'S 115DEG13'E Other: Badong; Badung
 Dequey - see Dequez
@@ -918,10 +918,10 @@ Dhonburi - see Thonburi
 DIAMOND ISLAND - Burma 15DEG52'N 94DEG17'E
 Other: Ma-ch'uan-chiao
 Diamond Point - see Peureulak (Wheatley, p. 101)
-DI LINH - town, Vietnam 11DEG34'N 108DEGO3'E Other: Djiring
+DI LINH - town, Vietnam 11DEG34'N 108DEG03'E Other: Djiring
 DINDING - district, Malaysia 4DEG20'N 100DEG38'E Other: Dang Dang; Dingding: Mijam; Minjam; Mjmjam; My jam [see the discussion by Wheatley, p. 309, n. 1]
 Dingding - see Dinding
-DINH, MUI - cape, Vietnam 11DEG22'N 109DEGO1'E Other: Cape Padaran; Lo wan t'ou
+DINH, MUI - cape, Vietnam 11DEG22'N 109DEG01'E Other: Cape Padaran; Lo wan t'ou
 Dinh Tuong - see My Tho
 DIOGO - island, Philippines 20DEG42'N 121DEG56'E Other: Redonda
 Dixara - see Henzada (Lach, p. 541)
@@ -1017,7 +1017,7 @@ Filipinas, Islas - see Philippines
 Fleuve Antérieur - see Tien Giang
 Fleuve Inférieur - see Hau Giang
 Fleuve Postérieur - see Hau Giang
-FLORES - island, Indonesia 8DEG30'S 121DEGOO'E Other: Ende; Floris; Mangarai
+FLORES - island, Indonesia 8DEG30'S 121DEG00'E Other: Ende; Floris; Mangarai
 Floris - see Flores
 Fo-Che - see Palembang
 Fo-lin-pang - see Palembang (Mills, n. 150)
@@ -1063,7 +1063,7 @@ Gabion - see Burias (Quirino, p. 69) Gada Island - see Homonhon (Pigafetta, v. 1
 Good Fortune Island - see Sipora (Crawfurd, p. 404)
 Gorong - see Seram
 Gorongtalo - see Gorontalo (Crawfurd, p. 145)
-GORONTALO - town and region, Indonesia ODEG33'N 123DEGO3'E Other: Gorongtalo; Holontalo
+GORONTALO - town and region, Indonesia ODEG33'N 123DEG03'E Other: Gorongtalo; Holontalo
 Gorontalo Bay - see Tomini
 Grafton - see Bashi
 Grahi - see Chaiya (?I.S.S.E.A., p. 161)
@@ -1073,7 +1073,7 @@ Great Dayak River - see Kahajan
 Great Karimun - see Karimun jawa
 Great Lake - see Tonle Sap (I.S.S.E.A., p. 67)
 Green Islands - see Andaman (Schlegel "B", p. 182)
-GRESIK - town, Indonesia 7DEGO9'S 112DEG38'E Other: Agaci; Agacim; Chessi; Chi-li-shih; Cressi; Garsik; Geresik; Gersik; Gressie; Gressik; Grisee; Grissij; Hsin ts'un; Jih-lo-hsia-chih; Ko-erh-hsi
+GRESIK - town, Indonesia 7DEG09'S 112DEG38'E Other: Agaci; Agacim; Chessi; Chi-li-shih; Cressi; Garsik; Geresik; Gersik; Gressie; Gressik; Grisee; Grissij; Hsin ts'un; Jih-lo-hsia-chih; Ko-erh-hsi
 Gressie - see Gresik (Crawfurd, p. 146)
 Gressik - see Gresik
 Grisee - see Gresik
@@ -1085,8 +1085,8 @@ GUITINGGUITIN - mountain, Philippines 12DEG25'N 122DEG34'E Other: Sibuyan
 Gulf of Bo'Ne - see Bo'Ne
 Gulf of Bo'Ni - see Bo'Ne
 Gulf of Martaban - see Moktame Kwe
-GULF OF SIAM - 11DEGOO'N 101DEGOO'E Other: Chang-hai
-GULF OF TONKIN - Vietnam 19DEG30'N 107DEGOO'E Other: Vinh Bac Bo [See also "Tonkin" for variations in spelling.]
+GULF OF SIAM - 11DEG00'N 101DEG00'E Other: Chang-hai
+GULF OF TONKIN - Vietnam 19DEG30'N 107DEG00'E Other: Vinh Bac Bo [See also "Tonkin" for variations in spelling.]
 Gunuape - see Gunungapi
 GUNUNGAPI - island, Indonesia 6DEG38'S 126DEG40'E Other: Gunuape; Ocape?; Puiau Gunong Api
 Gunung Ard juno - see Ard juno
@@ -1102,14 +1102,14 @@ Haifo - see Hoi An
 Haifong - see Haiphong
 HAIHIN - plain, Laos 19DEG27'N 103DEG10'E Other: Plain of Jars; Thong Haihin
 Hai-men shan - see Ko Samui (Mills, n. 163)
-HAINGGYI KYUN - island, Burma  16DEGOO'N 94DEG20'E Other: Ko-tieh-mi
+HAINGGYI KYUN - island, Burma  16DEG00'N 94DEG20'E Other: Ko-tieh-mi
 Hai-pao shan - see Ron (Mills, n. 164)
 Hai'phong - see Haiphong
 HAIPHONG - town, Vietnam 20DEG52'N 106DEG41'E Other: Haifong; Hai'phong
 Halcon, Mount - see Mag-Asawang-Tubig
 HALDAN - point, Philippines 10DEG30'N 121DEG55'E Other: Han tse shan; Jaldan
 Hale-Ma-Hera - see Halmahera
-HALMAHERA - island and town, Indonesia 1DEGOO'N 128DEGOO'E Other: Aliora; Almahera; Bato Tsima; Batochina do More; Batu China; Djailolo; Djilolo; Galela; Giaiallo; Giailolo; Giailonlo; Gillolo; Gilolo; Gioli; Hale-Ma-Hera; Jailolo; Jayalolo; Jilolo
+HALMAHERA - island and town, Indonesia 1DEG00'N 128DEG00'E Other: Aliora; Almahera; Bato Tsima; Batochina do More; Batu China; Djailolo; Djilolo; Galela; Giaiallo; Giailolo; Giailonlo; Gillolo; Gilolo; Gioli; Hale-Ma-Hera; Jailolo; Jayalolo; Jilolo
 Hamsavati - see Pegu (I.S.S.E.A., p. 104)
 HANCHING - river, Brunei 4DEG58'N 114DEG58'E Other: Anching
 Hangsavati - see Pegu
@@ -1228,13 +1228,13 @@ Hu wei chiao - see Rusa (Mills, n. 224)
  
 36
 exa
-Iabadiou (Nesos) - see Java (I.S.S.E.A., p. 53) Iana - see Java Iana Minor - see Sumatra Iava - see Java Iava the lesse - see Sumatra Ibabao - see Samar (Quirino, p. 69) Ibadeo - see Samar (Crawfurd, p. 374) Ibalon - see Albay (Crawfurd, p. 8) Ibugos - see Bashi Idas Iarras - see Straits of Malacca Idenburg River - see Taritatu Idenburg Top - see Pilimsit (Room, p. 120) Ihor - see Johor Ilamuri-desam - see Achin (?Wheatley, p. 201; I.S.S.E.A., p. Ilangasogam - see Patani (I.S.S.E.A., p. 143) Ilangasoka - see Patani (Wheatley, p. 200) Ile aux Bufjles - see Trau Ile Buffle - see Trau (Mills, n. 115) Ile Hon Lon - see Lon Ile Tekere - see Minh Hoa ILIN - strait, Philippines 12DEG15'N 121DEGO5'E Other: I-ning chiang Ilo - see Iloilo ILOILO - region, Philippines 11DEGOO'N 122DEG40'E Other: Ilo; Ogtong Image Island - see Berhala Imaras - see Guimaras (Quirino, p. 69) Indalus - see Sumatra India - 1. Nation, South Asia 1. See Ayuthia India Extra Gangem - see Burma Indias Espanolas - see Philippines India Trans Gangem - see Burma India Without Ganges - see Burma Indo-China - see 1. French Incochina 2. Southeast Asia INDONESIA - nation, Southeast Asia Other: Dutch East Indies; East India; East Indies; Insulinde; Nederlandsch Indie; Netherlands (East) Indies (cf. Lower Coast); Nusantara; United States of Indonesia Indrapoera - see Kerintji Indrapura - see 1. Kerintji (Room, p. 55) 2. Quang-nam (ISSS.BEeA:;, Pu 139) I-ning chiang - see Ilin (Mills, n. 231) Innasarim - see Tenasserim (Lach, p. 533) Insulinde - see 1. Indonesia 2. Malay Peninsula Iocat - see Lopburi Iocath - see Lopburi Iolo - see Sulu Irabatty - see Irrawaddy Irawadi - see Irrawaddy
+Iabadiou (Nesos) - see Java (I.S.S.E.A., p. 53) Iana - see Java Iana Minor - see Sumatra Iava - see Java Iava the lesse - see Sumatra Ibabao - see Samar (Quirino, p. 69) Ibadeo - see Samar (Crawfurd, p. 374) Ibalon - see Albay (Crawfurd, p. 8) Ibugos - see Bashi Idas Iarras - see Straits of Malacca Idenburg River - see Taritatu Idenburg Top - see Pilimsit (Room, p. 120) Ihor - see Johor Ilamuri-desam - see Achin (?Wheatley, p. 201; I.S.S.E.A., p. Ilangasogam - see Patani (I.S.S.E.A., p. 143) Ilangasoka - see Patani (Wheatley, p. 200) Ile aux Bufjles - see Trau Ile Buffle - see Trau (Mills, n. 115) Ile Hon Lon - see Lon Ile Tekere - see Minh Hoa ILIN - strait, Philippines 12DEG15'N 121DEG05'E Other: I-ning chiang Ilo - see Iloilo ILOILO - region, Philippines 11DEG00'N 122DEG40'E Other: Ilo; Ogtong Image Island - see Berhala Imaras - see Guimaras (Quirino, p. 69) Indalus - see Sumatra India - 1. Nation, South Asia 1. See Ayuthia India Extra Gangem - see Burma Indias Espanolas - see Philippines India Trans Gangem - see Burma India Without Ganges - see Burma Indo-China - see 1. French Incochina 2. Southeast Asia INDONESIA - nation, Southeast Asia Other: Dutch East Indies; East India; East Indies; Insulinde; Nederlandsch Indie; Netherlands (East) Indies (cf. Lower Coast); Nusantara; United States of Indonesia Indrapoera - see Kerintji Indrapura - see 1. Kerintji (Room, p. 55) 2. Quang-nam (ISSS.BEeA:;, Pu 139) I-ning chiang - see Ilin (Mills, n. 231) Innasarim - see Tenasserim (Lach, p. 533) Insulinde - see 1. Indonesia 2. Malay Peninsula Iocat - see Lopburi Iocath - see Lopburi Iolo - see Sulu Irabatty - see Irrawaddy Irawadi - see Irrawaddy
 37
 143)
 Irian - see New Guinea
 Irian Barat - see Irian Jaya (Room, p. 56)
-IRIAN JAYA - province, Indonesia 5DEGOO'S 138DEGOO'E Other: Dutch New Guinea; Irian Barat; Netherlands New Guinea; West Irian; West New Guinea
-IRRAWADDY - river, Burma 15DEG50'N 95DEGO6'E Other: Irabatty; Irawadi; Li shui; Sobanas
+IRIAN JAYA - province, Indonesia 5DEG00'S 138DEG00'E Other: Dutch New Guinea; Irian Barat; Netherlands New Guinea; West Irian; West New Guinea
+IRRAWADDY - river, Burma 15DEG50'N 95DEG06'E Other: Irabatty; Irawadi; Li shui; Sobanas
 Isabela de Basilan - see Zamboanga
 Isanapura - see Angkor (Mills, n. 232)
 Ischeen Mey - see Chiengmai (Mundie, p. 79)
@@ -1281,25 +1281,25 @@ Jantaburi - see Chanthaburi
 Jaoa - see Java (Pigafetta, v. 2, p. 167)
 JAPARA - town, Indonesia 6DEG35'S 110DEG39'E Other: Cipara; Dabadama; Dama; Damak; Demak; Djapara; Djepara; Japora; Jopara; Pa-na; Tan-mu
 Japora - see Japara
-JARAK - island, Malaysia 3DEG59'N 100DEGO6'E Other: Chien kung hsu: Tan-kong-su
+JARAK - island, Malaysia 3DEG59'N 100DEG06'E Other: Chien kung hsu: Tan-kong-su
 Jars, Plain of - see Haihin
 Jatabhumi - see Chaiyaphum
 JATINEGARA - town, Indonesia 6DEG12'S 106DEG53'E Other: Djatinegara; Meester Cornelis
 Jaua - see Java (Carroll, p. 3)
 Jauha - see Java
 39
-JAVA - island, Indonesia 7DEG30'S 110DEGOO'E Other: Al-Jawa; Caua; Chao-wa; Chapo; Che-po; Cho-p'o; Djavago; Djawa; Djezryet al Maha-Rad je; Djiau-wa; Giaua; Giava; Giavai; Haoa-oua; Ho-ling; Iabadiou Nesos; Iana; Iava; Jaba; Jaoa; Jaua; Jauha; Jawa; Jawi; Jou-wa; Juwawat; Kua-wa; Labadiou; Mul Chava; Mul-Jawa; Pekalong(an); Saba?; She-p'o; Shéó-p'o; Siti-Jawa; Tchao-wa; Xava; Yava; Yavabhumi; Yavadvipa?; Yavadvipapura
+JAVA - island, Indonesia 7DEG30'S 110DEG00'E Other: Al-Jawa; Caua; Chao-wa; Chapo; Che-po; Cho-p'o; Djavago; Djawa; Djezryet al Maha-Rad je; Djiau-wa; Giaua; Giava; Giavai; Haoa-oua; Ho-ling; Iabadiou Nesos; Iana; Iava; Jaba; Jaoa; Jaua; Jauha; Jawa; Jawi; Jou-wa; Juwawat; Kua-wa; Labadiou; Mul Chava; Mul-Jawa; Pekalong(an); Saba?; She-p'o; Shéó-p'o; Siti-Jawa; Tchao-wa; Xava; Yava; Yavabhumi; Yavadvipa?; Yavadvipapura
 Java Diu - see Sumatra
 Java Div - see Sumatra
 JAVA HEAD - cape, Indonesia 6DEG46'S 105DEG12'E Other: Gede; Tandjung Gede; Ujong Kulon
 Java Menore - see Borneo
 Java Minor - see 1. Condore (Herrmann, p. 43) 2. Sumatra (Schlegel "D", p. 273)
 Java the Less(er) - see Sumatra (Lach, p. 502)
-JAVA TROUGH - trench, Indian Ocean 10DEGOO'S 110DEGOO'E Other: Wharton Deep
+JAVA TROUGH - trench, Indian Ocean 10DEG00'S 110DEG00'E Other: Wharton Deep
 Javaka - see Palembang (I.S.S.E.A., p. 93, "Zabag" - "Javaka" in Java, that is, the early Sailendra)
 Jawa - see Java (Pigafetta, v. 2, p. 228, n. 586)
 Jawi - see Java
-JAYA, PUNCAK - mountain, Indonesia 4DEGO4'S 137DEG10'E Other: Sukarno (Puntjak); Carstenz
+JAYA, PUNCAK - mountain, Indonesia 4DEG04'S 137DEG10'E Other: Sukarno (Puntjak); Carstenz
 Jayabhumi - see Chaiyaphum
 Jayabum - see Chaiyaphum
 Jayakarta - see Jakarta (Crawfurd, p. 161)
@@ -1326,7 +1326,7 @@ Jogja - see Jogjakarta
 JOGJAKARTA - town and province, Indonesia 7DEG48'S 110DEG22'E Other: Ayogyakarta; Ayuga-Karta; Djocja; Djocjocarta; Djokja; Djokjakarta; Jogja; Jogo-Carta; Jokyakarta; Ngajogy A Karta; Ngayadjo Karta; Yogya; Yogyakarta; Yugyakarta
 Jogo-Carta - see Jogjakarta
 JOHOL - town, Malaysia 2DEG36'N 102DEG16'E Other: Gemencheh
-JOHOR - state, Malaysia 2DEGOO'N 103DEG30'E Other: Djohor; Djohore; Hujong Tanah; Hujung Medini; Ihor; Jahore; Jehore; Jihore; Johore; Jor; Jore; Jou-fu; Land's End; Oodjon Tana; Ujong Tanah; Utang talim; Uyong Tanah; Woerawari?; Wu-ting Ch'iao-lin
+JOHOR - state, Malaysia 2DEG00'N 103DEG30'E Other: Djohor; Djohore; Hujong Tanah; Hujung Medini; Ihor; Jahore; Jehore; Jihore; Johore; Jor; Jore; Jou-fu; Land's End; Oodjon Tana; Ujong Tanah; Utang talim; Uyong Tanah; Woerawari?; Wu-ting Ch'iao-lin
 Johore - see Johor
 JOHORE RIVER - Malaysia Other: Palandas
 JOHORE STRAIT - Singapore/Malaysia 1DEG28'N 103DEG48'E Other: Salleta de Brew; Selat Tebrau; Selat Tembrau; Strait of Singapore
@@ -1365,12 +1365,12 @@ Kadah - see Kedah (Crawfurd, p. 361)
 Kadaram - see Kedah (Wheatley, p. 201: I.S.S.E.A., p. 143)
 Kagiri - see Kediri (Crawfurd, p. 193)
 Kagayan - see Cagayan (P.C.G.N., p. 5)
-KAHAJAN - river, Indonesia 3DEG20'S 114DEGO4'E Other: Great Dayak River
+KAHAJAN - river, Indonesia 3DEG20'S 114DEG04'E Other: Great Dayak River
 KAI - islands, Indonesia 5DEG35'S 132DEG45'E Other: Ewab Islands; Ke; Kei; Key; Kii; Noehoerowa; Noehoet joet
 Kailukari - see Tonkin
 Kaiserin Agusta - see Sepik
 Kaiserin Augusta - see Sepik
-KAIT - cape, Indonesia 3DEG14'S 106DEGO5'E Other: Keui Dan
+KAIT - cape, Indonesia 3DEG14'S 106DEG05'E Other: Keui Dan
 Kalabats - see Sulawesi
 Kalagam - see Kedah (Wheatley, p. 263)
 Kalah - see 1. Kedah (implied by Herrmann, p. 47) 2. Kra CT. Sahe n E. 142)
@@ -1383,7 +1383,7 @@ Kalanten - see Kelantan (Crawfurd, p. 329)
 KALAO - island, Indonesia 7DEG18'S 120DEG58'E Other: Bonirati
 Kalayaan - see Spratly
 KALIBO - town, Philippines 11DEG43'N 122DEG22'E Other: Calivo
-KALIMANTAN - region, Indonesia 1DEGOO'N 114DEGOO'E Other: Dutch Borneo
+KALIMANTAN - region, Indonesia 1DEG00'N 114DEG00'E Other: Dutch Borneo
 Ka-lo-hei - see Chaiya (Wheatley, p. 72)
 Kamar - see Chenla (Herrmann, p. 39)
 Kambaeng Petch - see Kamphaengphet
@@ -1397,7 +1397,7 @@ Kambujadesa - see Kampuchea (Wheatley, facing p. xviii) Kambuji - see Kampuchea 
 KAMPHAENGPHET - town, Thailand 16DEG28'N 99DEG30'E Other: Gampeng Pet; Kambeang Petch; Kambeng Bejra
 KAMPUCHEA - nation, Southeast Asia Other: Cambaia; Cambaya; Cambodge; Cambodia; Camboets ja; Cambo ja; Cambokha; Cambootja; Cameggia; Camogia; Campuchia; Cao-Men; Chen-1a; Chi-mieh; Chien-pu-chai; Kambodscha; Kambo ja; Kambojia; Kambuja; Kambujadesa; Kambuji; Kanbusa; Kan-p'o-che; Kan-po-chih;  Kan-pu-che; Khmer Empire; Khmer Republic; Tran Tay; Tung chi hai
 Kanbusa - see Kampuchea
-KANCANABURI - town, Thailand 14DEGO1'N 99DEG32'E Other: Ganburi
+KANCANABURI - town, Thailand 14DEG01'N 99DEG32'E Other: Ganburi
 Kan-kai - see Ha Tien
 Kan Lan - see Natuna Utara
 Kan-p'o-che - see Kampuchea (Mills, n. 244)
@@ -1407,11 +1407,11 @@ Kan-t'o-1i - see 1. Jambi 2. Palembang
 Kao Lo - see Tambora (Milis, n. 248)
 Kao Luang - see Khao Luang
 Kao-yao chiang - see Cuyo (Milis, n. 249)
-KARIMATA - island, Indonesia 1DEG25'S 109DEGO5'E Other: Carimata; Chi lung hsti; Chi-ning-ma-na shan; Chia-li-ma-ta; Kia-ma-li-ting: Kurimata
+KARIMATA - island, Indonesia 1DEG25'S 109DEG05'E Other: Carimata; Chi lung hsti; Chi-ning-ma-na shan; Chia-li-ma-ta; Kia-ma-li-ting: Kurimata
 Karimoen — see Karimun
 Karimoendjowo - see Karimunjawa
 Karimon - see Karimun (Crawfurd, p. 196)
-KARIMUN - island(s), Indonesia 1DEGO3'N 103DEG22'E Other: Carimon; Carymam; Caryman; Chi-le-men; Chi-li-men; Chi-li-wen: Karimon; Karimoen; Kiet-li-mng; Krimun; Little Karimun
+KARIMUN - island(s), Indonesia 1DEG03'N 103DEG22'E Other: Carimon; Carymam; Caryman; Chi-le-men; Chi-li-men; Chi-li-wen: Karimon; Karimoen; Kiet-li-mng; Krimun; Little Karimun
 KARIMUNJAWA - island(s), Indonesia 5DEG50'S 110DEG25'E Other: Carimon Java; Chi-li-men; Great Karimun; Karimoend jowo
 Karpuradvipa - see Borneo (Wheatley, p. 184)
 Kartasura - see Surakarta (Crawfurd, p. 196 notes proximity of the two towns)
@@ -1426,9 +1426,9 @@ Kavite - see Cavite (P.C.G.N., p. 3)
  
  
 Kawl - see Burma Kaw Samui - see Ko Samui Ke - see Kai
-KEBATU - island, Indonesia 3DEG48'S 108DEGO4'E Other: Ma-la-wa bai Kechao - see Tonkin (Crawfurd, p. 105)
+KEBATU - island, Indonesia 3DEG48'S 108DEG04'E Other: Ma-la-wa bai Kechao - see Tonkin (Crawfurd, p. 105)
 43
-Keci Daona - see Tonkin Kecio - see Tonkin KEDAH - state, Malaysia 6DEGOO'N 100DEG40'E Other: Chi-t'o; Chi-ta; Chi-te; Chi-to; Chia-cha: Chieh-ch'a; Kadah; Kadaram; Kalagam; Kalah; Kalah Bar; Kataha; Keddah; Kheda; Kida; Kiddah; Killah; Kit-ta; Occeda; Queda; Quedaa; Quedah; Quedda Kedah Peak - see Jerai Keddah - see Kedah (Cordier, p. 261) KEDIRI - town and region, Indonesia 7DEG49'S 112DEGO1'E Other: Daa; Daha; Daia; Daya; Doo; Dyah: Kagiri; Panjalu; Ta-ha; Tieh-1i KEDIRI - river, Indonesia 7DEG28'S 112DEG25'E Other: Brantas Keeling Islands - see Cocos Keenee-Bollo - see Kinabalu KE GA - point, Vietnam 10DEG42'N 107DEG58'E Other: Ch'ih k'an; Mui Ke Ga; Point Kega; Terra de Champara; Terra Vermelha Kei - see Kai (Crawfurd, p. 197) Kelang - see 1. Klang 2. Trang (I.S.S.E.A., p. 244, misprint?) KELANTAN - state, Malaysia 5DEG20'N 102DEGOO'E Other: Calantam; Calantan; Calantao; Chi-lan-chou: Chi-lan-tan; Chi-lien-chou; Clamtam; Holotan; Ka-lan-tan: Kalandan; Kalantan; Kalanten; Ki-lian-tan; Kilantan KELANTAN RIVER - Malaysia Other: Ko-lan-tan-kong; Ku-lan-tan chiang Keloet - see Kelud KELUD - volcano, Indonesia 7DEG56'S 112DEG18'E Other: Keloet; Kelut; Kloet; Klut? Kelut - see Kelud Kemarat - see Khemmarat Kenali - see Kubang Kerian KEPPEL HARBOR - Singapore 1DEG16'N 103DEG50'E Other: Canall de Sijmgapura; Lunga-ya-men; New Harbor KERINTJI - mountain, Indonesia 1DEG42'S 101DEG16'E Other: Indrapoera; Indrapura; Korinchi; Korint ji Kescho - see Tonkin Key - see Kai Khanh Hong - see Khanh Hung KHANH HUNG - town, Vietnam 9DEG36'N 105DEG58'E Other: Ba Thac; Khanh Honh; Soc Trang; Srok Khleang; Srok Trang KHAO LUANG - mountain, Thailand 16DEG52'N 99DEG4O'E Other: Kao Luang; Luang Mountain KHAO SAMROIYOT - mountain, Thailand 12DEG15'N 99DEG57'E Other: Pi chia shan Kheda - see Kedah KHEMMARAT - town, Thailand 16DEGO3'N 105DEG13'E Other: Kemarat Khersonese - see Malay Peninsula Khmer Empire - see Kampuchea
+Keci Daona - see Tonkin Kecio - see Tonkin KEDAH - state, Malaysia 6DEG00'N 100DEG40'E Other: Chi-t'o; Chi-ta; Chi-te; Chi-to; Chia-cha: Chieh-ch'a; Kadah; Kadaram; Kalagam; Kalah; Kalah Bar; Kataha; Keddah; Kheda; Kida; Kiddah; Killah; Kit-ta; Occeda; Queda; Quedaa; Quedah; Quedda Kedah Peak - see Jerai Keddah - see Kedah (Cordier, p. 261) KEDIRI - town and region, Indonesia 7DEG49'S 112DEG01'E Other: Daa; Daha; Daia; Daya; Doo; Dyah: Kagiri; Panjalu; Ta-ha; Tieh-1i KEDIRI - river, Indonesia 7DEG28'S 112DEG25'E Other: Brantas Keeling Islands - see Cocos Keenee-Bollo - see Kinabalu KE GA - point, Vietnam 10DEG42'N 107DEG58'E Other: Ch'ih k'an; Mui Ke Ga; Point Kega; Terra de Champara; Terra Vermelha Kei - see Kai (Crawfurd, p. 197) Kelang - see 1. Klang 2. Trang (I.S.S.E.A., p. 244, misprint?) KELANTAN - state, Malaysia 5DEG20'N 102DEG00'E Other: Calantam; Calantan; Calantao; Chi-lan-chou: Chi-lan-tan; Chi-lien-chou; Clamtam; Holotan; Ka-lan-tan: Kalandan; Kalantan; Kalanten; Ki-lian-tan; Kilantan KELANTAN RIVER - Malaysia Other: Ko-lan-tan-kong; Ku-lan-tan chiang Keloet - see Kelud KELUD - volcano, Indonesia 7DEG56'S 112DEG18'E Other: Keloet; Kelut; Kloet; Klut? Kelut - see Kelud Kemarat - see Khemmarat Kenali - see Kubang Kerian KEPPEL HARBOR - Singapore 1DEG16'N 103DEG50'E Other: Canall de Sijmgapura; Lunga-ya-men; New Harbor KERINTJI - mountain, Indonesia 1DEG42'S 101DEG16'E Other: Indrapoera; Indrapura; Korinchi; Korint ji Kescho - see Tonkin Key - see Kai Khanh Hong - see Khanh Hung KHANH HUNG - town, Vietnam 9DEG36'N 105DEG58'E Other: Ba Thac; Khanh Honh; Soc Trang; Srok Khleang; Srok Trang KHAO LUANG - mountain, Thailand 16DEG52'N 99DEG4O'E Other: Kao Luang; Luang Mountain KHAO SAMROIYOT - mountain, Thailand 12DEG15'N 99DEG57'E Other: Pi chia shan Kheda - see Kedah KHEMMARAT - town, Thailand 16DEG03'N 105DEG13'E Other: Kemarat Khersonese - see Malay Peninsula Khmer Empire - see Kampuchea
  
 44
 Khmer Republic - see Kampuchea
@@ -1441,7 +1441,7 @@ Khuan Phumiphon - see Phumiphon
 Khum Basak - see Champasak
 Kia-ma-li-ting - see Karimata (Schlegel "A", p. 367)
 Kia-ma-yen - see Calamians
-KIANGAN - town, Philippines 16DEG47'N 121DEGO4'E Other: Quiang-An
+KIANGAN - town, Philippines 16DEG47'N 121DEG04'E Other: Quiang-An
 Kiao-chao - see Tonkin (Schlegel "A", p. 369)
 Kida - see Kedah
 Kiddah - see Kedah
@@ -1456,17 +1456,17 @@ KIM GIAO - town, Vietnam 21DEG13'N 105DEG40'E Other: An Chau Ap
 Ki-mo-ya-mao - see Jambi
 Kinabalao - see Kinabalu (Crawfurd, p. 197)
 Kina Balu - see Kinabalu (Pigafetta, v. 2, p. 200, n. 419)
-KINABALU - mountain, Malaysia 6DEGO5'N 116DEG33'E Other: Keenee-Bollo; Kinabalao; Kina Balu; Kinibalu; Sheng shan
+KINABALU - mountain, Malaysia 6DEG05'N 116DEG33'E Other: Keenee-Bollo; Kinabalao; Kina Balu; Kinibalu; Sheng shan
 Kina-Balu-See - see Lake Kinabalu
 Kingdom of Naked People - see 1. Andaman (Schlegel "B", p. 182) 2. Nicobar (Wheatley, p. 42)
 KINH BAC LIEU DI VINH CHAU - canal, Vietnam 9DEG19'N 105DEG47'E Other: Allant à Vinh Chau
 Kinh Dinh River - see Song Kinh Dinh
 Kinibalu - see Kinabalu
 Kiocassi - see Vietnam
-KIPIT - island, Philippines 8DEGO4'N 122DEC28'E Other: Capyam; Chipet; Chipico; Chipit; Chippit; Cippit; Gibeth; Gibith; Quepindo; Quipe; Quipit; Quype
+KIPIT - island, Philippines 8DEG04'N 122DEC28'E Other: Capyam; Chipet; Chipico; Chipit; Chippit; Cippit; Gibeth; Gibith; Quepindo; Quipe; Quipit; Quype
 Kit-ta - see Kedah (Wheatley, p. 263)
 Kiu-kang - see Palembang
-KLANG - river, Malaysia 3DEGOO'N 101DEG23'E Other: Chi-ling chiang; Clam; Kelang; Kiet-leng-kang
+KLANG - river, Malaysia 3DEG00'N 101DEG23'E Other: Chi-ling chiang; Clam; Kelang; Kiet-leng-kang
 Kloet - see Kelud
 Klong - see Meklong (river)
 Klut - see Kelud (Crawfurd, p. 198)
@@ -1497,13 +1497,13 @@ Kore - see Bima (Crawfurd, p. 200)
 Korinchi - see Kerintji (Crawfurd, p. 200)
 Korintji - see Kerintji
 Korwar - see Bepondi (U.S., p. 29)
-KO SAMUI - island, Thailand 9DEG30'N 100DEGOO'E Other: Hai-bun-san; Hai-men shan; Kaw Samui
-KOTA BAHRU - town, Malaysia 6DEGO8'N 102DEG15'E Other: Kota Bharu
+KO SAMUI - island, Thailand 9DEG30'N 100DEG00'E Other: Hai-bun-san; Hai-men shan; Kaw Samui
+KOTA BAHRU - town, Malaysia 6DEG08'N 102DEG15'E Other: Kota Bharu
 Kotabaru - see Jayapura
 Kota Bharu - see Kota Bahru
 KOTA KINABALU - town, Malaysia 5DEG59'N 116DEG04'E Other: Api-Api; Jesselton
 Ko Ta Kut - see Ko Tao Mo
-KO TAO - island, Thailand 10DEGO5'N 99DEG52'E Other: Ma-an-san; Ma-an shan
+KO TAO - island, Thailand 10DEG05'N 99DEG52'E Other: Ma-an-san; Ma-an shan
 KO TAO MO -island, Thailand 12DEG38'N 100DEG52'E Other: Chotomuj; Cotinuo; Ko Ta Kut; Ko Tau Moh
 Kota Raja - see Kutaraja (P.C.G.N., p. 6)
 Ko Tau Moh - see Ko Tao Mo
@@ -1513,7 +1513,7 @@ Kou-lan shan - see Galam (Mills, n. 262)
 K'ou-lao Tou - see Cu Lao Thu
 KO WIANG - island, Thailand 10DEG51'N 99DEG29'E Other: Fo shan; Ko Iang
 46
-KRA - isthmus, Thailand/Burma 10DEG20'N 99DEGOO'E Other: Kalah; Khokhok Kra; Krau; Kraw; Qra
+KRA - isthmus, Thailand/Burma 10DEG20'N 99DEG00'E Other: Kalah; Khokhok Kra; Krau; Kraw; Qra
 Kra Island - see Ko Kra
 Krakatao - see Krakatau
 KRAKATAU- island, Indonesia 6DEG10'S 105DEG26'E Other: Cracketouw; Krakatao; Krakatoa [volcanic cones: Danan; Rakata, and Perbuwatan]
@@ -1525,14 +1525,14 @@ Krimun - see Karimun (Crawfurd, p. 84)
 Krung Kao - see Ayuthia
 Krung Thep - see Bangkok
 Krungthep Mahanakhon Bovorn Ratanakosin Mahintharayutthaya Mahadilokpop Noparatratchathani Burirom Udomratchanivet- mahasathan Amornpiman Avatarnsathit Sakkathattiyavisnu- karmprasit - see Bangkok
-KUALA BERANG - town, Malaysia 5DEGO4'N 103DEGO1'E Other: Fo-lo-an
+KUALA BERANG - town, Malaysia 5DEG04'N 103DEG01'E Other: Fo-lo-an
 Kuala Kangsar - see Perak
 KUALA KESANG - river, Malaysia 2DEG06'N 102DEG29'E Other: Acoala Cacam
 KUALA LINGGI - river, Malaysia 2DEG23'N 101DEG58'E Other: Acoala Penajy; Coala Penagy
 Kuang nan - see Quang Nam (Mills, n. 281)
 Kuan hsu - see 1. Berhala (Mills, n. 277) 2. Tembakul (Mills, tis 276)
 Kua-wa - see Java (Mills, n. 273)
-KUBANG KERIAN - town, Malaysia 6DEGO5'N 102DEG17'E Other: Kenali; Kubang Krian
+KUBANG KERIAN - town, Malaysia 6DEG05'N 102DEG17'E Other: Kenali; Kubang Krian
 Kubang Krian - see Kubang Kerian
 Kuchi - see Cochin China (Crawfurd, p. 105)
 Kuei Hen - see 1. Kait (Mills, n. 285) 2. Rangsang (Mills, n. 284) 3. Serom (Millis, n. 283)
@@ -1556,7 +1556,7 @@ KUTARAJA - town, Indonesia 5DEG34'N 95DEG20'E Other: Koetaradja; Kota Raja; Kuta
 Kutei - see Mahakam
 48
 pg aa
-Laach - see Lopburi Labadiou - see Java LABAYA - Lake, Indonesia 2DEG49'S 121DEG20'E Other: Taparang-Dano: Taparan Masapi Meer; Taparanmesapi; Tap Rang-Danau La Baye la Baye - see Albay (Quirino, p. 69) Laboan - see Labuan Laboeha - see Labuan Labpuri - see Lopburi LABUAN - island, Malaysia 5DEG19'N 115DEG13'E Other: Ch'ang yao hstt; Laboan; Laboeha; Labuhan Labuhan - see Labuan (Crawfurd, p. 203; Carroll, p. 2) Lac d'Ankroet - see Dan Kia Lac Giao - see Ban Me Thuot Lac-tchoo - see Laos Lac-thoo - see Laos Lac-Viet - see Vietnam Lagar - see Nakhon Si Thammarat (de Campos, p. 225) Lagon - see Nakhon Si Thammarat (Pigafetta, v. 2, p. 231, n. 597) LAHAD DATU - district, Malaysia 5DEG02'N 118DEG19'E Other: Laot? Lakan - see Nakhon Si Thammarat Lakawi - see Langkawi (Wheatley, p. 238) LAKE KINABALU - fictitious lake in Borneo Other: Kina-Balu-See Lake Lanao - see Lanao Lake Taal - see Taal Lake Towuti - see Towuti Lakhon - see Nakhon Phanom Lakon - see Nakhon Si Thammarat (Lach, p. 524) Lam Ap - see Champa LAMBERT - cape, Papua-New Guinea 4DEG10'S 151DEG35'E Other: Tongilus Lambri - see Achin (Wheatley, p. 201; I.S.S.E.A., p. 203) Lamery - see Sumatra Lamori - see Achin LAMPHUN - town, Thailand 18DEG35'N 99DEGO1'E Other: Haripunjaya; Lampun; Lampura?; Munjan?; Selampura? Lampong Districts - see Lampung Lampongsche Districten - see Lampung Lampun - see Lamphun LAMPUNG (DISTRICTS) - region, Indonesia 5DEGOO'S 105DEGOO'E Other: Lampong Districts; Lampongsche Districten; Lan-pang LAMPUNG - bay, Indonesia 5DEG40'S 105DEG20'E Other: Lan-pang chiang Lampura - see Lamphun Lamuri - see Achin (Wheatley, p. 201; I.S.S.E.A., p. 203) LAMUYON - island, Philippines 7DEG35'N 123DEGO3'E Other: Solitario
+Laach - see Lopburi Labadiou - see Java LABAYA - Lake, Indonesia 2DEG49'S 121DEG20'E Other: Taparang-Dano: Taparan Masapi Meer; Taparanmesapi; Tap Rang-Danau La Baye la Baye - see Albay (Quirino, p. 69) Laboan - see Labuan Laboeha - see Labuan Labpuri - see Lopburi LABUAN - island, Malaysia 5DEG19'N 115DEG13'E Other: Ch'ang yao hstt; Laboan; Laboeha; Labuhan Labuhan - see Labuan (Crawfurd, p. 203; Carroll, p. 2) Lac d'Ankroet - see Dan Kia Lac Giao - see Ban Me Thuot Lac-tchoo - see Laos Lac-thoo - see Laos Lac-Viet - see Vietnam Lagar - see Nakhon Si Thammarat (de Campos, p. 225) Lagon - see Nakhon Si Thammarat (Pigafetta, v. 2, p. 231, n. 597) LAHAD DATU - district, Malaysia 5DEG02'N 118DEG19'E Other: Laot? Lakan - see Nakhon Si Thammarat Lakawi - see Langkawi (Wheatley, p. 238) LAKE KINABALU - fictitious lake in Borneo Other: Kina-Balu-See Lake Lanao - see Lanao Lake Taal - see Taal Lake Towuti - see Towuti Lakhon - see Nakhon Phanom Lakon - see Nakhon Si Thammarat (Lach, p. 524) Lam Ap - see Champa LAMBERT - cape, Papua-New Guinea 4DEG10'S 151DEG35'E Other: Tongilus Lambri - see Achin (Wheatley, p. 201; I.S.S.E.A., p. 203) Lamery - see Sumatra Lamori - see Achin LAMPHUN - town, Thailand 18DEG35'N 99DEG01'E Other: Haripunjaya; Lampun; Lampura?; Munjan?; Selampura? Lampong Districts - see Lampung Lampongsche Districten - see Lampung Lampun - see Lamphun LAMPUNG (DISTRICTS) - region, Indonesia 5DEG00'S 105DEG00'E Other: Lampong Districts; Lampongsche Districten; Lan-pang LAMPUNG - bay, Indonesia 5DEG40'S 105DEG20'E Other: Lan-pang chiang Lampura - see Lamphun Lamuri - see Achin (Wheatley, p. 201; I.S.S.E.A., p. 203) LAMUYON - island, Philippines 7DEG35'N 123DEG03'E Other: Solitario
  
  
 49
@@ -1629,7 +1629,7 @@ Lelang - see Ledang
 Lemuo - see Lopburi (F. Giles, p. 117)
 Leng-ge-kau-i - see Langkawi (Wheatley, p. 94)
 Lengka-suka - see Patani
-LESSER SUNDA ISLANDS - Indonesia 9DEGOO'S 120DEGOO'E
+LESSER SUNDA ISLANDS - Indonesia 9DEG00'S 120DEG00'E
 Other: Nusa Tenggara; Sunda Ketjil
 Lesson Island - see Bam (U.S., p. 24)
 LETI - island, Indonesia 8DEG12'S 127DEG41'E
@@ -1642,15 +1642,15 @@ Libungan - see Caimanes
 Ligor - see Nakhon Si Thammarat
 Ligoor - see Nakhon Si Thammarat (Mundie, p. 41)
 Li-hsien chiang - see Song Da
-LILOAN - river, Philippines 10DEG24'N 124DEGOO'E Other: Bagacay
+LILOAN - river, Philippines 10DEG24'N 124DEG00'E Other: Bagacay
 Limasagua - see Limasawa (Crawfurd, p. 217)
 Limasana - see Limasawa (Quirino, p. 69)
 Limasaua - see Limasawa
-LIMASAWA - island, Philippines 9DEG56'N 125DEGO5'E
+LIMASAWA - island, Philippines 9DEG56'N 125DEG05'E
 Other: Limasagua; Limasana; Limasaua; Magangar; Magangor;
 Masaua; Masava; Massana; Mazana; Mazaua; Mazava; Mazawa;
 Mazzana; Mazzaua; Messana
-LIMBANG - river, Malaysia 4DEG55'N 115DEGOO'E Other: Brunei River
+LIMBANG - river, Malaysia 4DEG55'N 115DEG00'E Other: Brunei River
  
  
  
@@ -1665,7 +1665,7 @@ Lince de Camar - see Sri Lanka
 Ling shan - see Varella (Milis, n. 320)
 Lingaparvata - see Varella
 Ling-ch'ieh-po-pa-to - see Varella (Wheatley, p. 35)
-LINGGA - island, Indonesia ODEGOO' 104DEG35'E Other: Asses Ears; Lingin
+LINGGA - island, Indonesia ODEG00' 104DEG35'E Other: Asses Ears; Lingin
 Lingga Peak - see Daik
 Lingga Strait - see Berhala Strait
 Linghiangh - see Lan Chang (Mundie, p. 86)
@@ -1720,7 +1720,7 @@ Lonthor - see Lontar (Crawfurd, p. 33)
 Lontor - see Lontar
 Looknooee - see Ho Chi Minh City
 LOPBURI - town, Thailand 14DEG48'N 100DEG37'E Other: Beach?; Boeach?; Dvaravati; Iocat?; Iocath?; Laach?; Labpuri; Lavapura; Lavapuri; Lavo; Lawo; Lemuo; Loburi; Locac?; Lochac?; Loeach?; Lo-hu; Lokak?; Louvo; Louvok; Lucach?; Lu-hu; Lvo; Shang shui; Soucat?; Veach?
-Loppadichok - town, Laos 14DEGO1'N 105DEG51'E Other: Doppadichok; Ban Loppadi Chok
+Loppadichok - town, Laos 14DEG01'N 105DEG51'E Other: Doppadichok; Ban Loppadi Chok
 Loregore - see Saparua (Lach, p. 616)
 Loson - see Luzon
 Louangphrabang - see Luang Prabang
@@ -1735,7 +1735,7 @@ Lower Coast - see (Insular) Southeast Asia (Wheatley, p. 63)
 Lozon - see Luzon (Pigafetta, v. 2, p. 21)
 Luang Mountain - see Khao Luang
 Luang Phrabang - see Luang Prabang
-LUANG PRABANG - town, Laos 19DEG52'N 102DEGO8'E Other: Lanchang; Langione; Lant-shang; Louangphrabang; Luang Phrabang; Moheng-Leng; Muang Chawa; Muong Chava; Muong Swa
+LUANG PRABANG - town, Laos 19DEG52'N 102DEG08'E Other: Lanchang; Langione; Lant-shang; Louangphrabang; Luang Phrabang; Moheng-Leng; Muang Chawa; Muong Chava; Muong Swa
 LUANG PRABANG MOUNTAINS - Laos 18DEG30'N 101DEG15'E Other: Dai Luang Phetchabun
 Luba - see Lubang (Quirino, p. 69)
 Luban - see 1. Lubang (Quirino, p. 69) 2. Marinduque (erroneous) (Quirino, pe 70)
@@ -1776,7 +1776,7 @@ Lti-sung - see Luzon (Millis, n. 347)
 Lutata - see Lontar
 Lutatao - see Lontar (Lach, p. 609)
 Lu-wu - see Lovek (Mills, n. 335)
-LUZON - island, Philippines 16DEGOO'N 121DEGOO'E Other: Lasung; Liu-hsin; Liusung; Liu Zung; Loson; Lozon; Lugoes; Luçon; Lugonia; Luson; Lusson; Lt sung; Luzonia; Malapascua; Manithe; Roson; Ruson
+LUZON - island, Philippines 16DEG00'N 121DEG00'E Other: Lasung; Liu-hsin; Liusung; Liu Zung; Loson; Lozon; Lugoes; Luçon; Lugonia; Luson; Lusson; Lt sung; Luzonia; Malapascua; Manithe; Roson; Ruson
 Luzonia - see Luzon
 Lvo - see Lopburi (Mills, n. 330)
 Lwunhse - see Myanaung
@@ -1790,7 +1790,7 @@ ns 350) Macagas - see Macassar (Crawfurd, p. 90) Macalira - see Hermana Menor
 Macangar - see Limasawa
 Macangor - see Limasawa (Pigafetta, v. 1, p. 252, n. 219)
 Macao - see Meccao
-MACASSAR - town, Indonesia 5DEGO7'S 119DEG24'E Other: Macagas; Macazar; Makasar; Makassar; Makasser; Mangkasar; Mangakasara; Ujong Pandang; Vlaardingen; Wang-chia-hsi [site of Fort Rotterdam]
+MACASSAR - town, Indonesia 5DEG07'S 119DEG24'E Other: Macagas; Macazar; Makasar; Makassar; Makasser; Mangkasar; Mangakasara; Ujong Pandang; Vlaardingen; Wang-chia-hsi [site of Fort Rotterdam]
 Macassar Island - see Sulawesi
 Macazar - see Macassar
 Maccao - see Meccao
@@ -1807,7 +1807,7 @@ MADANG - mythical Javanese kingdom (Crawfurd, p. 232)
 Madioen - see Madiyun (Crawfurd, p. 233)
 MADIYUN - regency, East Java, Indonesia 7DEG37'S 111DEG31'E Other: Madioen
 Madoera - see Madura (P.C.G.N., p. 7)
-MADURA - island, Indonesia 7DEGOO'S 113DEG20'E Other: Madoera; Mathura
+MADURA - island, Indonesia 7DEG00'S 113DEG20'E Other: Madoera; Mathura
 Mae Hong Son - see Maehongson
 MAEHONGSON - town, Thailand 19DEG16'N 97DEG56'E Other: Mae Hong Son, Muai To
 Mae Klong - see Meklong (river)
@@ -1844,7 +1844,7 @@ MAKFAI - stream, Laos 17DEG59'N 104DEG31'E Other: Bac Pai; Houay Makfai MAKIAN -
 56
 MALATAJUR - point, Indonesia 3DEG26'S 113DEG36'E Other: Tan- jung Shih-1i shan
 Ma-la-wa bei - see Kebatu (Mills, n. 354)
-MALAY PENINSULA - Malaysia 6DEGOO'N 102DEGOO'E Other: Aurea Quersoneo; Aureae Chersonesi; Chersonesus Aurea; Chryse; Golden Chersonese; Golden Khersonese; Insulinde; Khersonese; Khruse, Lang-ya ben: Malaia; Malaiur; Malaya; Malaysia Barat; Maletur; Mallaya; Mul Djawa; Peninsula of Malacca; Semenanjong Malaysia; Suvarnabhumi; Tanah Malayu; West Malaysia
+MALAY PENINSULA - Malaysia 6DEG00'N 102DEG00'E Other: Aurea Quersoneo; Aureae Chersonesi; Chersonesus Aurea; Chryse; Golden Chersonese; Golden Khersonese; Insulinde; Khersonese; Khruse, Lang-ya ben: Malaia; Malaiur; Malaya; Malaysia Barat; Maletur; Mallaya; Mul Djawa; Peninsula of Malacca; Semenanjong Malaysia; Suvarnabhumi; Tanah Malayu; West Malaysia
 Malaya - see Malay Peninsula Other: Malayan Union (1946-1948); Malayan Federation
 Malayadvipa - see Sumatra (Wheatley, p. 178)
 MALAYSIA - nation, Southeast Asia Other: Federation of Malaysia
@@ -1888,7 +1888,7 @@ MANADO - town, Indonesia 1DEG29'N 124DEG51'E Other: Menado
 Manakkaram - see Nicobar
 Manakkavaram - see Nicobar (I.S.S.E.A., p. 143)
 Man-che-po-i - see Majapahit (Mills, n. 370)
-MANDALAY - town, Burma 22DEGOO'N 96DEGO5'E Other: Mandale; Shwemyo; Yadanabon
+MANDALAY - town, Burma 22DEG00'N 96DEG05'E Other: Mandale; Shwemyo; Yadanabon
 Mandale - see Mandalay
 Mandana - see Mindanao (Quirino, p. 70)
 Mandioli - see Batjan
@@ -1897,7 +1897,7 @@ Mandur - see Mampawah (Crawfurd, p. 265)
 Mangarai - see Flores (Pigafetta, v. 2, p. 227, n. 584; Crawfurd, p. 138)
 Mangkasar - see Macassar (Crawfurd, p. 231)
 Mangkasara - see Macassar (Crawfurd, p. 231)
-MANGLUN - state, Burma 20DEGO1'N 97DEG12'E Other: Monglon
+MANGLUN - state, Burma 20DEG01'N 97DEG12'E Other: Monglon
 Mang yen shan - see Busuanga (Mills, n. 375)
 Manilha - see Manila (Quirino, p. 70)
 MANILA - city, Philippines 14DEG36'N 120DEG59'E Other: Mainila; Ma-li-lu; Manilha; Manilla; Manille; Manithe; May-nila; Port of Cabite; Seludong
@@ -1915,13 +1915,13 @@ Mao-hua la - see Muara (Mills, n. 378)
 Mao-li-wu - see Marinduque (Mills, n. 379)
 Mao shan - see 1. Natuna Besar (Mills, n. 381) 2. Weh (Mills, n. 389)
 Mapor - see Mapur
-MAPUR - island, Indonesia 1DEGOO'N 104DEG50'E Other: Ch'ang yao hsu; Mapor
+MAPUR - island, Indonesia 1DEG00'N 104DEG50'E Other: Ch'ang yao hsu; Mapor
 Maquie - see Makian
 Mara - see Makian (Lach, p. 604)
 Marahui - see Marawi City
 MARATUA - island, Indonesia 2DEG15'N 118DEG36'E Other: Maratuwa
 Maratuwa - see Maratua (Crawfurd, p. 267)
-MARAWI CITY - town, Philippines 8DEGO1'N 124DEG17'E Other: Dansalon; Marahui
+MARAWI CITY - town, Philippines 8DEG01'N 124DEG17'E Other: Dansalon; Marahui
 Mare - see Makian
 Marikeladvipa - see Nicobar
  
@@ -1983,7 +1983,7 @@ Mehkong - see Mekong
 Mei-kong - see Mekong
 Mei-lo-chtt - see Moluccas (Mills, n. 384)
 Meinam - see Menam Chao Phraya
-MEKLONG - river, Thailand 13DEG21'N 100DEGOO'Ek Other: Klong; Mae Klong; Thaungyin?
+MEKLONG - river, Thailand 13DEG21'N 100DEG00'Ek Other: Klong; Mae Klong; Thaungyin?
 Meklong Town - see Samut Songkhram
 MEKONG - river, Kampuchea/Laos/Thailand/Vietnam [mouth: 10DEG20'N 106DEG40'E] Other: Cambodia River; Cuu Long; Cuu Long Giang; Dza Ch-hu; Dza Chu; Lan-thsang kiang; Lan-ts'ang; Lan-ts' ang chiang; Lantsang kiang; Mae Nam Khong; Maykiang; Mechong; Mehkong; Mei-kong; Mekongk; Menam Khong; Meson?; "Nile of the East"; Sat-choo; Sistor; Song Cuu Long; Srei Sistor; Sri Sistor
 Mekongk - see Mekong
@@ -2004,7 +2004,7 @@ Merguy - see Mergui (F.F.S.M., p. 153)
 Mergwy - see Mergui (Guehler, p. 252)
  
 60
-MERUNDUNG - island, Indonesia 2DEG04'N 109DEGO6'E Other: Sha wu p'i
+MERUNDUNG - island, Indonesia 2DEG04'N 109DEG06'E Other: Sha wu p'i
 Me Sa - see My Tho
 Me Sar - see My Tho (Miller, p. 15)
 Me So - see Maesot
@@ -2030,8 +2030,8 @@ Mindanaw - see Mindanao
 Mindano - see Mindanao (Crawfurd, p. 238)
 Mindanoao - see 1. Mindanao (Lach, p. 616) 2. Mindoro (erro- neous) (Quirino, p. 70)
 Mindora - see Mindoro (Quirino, p. 70)
-MINDORO - province and island, Philippines 13DEGO4'N 121DEGO6'E Other: Ma-i; Mait; Ma-yi; May-i; Mindora; Minolo; Mudara; Wen-wu-1ou
-MINH HOA - island, Vietnam 10DEGO1'N 104DEG33'E Other: Hon Minh Hoa: Ile Tekere
+MINDORO - province and island, Philippines 13DEG04'N 121DEG06'E Other: Ma-i; Mait; Ma-yi; May-i; Mindora; Minolo; Mudara; Wen-wu-1ou
+MINH HOA - island, Vietnam 10DEG01'N 104DEG33'E Other: Hon Minh Hoa: Ile Tekere
 Minjam - see Dinding (Wheatley, p. 309)
 Mi-no - see Chindwin (Milis, n. 390)
 Minolo - see Mindoro (Quirino, p. 70)
@@ -2060,7 +2060,7 @@ Mojokerto - see Mod jokerto
 Mojopahit - see Ma japahit
 Moksobo - see Shwebo
 Moksobomyo - see Shwebo
-MOKTAME KWE - gulf, Burma 16DEG30'N 97DEGOO'E Other: Gulf of Martaban; Moutama Gulf
+MOKTAME KWE - gulf, Burma 16DEG30'N 97DEG00'E Other: Gulf of Martaban; Moutama Gulf
 Molamyaing - see Moulmein
 Mo-lao-yang chiang - see Batangas (Mills, n. 400)
 Mo-1i shan - see Bali (Mills, n. 402)
@@ -2068,7 +2068,7 @@ Mo-lieou - see Jambi
 Molluccoes - see Moluccas
 Mo-lo-yeou - see Jambi
 Mo-lo-yu - see Jambi (Wheatley, p. 42)
-MOLUCCAS - islands, Indonesia 2DEGOO'N 128DEGOO'E Other: Clove Islands; Isles of Maluco; Jazirat al-Muluk; Ma-lu; Ma-lu-ku (Ti-fang); Mallucque; Maluca; Malucco; Malucho; Maluco; Malucos; Maluka; Maluku; Maluquo; Malut; Mei-1lo-chà; Mi-lo-chti; Molloccoes; Moluccis Insulis; Molukken; Monoch; Shih-li-po-ssu?; Spice Islands; Wu-nu-ku [group includes: Batjan, Makian, Moti, Ternate, and Tidore]
+MOLUCCAS - islands, Indonesia 2DEG00'N 128DEG00'E Other: Clove Islands; Isles of Maluco; Jazirat al-Muluk; Ma-lu; Ma-lu-ku (Ti-fang); Mallucque; Maluca; Malucco; Malucho; Maluco; Malucos; Maluka; Maluku; Maluquo; Malut; Mei-1lo-chà; Mi-lo-chti; Molloccoes; Moluccis Insulis; Molukken; Monoch; Shih-li-po-ssu?; Spice Islands; Wu-nu-ku [group includes: Batjan, Makian, Moti, Ternate, and Tidore]
 Moluccis Insulis - see Moluccas
 Molukken - see Moluccas
 Momein - see Tengchung
@@ -2084,14 +2084,14 @@ MOROTAI - island, Indonesia 2DEG20'N 128DEG25'E Other: Mortai; Morty
 Mortai - see Morotai (Crawfurd, p. 289)
 Mortier - see Moti (Crawfurd, p. 289)
 62
-Morty - see Morotai (Crawfurd, p. 289) Motama - see Martaban Moter - see Moti Moteu - see Moti MOTI - island, Indonesia ODEG27'N 127DEG624'E Other: Macil?; Mortier; Moter; Moteu; Motir; Motri; Moutil; Mutir Motir - see Moti (Crawfurd, p. 289) Motri - see Moti Mou-la-yeou - see Jambi MOULMEIN - town, Burma 16DEG30'N 97DEG38'E Other: Maulmain; Molamyaing Mount Banahao - see Banahao Mount Halcon - see Mag-Asawang-Tubig Mount Mahendra - see Phnom Kulen (I.S.S.E.A., p. 100) Mount Ophir - see Ladang Moutama - see Martaban Moutama Gulf - see Moktame Kwe Moutil - see Moti (Lach, p. 604) Mo Xoa - see Ba Ria Mranma - see Burma (Schlegel "A", p. 380) Mrt - see Mergui Mrtittika - see Mergui Muai To - see Maehongson Muang Chawa - see Luang Prabang (I.S.S.E.A., p. 205) Muang Chot - see Maesot (I.S.S.E.A., p. 205) Muang Houayxay - see Houayxay Muang Lakhon - see Nakhon Si Thammarat (de Campos, p. 225) Muang Thai - see Thailand Muantay - see Thailand (Lach, p. 524; de Campos, p. 221) MUAR - river, Malaysia 2DEGO3'N 102DEG34'E Other: Khrysoanas?; Moar; Muhar; Muor Muar Town - see Bandar Maharani MUARA - harbor and town, Brunei 5DEGO2'N 115DEGO4'E Other: Mao-hua la MUARATEWE - town, Indonesia ODEG57'S 114DEG53'E Other: Moeratewe Mudara - see Mindoro (Quirino, p. 70) Muggaloo - see Mogaung Muhar - see Muar (Wheatley, p. 166) Mui Bai Bung - see Camau Mui Dinh - see Dinh Mui Ke Ga - see Ke Ga Mui Nai - see Varella Mul Chava - see Java Mul Djawa - see Malay Peninsula (I.S.S.E.A., p. 231) MULES - island, Indonesia 8DEG54'S 120DEG17'E Other: Chi hsü; Pulau Mules; Pulau Toren; Toren Eiland Mul-Jawa - see Java (Wheatley, p. 226) MUNA - island, Indonesia 5DEGOO'S 122DEG30'E Other: Moena; Pangasané; Pangasini
+Morty - see Morotai (Crawfurd, p. 289) Motama - see Martaban Moter - see Moti Moteu - see Moti MOTI - island, Indonesia ODEG27'N 127DEG624'E Other: Macil?; Mortier; Moter; Moteu; Motir; Motri; Moutil; Mutir Motir - see Moti (Crawfurd, p. 289) Motri - see Moti Mou-la-yeou - see Jambi MOULMEIN - town, Burma 16DEG30'N 97DEG38'E Other: Maulmain; Molamyaing Mount Banahao - see Banahao Mount Halcon - see Mag-Asawang-Tubig Mount Mahendra - see Phnom Kulen (I.S.S.E.A., p. 100) Mount Ophir - see Ladang Moutama - see Martaban Moutama Gulf - see Moktame Kwe Moutil - see Moti (Lach, p. 604) Mo Xoa - see Ba Ria Mranma - see Burma (Schlegel "A", p. 380) Mrt - see Mergui Mrtittika - see Mergui Muai To - see Maehongson Muang Chawa - see Luang Prabang (I.S.S.E.A., p. 205) Muang Chot - see Maesot (I.S.S.E.A., p. 205) Muang Houayxay - see Houayxay Muang Lakhon - see Nakhon Si Thammarat (de Campos, p. 225) Muang Thai - see Thailand Muantay - see Thailand (Lach, p. 524; de Campos, p. 221) MUAR - river, Malaysia 2DEG03'N 102DEG34'E Other: Khrysoanas?; Moar; Muhar; Muor Muar Town - see Bandar Maharani MUARA - harbor and town, Brunei 5DEG02'N 115DEG04'E Other: Mao-hua la MUARATEWE - town, Indonesia ODEG57'S 114DEG53'E Other: Moeratewe Mudara - see Mindoro (Quirino, p. 70) Muggaloo - see Mogaung Muhar - see Muar (Wheatley, p. 166) Mui Bai Bung - see Camau Mui Dinh - see Dinh Mui Ke Ga - see Ke Ga Mui Nai - see Varella Mul Chava - see Java Mul Djawa - see Malay Peninsula (I.S.S.E.A., p. 231) MULES - island, Indonesia 8DEG54'S 120DEG17'E Other: Chi hsü; Pulau Mules; Pulau Toren; Toren Eiland Mul-Jawa - see Java (Wheatley, p. 226) MUNA - island, Indonesia 5DEG00'S 122DEG30'E Other: Moena; Pangasané; Pangasini
 63
 MUNDU - island, Indonesia 5DEG42'S 105DEG51'E Other: Chu hsu
 Mungmyen - see Tengchung
 Munipur - see Mogaung
 Munjan - see Lamphun (?I.S.S.E.A., p. 346, n. 174)
 Munnapoora - see Mogaung
-MUNTOK - town, Indonesia 2DEGO4'S 105DEG11'E Other: Minto
+MUNTOK - town, Indonesia 2DEG04'S 105DEG11'E Other: Minto
 Muong Chava - see Luang Prabang
 Muong Swa - see Luang Prabang
 Muor - see Muar (Wheatley, p. 166)
@@ -2100,7 +2100,7 @@ MURI - island, Indonesia 1DEG54'N 108DEG38'E Other: Man Nyn; St. Petrus; Wan nie
 Muritanau - see Martaban (Crawfurd, p. 429)
 MURJO - moutain, Indonesia 6DEG36'S 110DEG53'E Other: Hu chiao shan; Murjo Pegungungan; Pa-na ta shan; Pao-lao-an shan
 Murjo Pegungungan - see Murjo
-MURUA - island, Papua-New Guinea 9DEGO6'S 152DEG50'E Other: Woodlark
+MURUA - island, Papua-New Guinea 9DEG06'S 152DEG50'E Other: Woodlark
 Murung - see Barito
 MUSI - river, Indonesia 2DEG20'S 104DEG56'E Other: Chiu chiang; Palembang River; Tan shui chiang
 Mutaman - see Martaban
@@ -2121,16 +2121,16 @@ Nacabar - see Nicobar
 Nacham - see Nam Quan
 Na-fu-na - see Naravaranagara (I.S.S.E.A., p. 68) NAGA - town, Philippines 13DEG37'N 123DEG12'E
 Other: Nueva Caceres
-Nagabari - see Nicobar (Herrmann, p. 47) NAGA HILLS - Burma/India 26DEGOO'N 95DEGOO'E Other: Barail Range [see Arakanyoma ] Nagara Bnam - see Nakhon Phanom Nagara Panom - see Nakhon Phanom Nagara Pathama - see Nakhon Pathom Nagara Pathom - see Nakhon Pathom Nagara Rajasima - see Nakhon Ratchasima Nagara Sridharameraj (-a) - see Nakhon Si Thammarat (I.S.S.E.A.,
+Nagabari - see Nicobar (Herrmann, p. 47) NAGA HILLS - Burma/India 26DEG00'N 95DEG00'E Other: Barail Range [see Arakanyoma ] Nagara Bnam - see Nakhon Phanom Nagara Panom - see Nakhon Phanom Nagara Pathama - see Nakhon Pathom Nagara Pathom - see Nakhon Pathom Nagara Rajasima - see Nakhon Ratchasima Nagara Sridharameraj (-a) - see Nakhon Si Thammarat (I.S.S.E.A.,
 pe 207)
 Nagara Svarga - see Nakhon Sawan (I.S.S.E.A., p. 163) Nagarit - see Negrais
 Nagogor - see Nakhon Si Thammarat (Wheatley, p. 173) Nagor Sri Dharmaraj - see Nakhon Si Thammarat
 Naja Bara - see Nicobar (Wheatley, p. 237)
 Najrirashi - see Negrais (Wheatley, p. 240)
-NAKHON PATHOM - town, Thailand 13DEG49'N 100DEGO3'E
+NAKHON PATHOM - town, Thailand 13DEG49'N 100DEG03'E
 Other: Nagara Pathama; Nagara Pathom; Nakon Btom NAKHON PHANOM - town, Thailand 17DEG24'N 104DEG47'E
-Other: Lakhon; Nagara Bnam; Nagara Panom; Nakon Pnom NAKHON RATCHASIMA - town, Thailand 14DEG58'N 102DEGO7'E
-Other: Khorat; Korat; Nagara Ra jasima NAKHON SAWAN - town, Thailand 15DEG41'N 100DEGO7'E
+Other: Lakhon; Nagara Bnam; Nagara Panom; Nakon Pnom NAKHON RATCHASIMA - town, Thailand 14DEG58'N 102DEG07'E
+Other: Khorat; Korat; Nagara Ra jasima NAKHON SAWAN - town, Thailand 15DEG41'N 100DEG07'E
 Other: Nagara Svarga; Nakon Swan NAKHON SI THAMMARAT - town, Thailand 8DEG26'N 99DEG58'E
 (literally: City of the Lord of the Dharma]
 Other: Dharmanagara; Jih-lo-t'ing; Lagar; Lagon: Lakan; Lakon: Legor; Ligor; Ligoor; Liu-k'un; Loguor; Lugo; Lugor; Lugou; Lygoor; Madamalinga; Muang Lakhon; Nagara Sridhar- maraj; Nagogor; Nagor Sri Dharmaraj; Nakon Sritammarat; Si Thammarat; Siridhammanagara; Tambralinga; Tamralinga; Tan-ma-ling: Tan-mei-liu Nakhon Sritammarat - see Nakhon Si Thammarat (Lach, p. 521) Nakkavaram - see Nicobar (Wheatley, p. 201)
@@ -2140,12 +2140,12 @@ Nakon Swan - see Nakhon Sawan
 Nalo-kilo-chen - see Nicobar
 Nam Bo - see Cochin China
 Nam Ky - see Cochin China
-NAMODALE - town, Indonesia 10DEG43'S 123DEGO2'E
+NAMODALE - town, Indonesia 10DEG43'S 123DEG02'E
 Other: Baa Nam Phan - see Cochin China (Miller, p. 1)
  
 65
 NAM QUAN - town, Vietnam 21DEG55'N 106DEG42'E Other: Nacham
-NAMTU - town, Burma 23DEGO5'N 97DEG24'E Other: Namtu Panghai
+NAMTU - town, Burma 23DEG05'N 97DEG24'E Other: Namtu Panghai
 Namtu Panghai - see Namtu
 Nam Vang - see Phnom Penh
 Nam Viet - see Vietnam
@@ -2171,9 +2171,9 @@ Narikeladvipa - see Nicobar (Wheatley, p. 184)
 Narikera - see Nicobar (Herrmann, p. 31)
 Nasor - see Patani (?I.S.S.E.A., p. 244)
 Na-ts'an shan - see Lasem (Mills, n. 417)
-NATUNA BESAR - islands, Indonesia 4DEGOO'N 108DEG15'E Other: Bungoran; Grand Natuna: Mao shan
-NATUNA SELANTAN - islands, Indonesia 2DEG45'N 109DEGOO'E Other: Pulo Lant; Southern Natuna; Sarasan; Serasan
-NATUNA UTARA - islands, Indonesia 4DEG40'N 108DEGOO'E Other: Kan lan; Northern Natuna, Olive Islands
+NATUNA BESAR - islands, Indonesia 4DEG00'N 108DEG15'E Other: Bungoran; Grand Natuna: Mao shan
+NATUNA SELANTAN - islands, Indonesia 2DEG45'N 109DEG00'E Other: Pulo Lant; Southern Natuna; Sarasan; Serasan
+NATUNA UTARA - islands, Indonesia 4DEG40'N 108DEG00'E Other: Kan lan; Northern Natuna, Olive Islands
 Nauacar - see Nicobar
 Navacar - see Nicobar
 Necumea - see Nicobar
@@ -2194,7 +2194,7 @@ Netherlands (Fast) Indies - see Indonesia (Room, p. 55)
 Netherlands New Guinea - see Irian Jaya
 New Biscay - see Nueva Vizcaya (Crawfurd, p. 301)
 New Department Haven - see Qui Nhon
-NEW GUINEA - island, Indonesia/Papua-New Guinea 5DEG45'S 140DEGOO'E Other: Irian; Nieuw Guinee; Nueva Guinea; Nu Gini
+NEW GUINEA - island, Indonesia/Papua-New Guinea 5DEG45'S 140DEG00'E Other: Irian; Nieuw Guinee; Nueva Guinea; Nu Gini
 New Harbour - see Keppel Harbor (Room, p. 66)
 Ngajogy A Karta - see Jogjakarta
 Ngan-an - see Vietnam
@@ -2204,8 +2204,8 @@ NGHIA HUNG - town, Vietnam 19DEG19'N 105DEG25'E Other: Phu Qui
 NHA TRANG - town, Vietnam 12DEG15'N 109DEG11'E Other: Kauthara
 NHON - mountain, Vietnam 10DEG47'N 107DEG45'E Other: Fu ting shan; Nui Khong; Nui Nong
 Nia - see Nias (Crawfurd, p. 300)
-NIAS - island, Indonesia 1DEGO5'N 97DEG35'E Other: Liang san bei: Nia
-NICOBAR - islands, India 8DEG28'N 94DEGO4'E Other: Ch'u 1uan wu; Coconut Land; Kingdom of Naked People; Lanjabalus; Manakkaram; Manakkavaram; Marikeladvipa; Nacabar; Nagabari; Naja Bara; Nakkavaram; Nalo-kilo-chen?; Nanakkavaram; Narikeladvipa; Narikera; Nauacar; Navacar; Necumea; Necuran; Necuveran; Nesoi Baroussai?; Niconber; Nicuveran; Nikobar; Nikobaren; Novacar; Rakchas; Sar jal; Sombrero Islands; Ts'ui lan hsu; Ts'ui lan shan
+NIAS - island, Indonesia 1DEG05'N 97DEG35'E Other: Liang san bei: Nia
+NICOBAR - islands, India 8DEG28'N 94DEG04'E Other: Ch'u 1uan wu; Coconut Land; Kingdom of Naked People; Lanjabalus; Manakkaram; Manakkavaram; Marikeladvipa; Nacabar; Nagabari; Naja Bara; Nakkavaram; Nalo-kilo-chen?; Nanakkavaram; Narikeladvipa; Narikera; Nauacar; Navacar; Necumea; Necuran; Necuveran; Nesoi Baroussai?; Niconber; Nicuveran; Nikobar; Nikobaren; Novacar; Rakchas; Sar jal; Sombrero Islands; Ts'ui lan hsu; Ts'ui lan shan
 Niconber - see Nicobar
 Nicuveran - see Nicobar (Lach, p. 502)
 Nieuw Guinee - see New Guinea
@@ -2267,7 +2267,7 @@ PAGAN - ancient town, Burma circa 22DEG38'N 95DEG20'E Other: Arimaddanapura; Fu-
 Pageh - see Pagi (Crawfurd, p. 318)
 Pagen - see Pagi
 Paghinzara - see Roang
-PAGI - islands, Indonesia 2DEG45'S 100DEGO2'E Other: Pagai; Pageh; Pagen; Pai sha; Poggy
+PAGI - islands, Indonesia 2DEG45'S 100DEG02'E Other: Pagai; Pageh; Pagen; Pai sha; Poggy
 Pago - see Pegu
 Pagoda Island - see Berhala
 PAGSANJAN - town, Philippines 14DEG16'N 121DEG27'E Other: Batocan
@@ -2293,7 +2293,7 @@ Pajang - see Surakarta
 PAKCHAN - river, Burma/Thailand 9DEG58'N 98DEG35'E Other: Mae Nam Kra Buri
 Pa-ki-nung - see Busuanga
 Paknam - see Samut Prakan
-PAKNAM PHO - town, Thailand 15DEG43'N 100DEGO9'E Other: Phraek; Praek
+PAKNAM PHO - town, Thailand 15DEG43'N 100DEG09'E Other: Phraek; Praek
 Palaba - see Palawan
 Palandas - see Johor River (Wheatley, p. 157)
 Palaoan - see Palawan (Quirino, p. 70)
@@ -2354,7 +2354,7 @@ P'an-p'an - see Chaiya
 Pan-Pan - see Chaiya
 Pansem - see Pasai
 Pansur - see Barus (Milis, n. 456)
-PANTAR - island, Indonesia 8DEG25'S 124DEGO7'E Other: Pandai; Putar
+PANTAR - island, Indonesia 8DEG25'S 124DEG07'E Other: Pandai; Putar
 Pan-tsu - see 1. Barus (Mills, n. 456) 2. Singapore (Wheatley, pe BI
 Pan-tsuh-urh - see Barus
 Pao - see Pahang (Wheatley, p. 166)
@@ -2370,14 +2370,14 @@ PAPUA-NEW GUINEA - nation, Southeast Asia
 Papuaas - see Papua
 Papuasia - see Papua
 Pa-pu-ya-ssu - see Papua (L. Giles, p. 22)
-PARACEL - islands, Vietnam [?China] 16DEGOO'N 112DEG15'E Other: Hirata Gunto; Hsi-sha Ch'un-tao; Paracels; Pracel; Quan Dao Hoang Sa; Tsiao-shih (actually, one of group); Wan li shih t'ang; Wan sheng shih t'ang hsti; Xishaqundao
+PARACEL - islands, Vietnam [?China] 16DEG00'N 112DEG15'E Other: Hirata Gunto; Hsi-sha Ch'un-tao; Paracels; Pracel; Quan Dao Hoang Sa; Tsiao-shih (actually, one of group); Wan li shih t'ang; Wan sheng shih t'ang hsti; Xishaqundao
 Paracels - see Paracel
 Paragoa - see Palawan
 Paragoia - see Palawan
 Paragoya - see Palawan (Quirino, p. 71)
 Paragua - see Palawan (Quirino, p. 70; Crawfurd, p. 320; Room, p. 115, P.C,G.Nog ps 8)
 Parcelar Hill - see Jugra (Wheatley, p. 95: Mills, n. 394)
-PAREPARE - town, Indonesia 4DEGO1'S 119DEG38'E Other: Pari-Pari
+PAREPARE - town, Indonesia 4DEG01'S 119DEG38'E Other: Pari-Pari
 Pari-Pari - see Parepare (Crawfurd, p. 328)
 PARIT KASAN - canal, Malaysia 2DEG13'N 102DEG38'E Other: Casam; Kasan; Kasang
 Parllak - see Perlak
@@ -2412,7 +2412,7 @@ PEGU - town and region, Burma 17DEG20'N 96DEG29'E Other: Arramana; Bago; Bagoo; 
 Pei P'ing t'ou shan - see Andaman (Mills, n. 463)
 PEKALONGAN - town and ancient state, Indonesia 6DEG53'S 109DEG40'E Other: P'u-chia-long; P'u-chia-lung; Su-chi-tan?; Wu chueh [Occasionally refers to the island of Java (e.g., Schlegel "AMI Po 273 7al
 Pelompong - see Pelumpong (Mills, n. 315)
-PELUMPONG - point, Brunei 5DEGO3'N 115DEGO6'E Other: Li yt t'ang; Pelompong
+PELUMPONG - point, Brunei 5DEG03'N 115DEG06'E Other: Li yt t'ang; Pelompong
 Penang - see Pinang (Crawfurd, p. 331)
 P'eng-feng - see Pahang (Wheatley, p. 69; I.S.S.E.A., p. 184)
 P'eng-fong - see Pahang
@@ -2430,7 +2430,7 @@ Pen-t'o-lang - see Phan Rang (Wheatley)
 Peperim - see Phetburi (Wheatley, p. 320)
 Pera - see Perak
 Perach - see Perak
-PERAK - state, Malaysia 5DEGOO'N 101DEGOO'E Other: Kuala Kangsar; Pera; Perach; Pirac
+PERAK - state, Malaysia 5DEG00'N 101DEG00'E Other: Kuala Kangsar; Pera; Perach; Pirac
 Perbuwatan - see Krakatau
 PERHENTIAN BESAR - island, Malaysia 5DEG54'N 102DEG46'E Other: San chueh hsu; Yang hsu
 PERLAK - ancient kingdom, Indonesia (near Kutaraja)
@@ -2441,7 +2441,7 @@ Pesakkao - see Champasak
 Petburi - see Phetburi
 Petchbun - see Phetchabun
 74
-Petchaburi - see Phetburi PEUREULAK - cape, Indonesia 4DEG54'N 97DEG54'E Other: Diamond Point, Pa-la hst; Pa-lu-t'ou; Perlak Head; Udjung Peureula PHAN RANG - town and region, Vietnam 11DEG34'N 108DEG59'E Other: Kundrang; Kung nai k'ou; Panduranga; Pen-t'o-lang?; Phan Ranh; Pindala; Pin-t'ung-1ung; She wei ch'i shih; Valaippanduru? Phan Rang River - see Song Kinh Dinh Phan Ranh - see Phan Rang PHANOM DONG RAK - mountains, Thailand(/Kampuchea) 14DEG25'N 104DEG30'E Other: Dangrek; Donrak PHATTHALUNG - town, Thailand 7DEG37'N 100DEGO5'E Other: Chih-t'u; Padalung; Patalung; Raktamrittika?; Red Earth Land Phe-hang-kong - see Pahang River (Wheatley, p. 96) PHETBURI - town, Thailand 13DEG06'N 99DEG57'E Other: Bejraburi; Pechaburi; Peperim; Petburi; Petchaburi; Pipili; Pipri PHETCHABUN - town, Thailand 16DEG25'N 101DEG08'E Other: Bejraburana; Bejrapurna; Petchabun hichit - see Phicit HICIT - town, Thailand 16DEG15'N 100DEG25'E Other: Bichitra; Bichtra; Bicitra; Phichit; P'ichit; Picit; Pijit; Saraluang HILIPPINES - nation, Southeast Asia Other: Felipinas; Indias Espafiolas; Islas Filipinas; Ma-i; Ma-i-maid; Magallania; Pilipinas; (Islas de) Poniente; (Islas de) San LÉzaro; "Isles of the West"; Sebadibae Insulae PHITSANULOK - town, Thailand 16DEG50'N 100DEG15'E Other: Bishnuloka; Bisnulok; P'isnulok; Pitsalauk; Pitsanulok; Pitsnulok; Song Khwae; Song K'we PHNOM KULEN - mountain, Kampuchea 13DEG35'N 104DEG05'E Other: Mahendra; Mahendraparvata Phnom Kto - see Coto PHNOM PENH - city, Kampuchea 11DEG33'N 104DEG55'E Other: Chidor-muc; Chu-li-mu: Chudermuch; Nam Vang; Panom Peng; Pnom-peigne; Pnompenh; Pnum Penh; Ta shan? Phnum Angkor Borei - see Angkor Borei Phraek - see Paknam Pho (I.S.S.E.A., p. 204) Phran - see Phranburi PHRANBURI - town, Thailand 12DEG23'N 99DEG55'E Other: Joran; Phran; Pram; Pran Phsar Dek - see Sa Dec (Miller, p. 15) PHUKET - town, Thailand 7DEG53'N 98DEG24'E Other: Bhuket; Chalang; Iunsaloon; Juncalom; Juncalon; Junk Ceylon; Junkseylon; Popra?; Puket; Salang; Thalang; Ujong Salang; Urang Salah; Yang-hsi-ling PHUMI BAK SNA - town, Kampuchea 12DEG58'N 103DEG43'E Other: Champeam Kenong
+Petchaburi - see Phetburi PEUREULAK - cape, Indonesia 4DEG54'N 97DEG54'E Other: Diamond Point, Pa-la hst; Pa-lu-t'ou; Perlak Head; Udjung Peureula PHAN RANG - town and region, Vietnam 11DEG34'N 108DEG59'E Other: Kundrang; Kung nai k'ou; Panduranga; Pen-t'o-lang?; Phan Ranh; Pindala; Pin-t'ung-1ung; She wei ch'i shih; Valaippanduru? Phan Rang River - see Song Kinh Dinh Phan Ranh - see Phan Rang PHANOM DONG RAK - mountains, Thailand(/Kampuchea) 14DEG25'N 104DEG30'E Other: Dangrek; Donrak PHATTHALUNG - town, Thailand 7DEG37'N 100DEG05'E Other: Chih-t'u; Padalung; Patalung; Raktamrittika?; Red Earth Land Phe-hang-kong - see Pahang River (Wheatley, p. 96) PHETBURI - town, Thailand 13DEG06'N 99DEG57'E Other: Bejraburi; Pechaburi; Peperim; Petburi; Petchaburi; Pipili; Pipri PHETCHABUN - town, Thailand 16DEG25'N 101DEG08'E Other: Bejraburana; Bejrapurna; Petchabun hichit - see Phicit HICIT - town, Thailand 16DEG15'N 100DEG25'E Other: Bichitra; Bichtra; Bicitra; Phichit; P'ichit; Picit; Pijit; Saraluang HILIPPINES - nation, Southeast Asia Other: Felipinas; Indias Espafiolas; Islas Filipinas; Ma-i; Ma-i-maid; Magallania; Pilipinas; (Islas de) Poniente; (Islas de) San LÉzaro; "Isles of the West"; Sebadibae Insulae PHITSANULOK - town, Thailand 16DEG50'N 100DEG15'E Other: Bishnuloka; Bisnulok; P'isnulok; Pitsalauk; Pitsanulok; Pitsnulok; Song Khwae; Song K'we PHNOM KULEN - mountain, Kampuchea 13DEG35'N 104DEG05'E Other: Mahendra; Mahendraparvata Phnom Kto - see Coto PHNOM PENH - city, Kampuchea 11DEG33'N 104DEG55'E Other: Chidor-muc; Chu-li-mu: Chudermuch; Nam Vang; Panom Peng; Pnom-peigne; Pnompenh; Pnum Penh; Ta shan? Phnum Angkor Borei - see Angkor Borei Phraek - see Paknam Pho (I.S.S.E.A., p. 204) Phran - see Phranburi PHRANBURI - town, Thailand 12DEG23'N 99DEG55'E Other: Joran; Phran; Pram; Pran Phsar Dek - see Sa Dec (Miller, p. 15) PHUKET - town, Thailand 7DEG53'N 98DEG24'E Other: Bhuket; Chalang; Iunsaloon; Juncalom; Juncalon; Junk Ceylon; Junkseylon; Popra?; Puket; Salang; Thalang; Ujong Salang; Urang Salah; Yang-hsi-ling PHUMI BAK SNA - town, Kampuchea 12DEG58'N 103DEG43'E Other: Champeam Kenong
 "gj "d
  
 ig
@@ -2451,7 +2451,7 @@ PHUMIPHON - dam, Thailand 17DEG15'N 98DEG58'E Other: Khuan Phumiphon; Yanhee
 PHUOC CHAU - island, Vietnam 13DEG37'N 109DEG21'E Other: Hon Phuoc Chau; Poulo Gambir: Yang hsu
 Phuoc Le - see Ba Ris
 Phu Qui - see Nghia Hung
-PHU QUOC - island, Vietnam 10DEG13'N 104DEGOO'E Other: Dao Pha Quoc; Kohtrol; P'ou-kok
+PHU QUOC - island, Vietnam 10DEG13'N 104DEG00'E Other: Dao Pha Quoc; Kohtrol; P'ou-kok
 Phu Vinh - see Tra Vinh
 Phu Xuan - see Hue
 P'iao - see Pyu
@@ -2491,7 +2491,7 @@ Plain of Reeds - see Dong Thap Muoi
 Plaine des Joncs - see Dong Thap Muoi
  
 76
-PLAY CU - town, Vietnam 13DEG59'N 108DEGOO'E Other: Gia Lai; Pleiku
+PLAY CU - town, Vietnam 13DEG59'N 108DEG00'E Other: Gia Lai; Pleiku
 Pleiku - see Play Cu
 Pnom-Peigne - see Phnom Penh
 Pnompenh - see Phnom Penh
@@ -2522,7 +2522,7 @@ P'o-ni - see Brunei (Mills, n. 500; Wheatley, p. 68 states simply "Borneo," whil
 Po-ni - see Brunei (Brown, p. 132; I.S.S.E.A., p. 129)
 Poniente, Islas de - see Philippines (Quirino, p. 71)
 Pontain - see Bintan (Schlegel "A", p. 376)
-PONTIANAK - town, Indonesia ODEGO2'S 109DEG20'E Other: Pontiyanak
+PONTIANAK - town, Indonesia ODEG02'S 109DEG20'E Other: Pontiyanak
 Pontiyanak - see Pontianak (Crawfurd, p. 359)
 Poong - see Mogaung
 Popra - see Phuket
@@ -2544,7 +2544,7 @@ Poulo Wai - see Wai
 77
 PRABALINGGA - town, Indonesia 7DEG45'S 113DEG13'E Other: Bangar; Probolinggo
 Pracel - see Paracel
-PRACHINBURI - town, Thailand 14DEGO3 N 101DEG22'E
+PRACHINBURI - town, Thailand 14DEG03 N 101DEG22'E
 Other: Brajinburi; Pracinapuri
 Prachuab Girikhand - see Prachuap Khirikhan
 PRACHUAP KHIRIKHAN - town, Thailand 11DEG49'N 99DEG48'E
@@ -2556,7 +2556,7 @@ Prai - see Province Wellesley
 Pram - see Phranburi (Hutchinson, p. 94)
 PRAMBANAN - town, Indonesia 7DEG22'S 109DEG58'E Other: Brambanan: Prumbanan
 Pran - see Phranburi
-PRATHUMTHANI - town, Thailand 14DEGO1'N 100DEG32'E Other: Patumdhani
+PRATHUMTHANI - town, Thailand 14DEG01'N 100DEG32'E Other: Patumdhani
 Premyo - see Prome
 Prey Kor - see Ho Chi Minh City
 Prey Nokor - see Ho Chi Minh City
@@ -2661,7 +2661,7 @@ Ramni - see Achin (I.S.S.E.A, p. 146; Schlegel "C", p. 197 pre- fers the more ge
 Rangae - see Narathiwat
 RANGOON - city, Burma 16DEG47'N 96DEG10'E Other: Dagon; Dagoon; Dagun; Degu; Dozo; Rangun; Ran-kun
 RANGOON RIVER - Burma 16DEG29'N 96DEG21'E Other: Hlaing
-RANGSANG - island, Indonesia 1DEGOO'N 102DEG55'E Other: Kuei hsti
+RANGSANG - island, Indonesia 1DEG00'N 102DEG55'E Other: Kuei hsti
 Rangun - see Rangoon
 Ran-kun - see Rangoon
 Ranot - see Chathingphra
@@ -2683,7 +2683,7 @@ Republic of Singapore - see Singapore
 Republic of Vietnam - see Vietnam
 Rheo - see Riau
 Rhio - see Riau (Crawfurd, p. 266)
-RIAU - islands, Indonesia 1DEGOO'N 104DEG30'E Other: Rheo; Rhio; Rijau; Riouw; Riyau
+RIAU - islands, Indonesia 1DEG00'N 104DEG30'E Other: Rheo; Rhio; Rijau; Riouw; Riyau
 Rijau - see Riau (P.C.G.N., p. 9)
 Rio Grande de Cagayan - see Cagayan
 Rio Grande de Pampanga - see Pampanga
@@ -2696,16 +2696,16 @@ Ro - see Run (Lach, p. 609)
 ROANG - island?, Philippines?
 Other: Biaro?; Paghinzara; Pangasare?; Tagulanda? [See Pigafetta, v. 2, p. 205, n. 458.]
 Roi Ed - see Roiet
-ROIET - town, Thailand 16DEGO3'N 103DEG40'E Other: Roi Ed
+ROIET - town, Thailand 16DEG03'N 103DEG40'E Other: Roi Ed
 Rokhang - see Arakan
-ROLUOS - town, Kampuchea 13DEG19'N 104DEGOO'E Other: Hariharalaya
+ROLUOS - town, Kampuchea 13DEG19'N 104DEG00'E Other: Hariharalaya
 Rom - see Run
-RON, MUI - cape, Vietnam 18DEGO1'N 106DEG27'E Other: Cap Mui Ron; Cap Mui Ron Ma; Hai pao shan
-RONDO - island, Indonesia 6DEGO5'N 95DEGO6'E Other: Lung hsien hsu
+RON, MUI - cape, Vietnam 18DEG01'N 106DEG27'E Other: Cap Mui Ron; Cap Mui Ron Ma; Hai pao shan
+RONDO - island, Indonesia 6DEG05'N 95DEG06'E Other: Lung hsien hsu
 Rooke - see Umboi
 Rosengain - see Rosingen
 Rosingain - see Rosingen (Lach, p. 609)
-ROSINGEN - island, Indonesia  4DEG35'S 130DEGO1'E Other: Bassingen?; Rosengain; Rosingain; Rosoghin; Rosolangium; Rosolanguim; Rozengyn
+ROSINGEN - island, Indonesia  4DEG35'S 130DEG01'E Other: Bassingen?; Rosengain; Rosingain; Rosoghin; Rosolangium; Rosolanguim; Rozengyn
 Rosoghin - see Rosingen (Pigafetta, v. 2, ps 153]
 Rosolangium - see Rosingen
 Rosolanguim - see Rosingen (Lach, p. 609)
@@ -2726,9 +2726,9 @@ Rung - see Run (Pigafetta, v. 2, p. 223, n. 559; Crawfurd, p. 33)
 RUSA - island, Indonesia 5DEG17'N 95DEG12'E Other: Hu wei chiao Ruson - see Luzon (Quirino, p. 71)
 83
 ae
-Saba - see 1. Java 2. Sabah 3. Sumatra SABAH - state, Malaysia 5DEG30'N 117DEGOO'E Other: Borneo Utara; British North Borneo; North Borneo; Saba Sabana - see Singapore (Herrmann, p. 19) Sabara Emporion - see Singapore (?Wheatley, p. 152) Saborma - see Sumatra Sabura - see Leyte (Quirino, p. 71) SA DEC - town, Vietnam 10DEG18'N 105DEG46'E Other: Phsar Dek; Sadec Sadec - see Sa Dec Sadong - see Simunjan Sagaing - see Ho Chi Minh City SAIBURI - district, Thailand 6DEG42'N 101DEG38'E Other: Say; Teluban; Telubin; Telupin SAIFANG - town, Laos 20DEGO5'N 102DEGO2'E Other: Ai Fang Saigon - see Ho Chi Minh City (Room, p. 51; Miller, p. 15) Saigong - see Ho Chi Minh City Sai-gun - see Ho Chi Minh City Sai Khong - see Ho Chi Minh City Sailon - see 1. Leyte (Quirino, p. 69) 2. Panaon (Quirino, p. 71) Saint Patrick - see Baluan (U.S., p. 24) Saint Petrus - see Muri SAJA - island, Indonesia ODEG47'S 104DEG58'E Other: Man t'ou hsti Sakalangara - see Sakon Nakhon Sakol Nakorn - see Sakon Nakhon SAKON NAKHON - town, Thailand 17DEG10'N 104DEG09'E Other: Sakalangara; Sakol Nakorn; Sgon Nakon Salabos - see Sulawesi (?Pigafetta, v. 2, p. 208, n. 462) Salaht - see Straits of Malacca Salajar - see Salayar Salang - see Phuket Salangore - see Selangor (Crawfurd, p. 336) SALAYAR - island, Indonesia 6DEGO5'S 120DEG30'E Other: Kabia; Salajar; Salayer; Saleijer; Selajar Salayer - see Salayar Saleijer - see Salayar Salibabu - see Talaud (P.C.G.N., p. 10) Salibres - see Sulawesi Salleta de Brew - see Johor Strait SALWEEN - river, Burma/China 16DEG31'N 97DEG37'E Other: Lu Kiang; Mae Nam Khong; Martaban River; Nu chiang; Nu Kiang; Salwin; Thaluan; Than win Salwin - see Salween (P.C.G.N., p. 9) SAMAR - region and islands, Philippines 11DEG30'N 126DEGO7'E Other: Achan; Gamlaya; Gandaya; Gaylon; Ibabao, Ibadeo; Tandara; Tandaya; Tandola; Taridola; Tendaia; Western Samar;
+Saba - see 1. Java 2. Sabah 3. Sumatra SABAH - state, Malaysia 5DEG30'N 117DEG00'E Other: Borneo Utara; British North Borneo; North Borneo; Saba Sabana - see Singapore (Herrmann, p. 19) Sabara Emporion - see Singapore (?Wheatley, p. 152) Saborma - see Sumatra Sabura - see Leyte (Quirino, p. 71) SA DEC - town, Vietnam 10DEG18'N 105DEG46'E Other: Phsar Dek; Sadec Sadec - see Sa Dec Sadong - see Simunjan Sagaing - see Ho Chi Minh City SAIBURI - district, Thailand 6DEG42'N 101DEG38'E Other: Say; Teluban; Telubin; Telupin SAIFANG - town, Laos 20DEG05'N 102DEG02'E Other: Ai Fang Saigon - see Ho Chi Minh City (Room, p. 51; Miller, p. 15) Saigong - see Ho Chi Minh City Sai-gun - see Ho Chi Minh City Sai Khong - see Ho Chi Minh City Sailon - see 1. Leyte (Quirino, p. 69) 2. Panaon (Quirino, p. 71) Saint Patrick - see Baluan (U.S., p. 24) Saint Petrus - see Muri SAJA - island, Indonesia ODEG47'S 104DEG58'E Other: Man t'ou hsti Sakalangara - see Sakon Nakhon Sakol Nakorn - see Sakon Nakhon SAKON NAKHON - town, Thailand 17DEG10'N 104DEG09'E Other: Sakalangara; Sakol Nakorn; Sgon Nakon Salabos - see Sulawesi (?Pigafetta, v. 2, p. 208, n. 462) Salaht - see Straits of Malacca Salajar - see Salayar Salang - see Phuket Salangore - see Selangor (Crawfurd, p. 336) SALAYAR - island, Indonesia 6DEG05'S 120DEG30'E Other: Kabia; Salajar; Salayer; Saleijer; Selajar Salayer - see Salayar Saleijer - see Salayar Salibabu - see Talaud (P.C.G.N., p. 10) Salibres - see Sulawesi Salleta de Brew - see Johor Strait SALWEEN - river, Burma/China 16DEG31'N 97DEG37'E Other: Lu Kiang; Mae Nam Khong; Martaban River; Nu chiang; Nu Kiang; Salwin; Thaluan; Than win Salwin - see Salween (P.C.G.N., p. 9) SAMAR - region and islands, Philippines 11DEG30'N 126DEG07'E Other: Achan; Gamlaya; Gandaya; Gaylon; Ibabao, Ibadeo; Tandara; Tandaya; Tandola; Taridola; Tendaia; Western Samar;
 84
-SAMAR (continued) Zamal Samara - see Sumatra Samarade - see Sumatra Samarang - see Semarang (Crawfurd, p. 374) Samarcha - see Sumatra Samatra - see Sumatra Sambhupura - see Sambor (I.S.S.E.A., p. 94) SAMBOR - ancient town, Kampuchea circa 11DEG52'N 104DEG51'E Other: Sambhupura; T'sien-lap Samothrah - see Sumatra SAMPIT - bay, Indonesia 3DEGO5'S 113DEGO3'E Other: San-mi chiang Samroiyot - see Khao Samroiyot Samudra - see Sumatra Sumudraprakara - see Samut Prakan Sa-mu-ta-la - see Sumatra Samuthrah - see Sumatra SAMUT PRAKAN - town, Thailand 13DEG36'N 100DEG36'E Other: Paknam; Samudraprakara; Samut Prakarn; Smut Bragan Samut Prakarn - see Samut Prakan SAMUT SAKHON - town, Thailand 13DEG32'N 100DEG17'E Other: Maha Chai; Tha Chin SAMUT SONGKHRAM - town, Thailand 13DEG24'N 100DEGOO'E Other: Meklong SANANA - island, Indonesia 2DEG12'S 125DEG55'E Other: Besi; Sula Besi San chüeh hsu - see Perhentian Besar (Mills, n. 511) Sanbilan - see Sembilan (Wheatley, p. 236) San-bo-tsai - see Palembang (Sri Vijaya) (I.S.S.E.A., p. 244) Sandalwood Island - see Sumba (Crawfurd, p. 375) SANDOWAY - town, Burma 18DEG28'N 94DEG22'E Other: Savady; Sodoe Sanf - see Champapura (Wheatley, p. 225 states "Campa;" Herrmann, p. 39 prefers Champa) San Fo-ch'i - see Palembang (Sri Vijaya) (Wheatley, p. 63; Mills, n. 512; Wolters, p. 4) San-fo-ch'i - see 1. Jambi (Wheatley, p. 89) 2. Sri Vijaya (Wheatley, p. 91) San-fo-chi - see Palembang (Sri Vijaya) (L. Giles, p. 21) San fo hst - see Alangtiga (Mills, n. 513) San-fo-t'si - see Palembang (Sri Vijaya) (I.S.S.E.A., p. 180) Sang Hyang Hujung - see Rachado (I.S.S.E.A., p. 244) Sang-Koi - see Song Hong SANGEANG - island, Indonesia 8DEG12'S 119DEGO4'E Other: Huo shan Sanghir - see Sangihe (Pigafetta, v. 2, p. 205, n. 457) Sangi - see Sangihe SANGIANG - island, Indonesia 5DEG57'S 105DEG51'E Other: Ta hsiao i shan SANGIHE - island(s), Indonesia 3DEGOO'N 125DEG30'E Other: Sanghir; Sangi; Sangir; Sanguin; Sanguir; Sichao
+SAMAR (continued) Zamal Samara - see Sumatra Samarade - see Sumatra Samarang - see Semarang (Crawfurd, p. 374) Samarcha - see Sumatra Samatra - see Sumatra Sambhupura - see Sambor (I.S.S.E.A., p. 94) SAMBOR - ancient town, Kampuchea circa 11DEG52'N 104DEG51'E Other: Sambhupura; T'sien-lap Samothrah - see Sumatra SAMPIT - bay, Indonesia 3DEG05'S 113DEG03'E Other: San-mi chiang Samroiyot - see Khao Samroiyot Samudra - see Sumatra Sumudraprakara - see Samut Prakan Sa-mu-ta-la - see Sumatra Samuthrah - see Sumatra SAMUT PRAKAN - town, Thailand 13DEG36'N 100DEG36'E Other: Paknam; Samudraprakara; Samut Prakarn; Smut Bragan Samut Prakarn - see Samut Prakan SAMUT SAKHON - town, Thailand 13DEG32'N 100DEG17'E Other: Maha Chai; Tha Chin SAMUT SONGKHRAM - town, Thailand 13DEG24'N 100DEG00'E Other: Meklong SANANA - island, Indonesia 2DEG12'S 125DEG55'E Other: Besi; Sula Besi San chüeh hsu - see Perhentian Besar (Mills, n. 511) Sanbilan - see Sembilan (Wheatley, p. 236) San-bo-tsai - see Palembang (Sri Vijaya) (I.S.S.E.A., p. 244) Sandalwood Island - see Sumba (Crawfurd, p. 375) SANDOWAY - town, Burma 18DEG28'N 94DEG22'E Other: Savady; Sodoe Sanf - see Champapura (Wheatley, p. 225 states "Campa;" Herrmann, p. 39 prefers Champa) San Fo-ch'i - see Palembang (Sri Vijaya) (Wheatley, p. 63; Mills, n. 512; Wolters, p. 4) San-fo-ch'i - see 1. Jambi (Wheatley, p. 89) 2. Sri Vijaya (Wheatley, p. 91) San-fo-chi - see Palembang (Sri Vijaya) (L. Giles, p. 21) San fo hst - see Alangtiga (Mills, n. 513) San-fo-t'si - see Palembang (Sri Vijaya) (I.S.S.E.A., p. 180) Sang Hyang Hujung - see Rachado (I.S.S.E.A., p. 244) Sang-Koi - see Song Hong SANGEANG - island, Indonesia 8DEG12'S 119DEG04'E Other: Huo shan Sanghir - see Sangihe (Pigafetta, v. 2, p. 205, n. 457) Sangi - see Sangihe SANGIANG - island, Indonesia 5DEG57'S 105DEG51'E Other: Ta hsiao i shan SANGIHE - island(s), Indonesia 3DEG00'N 125DEG30'E Other: Sanghir; Sangi; Sangir; Sanguin; Sanguir; Sichao
 85
 Sangir - see Sangihe (Crawfurd, p. 375)
 Sanguin - see Sangihe (Lach, p. 641)
@@ -2741,7 +2741,7 @@ San-pa-wa - see Sumbawa (Milis, n. 516)
 San-tao-kuo - see Palawan
 Saparowa - see Saparua (Crawfurd, p. 376)
 SAPARUA - island, Indonesia 3DEG34'S 128DEG40'E Other: Honimoa; Loregore; Saparowa; Sapurba; Sapurwa; Suparowa; Supurua
-SAPATE - island, Vietnam 9DEG58'N 109DEGO4'E Other: Sapatu; Tung tung
+SAPATE - island, Vietnam 9DEG58'N 109DEG04'E Other: Sapatu; Tung tung
 Sapatu - see Sapate
 SAPE (SELAT) - strait, Indonesia 8DEG39'S 119DEG18'E Other: Sapi; Sappy; Shuang p'ai; Ta chi shui
 Sapi - see Sape (Crawfurd, p. 376)
@@ -2763,7 +2763,7 @@ Sat-Choo - see Mekong
 Satchanalai - see Sawankhalok (I.S.S.E.A., p. 219)
 Satul - see Satun
 SATUMU - island, Singapore 1DEG1O'N 103DEG44'E Other: Ch'ang yao hsü; Coney Islet; Raffles Light
-SATUN - town, Thailand 6DEG37'N 100DEGO4'E Other: Satul; Setul
+SATUN - town, Thailand 6DEG37'N 100DEG04'E Other: Satul; Setul
 Savady - see Sandoway
 Savoe - see Savu (Crawfurd, p. 377)
 SAVU - islands, Indonesia 10DEG30'S 121DEG50'E Other: Satchanalai; Si Satchanalai; Sri Sajjanalaya; Suruculoec; Svargaloka; Swankalok; Wang mai khon
@@ -2802,13 +2802,13 @@ Selebes - see Sulawesi
 Seloque - see Sulu (Pigafetta, v. 2, p. 207, n. 462)
 Seludong - see Manila
 SEMARANG - city, Indonesia 6DEG58'S 110DEG25'E Other: Samarang
-SEMBILAN - islands, Malaysia 4DEGO2'N 100DEG33'E Other: Chiu-chou; Pullocambilam; Sanbilan
+SEMBILAN - islands, Malaysia 4DEG02'N 100DEG33'E Other: Chiu-chou; Pullocambilam; Sanbilan
 Semenanjong Malaysia - see Malay Peninsula
 Semudera - see Sumatra
 Seng-ch'ieh - see Sri Lanka (Mills, n. 518)
 SEPIK - river, Papua-New Guinea 3DEG51'S 144DEG34'E Other: Kaiserin Agusta; Kaiserin Augusta
 Seque - see Batjan (Lach, p. 604)
-SERAM - island, Indonesia 3DEGOO'S 129DEGOO'E Other: Ceiram; Ceram; Gorong; Seran; Serang; Varanura
+SERAM - island, Indonesia 3DEG00'S 129DEG00'E Other: Ceiram; Ceram; Gorong; Seran; Serang; Varanura
 Seran - see Seram
 Serang - see Seram (Crawfurd, p. 92)
 Serasan - see Natuna Selantan
@@ -2820,7 +2820,7 @@ Serendip - see Sri Lanka
 SERIBUAT - island, Malaysia 2DEG41'N 103DEG55'E Other: Shih chiao; Sribuat
 Sernau - see Thailand (Guehler, p. 264)
 SEROM - islands, Indonesia 5DEG45'S 105DEG48'E Other: Gezusters; Kuei ban
-SERTUNG - island, Indonesia 6DEGO6'S 105DEG24'E Other: Ma an shan; Verlaten
+SERTUNG - island, Indonesia 6DEG06'S 105DEG24'E Other: Ma an shan; Verlaten
 Serwati - see Serawatti (Crawfurd, p. 378)
 Serwatti - see Serawatti
 Setul - see Satun
@@ -2855,7 +2855,7 @@ Shri-Vijaya - see Palembang (Sri Vijaya)
 Shuang p'ai - see Sape (Milis, n. 560)
 Shfmatrah - see Sumatra (Pigafetta, v. 2, p. 234, n. 626)
 Shun-t'a - see Bantam (Millis, n. 564)
-SHWEBO - town, Burma 24DEG21'N 97DEGO7'E Other: Moksobo; Moksobomyo
+SHWEBO - town, Burma 24DEG21'N 97DEG07'E Other: Moksobo; Moksobomyo
 Shwemyo — see Mandalay
 Sia-chi-san - see Banang (Wheatley, p. 95)
  
@@ -2873,7 +2873,7 @@ Sibolga, Teluk - see Tapanuli
 SIBU - district, Malaysia 2DEG18'N 111DEG49'E Other: Maling: Sibau
 Sibuyan (Mountain) - see Guitingguitin
 SIBUYAN - island, Philippines 12DEG19'N 122DEG25'E Other: Tabas
-SICAPOO - mountain, Philippines 18DEGO1'N 120DEG58'E Other: Pacsan
+SICAPOO - mountain, Philippines 18DEG01'N 120DEG58'E Other: Pacsan
 Sichao - see Sangihe (Lach, p. 618)
 Sidaiu - see Sidayu (Pigafetta, v. 2, p. 229, n. 587)
 SIDAYU - ancient town, Indonesia (near Japara)
@@ -2942,7 +2942,7 @@ Smut Bragan - see Samut Prakan
 Sneeuw Gebergte - see Snow Mountains
 Sng-ku-na - see Songkhla (Wheatley, p. 97)
 90
-SNOW MOUNTAINS - Indonesia 4DEGOO'S 138DEGOO'E Other: Maoke; Schneebirge; Sneeuw Gebergte
+SNOW MOUNTAINS - Indonesia 4DEG00'S 138DEG00'E Other: Maoke; Schneebirge; Sneeuw Gebergte
 So-ba - see Palembang (Sri Vijaya)
 So-lu-man - see Andaman
 Sobanas - see Irrawaddy
@@ -2958,7 +2958,7 @@ Soerabaja - see Surabaya
 Sogbu - see Cebu (Crawfurd, p. 85)
 Solitario - see Lamuyon
 Solo - see 1. Sulu (Quirino, p. 69) 2. Surakarta (Crawfurd, p. 423)
-SOLOR - island, Indonesia 8DEG27'S 123DEGO5'E Other: Su-lu shan; Zolot; Zzolot
+SOLOR - island, Indonesia 8DEG27'S 123DEG05'E Other: Su-lu shan; Zolot; Zzolot
 Solor - see Sulu (Quirino, p. 72)
 Solotsolot - see Lapog
 Sombrero - see 1. Cabulauan 2. Nicobar (Schlegel "B", p. 177)
@@ -2974,7 +2974,7 @@ SONGKHLA - town, Thailand 7DEG12'N 100DEG36'E Other: Singora; Singgora; Singur; 
 Songkla - see Songkhia
 Song Khwae - see Phitsanulok (I.S.S.E.A., p. 204)
 Song K'we - see Phisanulok
-SONG KINH DINH - river, Vietnam 11DEG32'N 109DEGO2'E Other: Kinh Dinh River; Phan Rang River; Rivière Phan Rang
+SONG KINH DINH - river, Vietnam 11DEG32'N 109DEG02'E Other: Kinh Dinh River; Phan Rang River; Rivière Phan Rang
 Song Koi - see Song Hong
 SONG LO - river, Vietnam 2DEG18'N 105DEG30'E Other: Clear River; Rivitre Claise
 SONG NHA BE - river, Vietnam 10DEG24'N 106DEG48'E Other: Chan la chiang [anchorage]; Song Soirap
@@ -3042,13 +3042,13 @@ Sukarno - see Jaya (Room, p. 59)
 Sukarnopura - see Jayapura
 Sokhodaya - see Sukhothai (I.S.S.E.A., p. 190)
 Sukhotai - see Sukhothai (Mills, n. 574)
-SUKHOTHAI - town and ancient state, Thailand J7DEGO1'N 9IDEG49'E Other: Sien; Socotay; Sukhodaya; Sukkotái; Suk'ot'ai; Su-ku-t'ai; Syam
+SUKHOTHAI - town and ancient state, Thailand J7DEG01'N 9IDEG49'E Other: Sien; Socotay; Sukhodaya; Sukkotái; Suk'ot'ai; Su-ku-t'ai; Syam
 Suk'ot'ai - see Sukhothai (Wheatley, p. 301)
 Su-ku-t'ai - see Sukhothai (Mills, n. 574)
 Sula Besi - see Sanana
-SULAWESI - island, Indonesia 2DEGOO'S 121DEGOO'E Other: Calabats?; Calabres; Galibes; Celebes; Belebia; Celebres; Celibes; Kalabats?; Macassar Island; Salabos; Salibres; Selebes; Se-li-p'i; Silebis; Suluwesi; Zelebes [See also entries for Macassar.]
+SULAWESI - island, Indonesia 2DEG00'S 121DEG00'E Other: Calabats?; Calabres; Galibes; Celebes; Belebia; Celebres; Celibes; Kalabats?; Macassar Island; Salabos; Salibres; Selebes; Se-li-p'i; Silebis; Suluwesi; Zelebes [See also entries for Macassar.]
 Su-lu - see Sulu (Mills, n. 576)
-SULU - island [and archipelago], Philippines 5DEG58'N 121DEGO6'E Other: Iolo; Jolo; Seloque; Socloeh; Soeloe; Solo; Solor; Soolo; Sooloo; Sug; Su-lu; Suluk; Xolo; Xollo; Xula; Xullu; Zolo; Zsolo; Zulu; Zzolo
+SULU - island [and archipelago], Philippines 5DEG58'N 121DEG06'E Other: Iolo; Jolo; Seloque; Socloeh; Soeloe; Solo; Solor; Soolo; Sooloo; Sug; Su-lu; Suluk; Xolo; Xollo; Xula; Xullu; Zolo; Zsolo; Zulu; Zzolo
 Suluan - see Homonhón (Quirino, p. 72)
 Suluk - see Sulu (Crawfurd, p. 193)
 Su-lu-ma-i - see Surabaya (Mills, n. 577)
@@ -3057,16 +3057,16 @@ Suluwesi - see Sulawesi
 Sumah - see Tioman (Wheatley, p. 213)
 93
 Sumatera - see Sumatra
-SUMATRA - island, Indonesia ODEGOO' 102DEGOO'E Other:Andelis; Camatra; Caua minori; Iana minor; Iava the lesse; Indalus; Isola Siamotra; Java Diu; Java Div; Java the Less(er); Java Minor; Lamery; Malayadvipa; Pulo Parchah; Pulo Partcha; Saba?; Saborma; Samara; Samarade; Samarcha; Samatra; Samothrah; Samudra?; Sa-mu-ta-1a; Samuthrah; Sciamuthera; Sciumathera; Semudera; Shumatrah; Soematra; Sri-Malayu; Sumatera; Sumatrabhumi; Su-men-ta-1a; Sumolchra; Sumoltra; Sunatra; Suvarnadvipa; Tapobrana; Ta-po-pa-na; Taprobana; Taprobane?; Trapouana; Traprobana; Triprobana; Yap-div; Yavadvipa; Ye-tiao; Zamatra
+SUMATRA - island, Indonesia ODEG00' 102DEG00'E Other:Andelis; Camatra; Caua minori; Iana minor; Iava the lesse; Indalus; Isola Siamotra; Java Diu; Java Div; Java the Less(er); Java Minor; Lamery; Malayadvipa; Pulo Parchah; Pulo Partcha; Saba?; Saborma; Samara; Samarade; Samarcha; Samatra; Samothrah; Samudra?; Sa-mu-ta-1a; Samuthrah; Sciamuthera; Sciumathera; Semudera; Shumatrah; Soematra; Sri-Malayu; Sumatera; Sumatrabhumi; Su-men-ta-1a; Sumolchra; Sumoltra; Sunatra; Suvarnadvipa; Tapobrana; Ta-po-pa-na; Taprobana; Taprobane?; Trapouana; Traprobana; Triprobana; Yap-div; Yavadvipa; Ye-tiao; Zamatra
 Sumatrabhumi - see Sumatra (Lach, p. 503)
-SUMBA - island, Indonesia 10DEGOO'S 120DEGOO'E Other: Chendana; Sandalwood Island; Soemba; Tjendana
-SUMBAWA - island, Indonesia 8DEG40'S 118DEGOO'E Other: San-pa-wa; Soembawa; Zumbaua
+SUMBA - island, Indonesia 10DEG00'S 120DEG00'E Other: Chendana; Sandalwood Island; Soemba; Tjendana
+SUMBAWA - island, Indonesia 8DEG40'S 118DEG00'E Other: San-pa-wa; Soembawa; Zumbaua
 Su-men-ta-la - see Sumatra (L. Giles, p. 21; Wheatley, p. 101 prefers Samudra)
 Sumolchra - see Sumatra
 Sumoltra - see Sumatra
 SUMUR - islands, Indonesia 5DEG50'S 105DEG48'E Other: Tan hsu
 Sunatra - see Sumatra
-SUNDA - islands, Indonesia 2DEGOO'S 110DEGOO'E Other: Gunda; Sin-t'o; Sin-to; Soenda; Sun-1a; Sun-to; Zunda [Sunda was also used to refer to west Java.)
+SUNDA - islands, Indonesia 2DEG00'S 110DEG00'E Other: Gunda; Sin-t'o; Sin-to; Soenda; Sun-1a; Sun-to; Zunda [Sunda was also used to refer to west Java.)
 Sunda Calapa - see Jakarta
 Sunda Kalapa - see Jakarta (Milis, n. 77)
 Sunda Ketjil - see Lesser Sunda Islands
@@ -3094,14 +3094,14 @@ Surashtradhani - see Suratthani
 Suratdhani - see Suratthani
 Surat Tani - see Suratthani
 Surat Thani - see Suratthani
-SURATTHANI - town, Thailand 19DEGO8'N 99DEG19'E Other: Surashtradhani; Surat Tani; Surat Thani; Suratdhani
+SURATTHANI - town, Thailand 19DEG08'N 99DEG19'E Other: Surashtradhani; Surat Tani; Surat Thani; Suratdhani
 SURIN - town, Thailand 14DEG53'N 103DEG29'E Other: Surindra
 Surindra - see Surin
 Suruculoec - see Sawankhalok (de Campos, p. 221)
 SUSU DARA - island, Malaysia 5DEG58'N 102DEG40'E Other: Yen tun hsu
 Suvarnabhumi - see 1. Malay Peninsula 2. Sumatra (see Wheatley, p. 182 for a discussion of Suvarnabhumi and Suvarnadvipa; see also Wolters, p. 10) 3. see de Campos, p. 225 for a discussion of this term as used in "Indo China."
 Suvarnadvipa - see 1. Malay Peninsula 2. Sumatra
-SUWANGGI - island, Indonesia 3DEG26'S 116DEGO1'E Other: Sorcery Island
+SUWANGGI - island, Indonesia 3DEG26'S 116DEG01'E Other: Sorcery Island
 Svargaloka - see Sawankhalok
 Swankalok - see Sawankhalok
 Syam - see Sukhothai (I.S.S.E.A., p. 140)
@@ -3110,7 +3110,7 @@ Syngapura - see Singapore (Wheatley, p. 316)
 SYRIAM - town, Burma 16DEG46'N 96PEG15'E,,
 Other: Cirion; Siriam, Siriao; Syriao; Thanlyeng
 Syriao - see Syriam
-TAAL - lake, Philippines 14DEGOO'N 121DEGOO'E Other: Bombon; Bongbon; Lombon
+TAAL - lake, Philippines 14DEG00'N 121DEG00'E Other: Bombon; Bongbon; Lombon
 Taal-land - see Thailand
 Tablas - see Sibuyan Island (Quirino, p. 72)
 Ta chin shan - see Langgar (Mills, n. 585)
@@ -3135,7 +3135,7 @@ T'ai-kung - see Tagaung (Milis, n. 614)
 Tai mei chou - see Cu Lao Thu (Milis, n. 611)
 Tai mei hstt - see Ko Kra (Mills, n. 612)
 T'ai-ni - see Patani
-TAK - town, Thailand 16DEG52'N 99DEGO8'E Other: Dak
+TAK - town, Thailand 16DEG52'N 99DEG08'E Other: Dak
 Takkola - see Trang
 Takola - see Trang
 Ta-la-na - see Terengganu
@@ -3239,12 +3239,12 @@ Taung-ngu - see Toungoo
 Taungu - see Toungoo
 Tavai - see Tavoy
 Tavoi - see Tavoy
-TAVOY - town, Burma 14DEGO5'N 98DEG12'E Other: Ko-lo; Tavai; Tavoi; Tawahi; Ta-wai
+TAVOY - town, Burma 14DEG05'N 98DEG12'E Other: Ko-lo; Tavai; Tavoi; Tawahi; Ta-wai
 Tawahi - see Tavoy (Wheatley, p. 234)
 Ta-wai - see Tavoy (Milis, n. 603, see also n. 604, 605)
 TAYABAS - province, Philippines 13DEG44'N 121DEG40'E Other: Quezon
 Tay Cong - see Ho Chi Minh City (Murzayev, p. 814)
-TAY NINH - town, Vietnam 11DEG21'N 106DEGO8'E Other: Roung Damrey
+TAY NINH - town, Vietnam 11DEG21'N 106DEG08'E Other: Roung Damrey
 Tchan-pei - see Jambi
 Tchao-wa - see Java
  
@@ -3275,7 +3275,7 @@ Tenacary - see Tenasserim
 Tenacerim - see Tenasserim (F.F.S.M., p. 57)
 Tenasarij - see Tenasserim
 Tenasarj - see Tenasserim
-TENASSERIM - town and region, Burma 12DEGO5'N 99DEGO1'E Other: Innasarim; Tanacarij; Tana-sari; Tanahsri; Tanao; Tanao Sri; Tanasary; Tanaseri; Ta-na-ssu-li; Tarnasseri; Tenacarj; Tenacary; Tenacerim; Tenasarij; Tenasarj; Ternassari; Ternasseri; Tranauwasri; Yandabu [See also Mergui.]
+TENASSERIM - town and region, Burma 12DEG05'N 99DEG01'E Other: Innasarim; Tanacarij; Tana-sari; Tanahsri; Tanao; Tanao Sri; Tanasary; Tanaseri; Ta-na-ssu-li; Tarnasseri; Tenacarj; Tenacary; Tenacerim; Tenasarij; Tenasarj; Ternassari; Ternasseri; Tranauwasri; Yandabu [See also Mergui.]
 Tendain - see Samar (Lach, p. 643)
 TENGCHUNG - town, China 25DEG02'N 98DEG28'E Other: Momein; Momien; Mungmyen; Tengyueh
 TENGGOL - island, Malaysia 4DEG48'N 103DEG41'E
@@ -3284,9 +3284,9 @@ Teng-ka-lo see Terengganu (Wheatley, p. 96)
 Teng-ya-nung - see Terengganu (Wheatley, p. 69; I.S.S.E.A., p. 184) Tengyueh - see Tengchung Tenimbar - see Tanimbar Tenimber - see Tanimbar
 Tennimber - see Tanimbar (Crawfurd, p. 435)
 Terangganu - see Terengganu (Schlegel "D", p. 279)
-TERENGGANU - state, Malaysia 5DEGOO'N 103DEGOO'E
+TERENGGANU - state, Malaysia 5DEG00'N 103DEG00'E
 Other: Dan-dan; Ta-1a-na; Talimgano; Talingano; Tan-tan?; Teng-ka-10; Teng-ya-nung; Terangganu; Ting-chia-hsia-1u; Ting-chia-10; Ting-chia-1u; Ting-ko-nao; Ting-ko-nu;
-TERENGGANU (continued) Trenganu; Trengganu; Tringano; Tringanu; Tringgano; Tringganu; Tronganon Ternassari - see Tenasserim (Lach, p. 525) Ternasseri - see Tenasserim (Guehler, p. 252) TERNATE - island, Indonesia ODEG48'N 127DEG20'E Other: Gape; Maluquo; Tarenate; Tarenatte; Tarnate; Tarnati; Teronanta; Terranate; Treanata Teronanta - see Ternate Terra de Champara - see Ke Ga Terra de Papous - see Papua Terram - see Trang (Wheatley, p. 320) Terranate - see Ternate Terra Vermelha - see Ke Ga Territory of Papua - see Papua Tha Chin - see Samut Sakhon (Smith, p. 267) THAILAND - nation, Southeast Asia Other: Anseam; Ansiam; Ansian; Ansyan; Ansyane; Asion; Ayuthia; Cernove; Ciama; Hsien-lo; Hsien lo kuo; Lan-na; Muang Thai; Muantay; Muontalis; Sarnam; Sayam; Sernau; Sher-i-nawi; Siam; Sian; Sian-10; Siao; Sion; Siyam; Sjaharnow; Sornao; Sukkhothai; Taal-land; Xarnauz THAKPLANONGFA - town, Laos 15DEGO8'N 107DEG23'E Other: Dac Bla Thalang - see Phuket THALE LUANG - lake, Thailand 7DEG51'N 99DEG39'E Other: Tale Sap Thaluan - see Salween Thanaburi - see Thonburi Thang Long - see Hanoi (Mills, n. 340) THANH HOA - town, Vietnam 19DEG48'N 105DEG46'E Other: Ch'ing hua; Hsi ching; Hsi tu Thanh Pho Ho Chi Minh - see Ho Chi Minh City Thanlyeng - see Syriam Than win - see Salween (P.C.G.N., p. 9) Tharekhettara - see Prome THATON - town, Burma 16DEG55'N 97DEG22'E Other: Sudhammapura; Suddhammavati; Sudhammavati; Tha-tun Tha-tun - see Thaton Thaungyin - see Meklong River Thayekhettaya - see Prome (I.S.S.E.A., p. 77) Thayekhittagu - see Prome (I.S.S.E.A., p. 321, n. 182) "The Rock" - see Corregidor THO CHAU - island, Vietnam 9DEG20'N 103DEG28'E Other: Hon Panjang: Pulo Panjang: Ta heng shan THOI BINH - town, Vietnam 9DEG22'N 105DEG06'E Other: Tan Thoi THONBURI - town, Thailand 13DEG43'N 100DEG29'E Other: Dhanapuri; Dhonburi; T'anaburi; Thanaburi; Tonburi Thong Haihin - see Haihin Tho-oan-su - see Bidong Laut (Wheatley, p. 96) Thu Han - see Danang
+TERENGGANU (continued) Trenganu; Trengganu; Tringano; Tringanu; Tringgano; Tringganu; Tronganon Ternassari - see Tenasserim (Lach, p. 525) Ternasseri - see Tenasserim (Guehler, p. 252) TERNATE - island, Indonesia ODEG48'N 127DEG20'E Other: Gape; Maluquo; Tarenate; Tarenatte; Tarnate; Tarnati; Teronanta; Terranate; Treanata Teronanta - see Ternate Terra de Champara - see Ke Ga Terra de Papous - see Papua Terram - see Trang (Wheatley, p. 320) Terranate - see Ternate Terra Vermelha - see Ke Ga Territory of Papua - see Papua Tha Chin - see Samut Sakhon (Smith, p. 267) THAILAND - nation, Southeast Asia Other: Anseam; Ansiam; Ansian; Ansyan; Ansyane; Asion; Ayuthia; Cernove; Ciama; Hsien-lo; Hsien lo kuo; Lan-na; Muang Thai; Muantay; Muontalis; Sarnam; Sayam; Sernau; Sher-i-nawi; Siam; Sian; Sian-10; Siao; Sion; Siyam; Sjaharnow; Sornao; Sukkhothai; Taal-land; Xarnauz THAKPLANONGFA - town, Laos 15DEG08'N 107DEG23'E Other: Dac Bla Thalang - see Phuket THALE LUANG - lake, Thailand 7DEG51'N 99DEG39'E Other: Tale Sap Thaluan - see Salween Thanaburi - see Thonburi Thang Long - see Hanoi (Mills, n. 340) THANH HOA - town, Vietnam 19DEG48'N 105DEG46'E Other: Ch'ing hua; Hsi ching; Hsi tu Thanh Pho Ho Chi Minh - see Ho Chi Minh City Thanlyeng - see Syriam Than win - see Salween (P.C.G.N., p. 9) Tharekhettara - see Prome THATON - town, Burma 16DEG55'N 97DEG22'E Other: Sudhammapura; Suddhammavati; Sudhammavati; Tha-tun Tha-tun - see Thaton Thaungyin - see Meklong River Thayekhettaya - see Prome (I.S.S.E.A., p. 77) Thayekhittagu - see Prome (I.S.S.E.A., p. 321, n. 182) "The Rock" - see Corregidor THO CHAU - island, Vietnam 9DEG20'N 103DEG28'E Other: Hon Panjang: Pulo Panjang: Ta heng shan THOI BINH - town, Vietnam 9DEG22'N 105DEG06'E Other: Tan Thoi THONBURI - town, Thailand 13DEG43'N 100DEG29'E Other: Dhanapuri; Dhonburi; T'anaburi; Thanaburi; Tonburi Thong Haihin - see Haihin Tho-oan-su - see Bidong Laut (Wheatley, p. 96) Thu Han - see Danang
 Tidor - see Tidore (Crawfurd, p. 431)
 TIDORE - island, Indonesia ODEG41'N 127DEG24'E
 Other: Castiglia; Duco; Tadore; Tidor; Tidori
@@ -3297,7 +3297,7 @@ Other: Fleuve Antérieur; Song Tien Giang
 Tien-sun - see Tun-sun (Wheatley, p. 4)
 Ti-men - see Timor
 Timoan - see Tioman (Crawfurd, p. 432; Schlegel "A", p. 371)
-TIMOR - island, Indonesia 9DEGOO'S 124DEGOO'E
+TIMOR - island, Indonesia 9DEG00'S 124DEG00'E
 Other: Chi-li-ti-men; Chi-li-ti-wen; Ch'in-men; Ti-men;
 Ti-mu; Timur; Ti-wu
 Timor Laoet - see Tanimbar
@@ -3309,7 +3309,7 @@ Ting-chia-hsia-1u - see Terengganu (Mills, n. 644)
 Ting-chia-10 - see Terengganu
 Ting-chia-1u - see Terengganu (Wheatley, p. 79)
 Ting chih - see Varella (Mills, n. 645)
-TINGGI - island, Malaysia 2DEG18'N 104DEGO7'E Other: Chiang-chtin-mao; Pulo Tymge; Tingi
+TINGGI - island, Malaysia 2DEG18'N 104DEG07'E Other: Chiang-chtin-mao; Pulo Tymge; Tingi
 Tingi - see Tinggi (Crawfurd, p. 436)
 Ting-ko-nao - see Terengganu
 Ting-ko-nu - see Terengganu
@@ -3328,21 +3328,21 @@ To-ho-lo - see Dvaravati (Wheatley, p. 50)
 To-ho-lo-po-ti - see Dvaravati
 TOHOR, TANJONG - point, Malaysia 1DEG51'N 102DEG43'E
 Other: Pulo Param
-TOLO, TELUK - gulf, Indonesia 2DEGOO'S 122DEG30'E
+TOLO, TELUK - gulf, Indonesia 2DEG00'S 122DEG30'E
 Other: Tomaiki?; Tomaikoo
 T'o-lo-po-ti - see Dvaravati
 To-lo-po-ti - see Dvaravati (Wheatley, p. 3)
 Tomaiki - see Tolo (Crawfurd, p. 437)
 Tomaikoo - see Tolo
-TOMINI, TELUK - gulf, Indonesia ODEG20'N 121DEGOO'E
+TOMINI, TELUK - gulf, Indonesia ODEG20'N 121DEG00'E
 Other: Gorontalo Bay
 Tonburi - see Thonburi (Blankwaardt, p. 29)
 Tongking - see Tonkin
-TONKIN - region, Vietnam 22DEGOO'N 105DEGOO'E
+TONKIN - region, Vietnam 22DEG00'N 105DEG00'E
 Other: An nan; Bac Bo; Bac Kin; Bac Ky; Bac Phan; Cachan; Cachao; Chekio; Chiao chih; Chiao-chou; Dong Kinh; Don Kin; Giao-chi; Kachao; Kailukari?; Kechao; Keci Daona; Kecio; Kescho; Kiao-chao; Tongking; Tonqueen; Tonquin; Tung-ching;
  
 Tungking Tonkin (Town) - see Hanoi Tonle Bassac - see Hau Giang
-TONLE SAP - lake, Kampuchea 13DEGOO'N 104DEGOO'E Other: Boeng Tonle Sap; Grand Lac; Great Lake; Lovek; Tonl€ Sap Tonqueen - see Tonkin Tonquin - see Tonkin Toren Eiland - see Mules T'ou chin chiao - see Capones (Mills, n. 648) Tou bet - see Tenggol (Mills, n. 647; Wheatley, p. 96) TOUNGOO - town, Burma 19DEGOO'N 96DEG30'E Other: Berma; Brama; Tanga; Taung-ngu; Taungu; Toungu; Tung-wu Toungu - see Toungoo (Guehler, p. 267) Tourane - see Danang Touron - see Danang Towoeti Meer - see Towuti TOWUTI - lake, Indonesia 2DEG45'S 121DEG32'E Other: Towoeti Meer Tranauwasri - see Tenasserim (Guehler, p. 252) Tran Di Dao - see Can Tho TRANG - town, Thailand 7DEG33'N 99DEG36'E Other: Kelang?; Takkola; Takola; Tanangar; Terram TRAN TAY - former colony, Vietnam - see Kampuchea Trapouana - see Sumatra Traprobana - see Sumatra (Pigafetta, v. 2, p. 181) TRAT - town, Thailand 12DEG14'N 102DEG30'E Other: Bang Phra TRAU, HON - island, Vietnam 14DEGO8'N 109DEG18'E Other: Bufalo Isle; Ch'ing hsu; Ile aux Bufjles; Ile Buffle TRA VINH - town, Vietnam 9DEG56'N 106DEG20'E Other: Phu Vinh; Prah Trapeang Treanata - see Ternate Trenganu - see Terengganu Tringano - see Terengganu (Crawfurd, p. 440) Tringanu - see Terengganu (Crawfurd, p. 336) Tringgano - see Terengganu Tringganu - see Terengganu (Crawfurd, p. 440) Triprobana - see 1. Sri Lanka 2. Sumatra Tronganon - see Terengganu [roung Son - see Annamite (Murzayev, p. 812)
+TONLE SAP - lake, Kampuchea 13DEG00'N 104DEG00'E Other: Boeng Tonle Sap; Grand Lac; Great Lake; Lovek; Tonl€ Sap Tonqueen - see Tonkin Tonquin - see Tonkin Toren Eiland - see Mules T'ou chin chiao - see Capones (Mills, n. 648) Tou bet - see Tenggol (Mills, n. 647; Wheatley, p. 96) TOUNGOO - town, Burma 19DEG00'N 96DEG30'E Other: Berma; Brama; Tanga; Taung-ngu; Taungu; Toungu; Tung-wu Toungu - see Toungoo (Guehler, p. 267) Tourane - see Danang Touron - see Danang Towoeti Meer - see Towuti TOWUTI - lake, Indonesia 2DEG45'S 121DEG32'E Other: Towoeti Meer Tranauwasri - see Tenasserim (Guehler, p. 252) Tran Di Dao - see Can Tho TRANG - town, Thailand 7DEG33'N 99DEG36'E Other: Kelang?; Takkola; Takola; Tanangar; Terram TRAN TAY - former colony, Vietnam - see Kampuchea Trapouana - see Sumatra Traprobana - see Sumatra (Pigafetta, v. 2, p. 181) TRAT - town, Thailand 12DEG14'N 102DEG30'E Other: Bang Phra TRAU, HON - island, Vietnam 14DEG08'N 109DEG18'E Other: Bufalo Isle; Ch'ing hsu; Ile aux Bufjles; Ile Buffle TRA VINH - town, Vietnam 9DEG56'N 106DEG20'E Other: Phu Vinh; Prah Trapeang Treanata - see Ternate Trenganu - see Terengganu Tringano - see Terengganu (Crawfurd, p. 440) Tringanu - see Terengganu (Crawfurd, p. 336) Tringgano - see Terengganu Tringganu - see Terengganu (Crawfurd, p. 440) Triprobana - see 1. Sri Lanka 2. Sumatra Tronganon - see Terengganu [roung Son - see Annamite (Murzayev, p. 812)
 Truc Giang - see Ben Tre
 True King Island - see Khoai
 Trung Bo - see Annam
@@ -3357,7 +3357,7 @@ Ts'ui lan hst - see Nicobar (Mills, n. 652)
 Ts'ui-lan shan - see Nicobar (Herrmann, p. 47)
 Ts'ui-lan-yu - see Andaman
 Tuba - see Tuban (Lach, p. 588)
-TUBAN - town and region, Indonesia 6DEG54'S 112DEGO3'E Other: Chu-man; Ta-pan; Toeban; Tuba; Tu-pan
+TUBAN - town and region, Indonesia 6DEG54'S 112DEG03'E Other: Chu-man; Ta-pan; Toeban; Tuba; Tu-pan
 Tubancressi - corruption of Tuban and Gresik
 Tubour - see Talaud (Crawfurd, p. 425)
 Tudju - see Tuju
@@ -3393,7 +3393,7 @@ Tu-Pan - see Tuban (Mills, n. 657)
 T'u-ytan ben - see Bidong Laut (Wheatley, p. Tyaou-Dok - see Chau Doc
 Tymoane - see Tioman
 Tymon - see Tioman (Schlegel "A", p. 371) Tyuma - see Tioman (Schlegel "A", p. 371)
-Ubi - see Khoai Ubon - see Ubon Ratchathani UBON RATCHATHANI - town, Thailand 15DEG14'N 104DEG54'E Other: Ubon; Upalara jadhani Udayadhani - see Uthaithani Udia - see Ayuthia Udjung Djambuaje - see Jambuair Ud jung Peureula - see Peureulak UDONTHANI - town, Thailand 17DEG26'N 102DEG46'E Other: Ban Mak Khaeng; Mak Khaeng; Udorn; Udornthani; Uttaradhani Udorn - see Udonthani Udornthani - see Udonthani Ujong Kulon - see Java Head Ujong Pandang - see Macassar Ujong Salang - see Phuket (Wheatley, p. 235) Ujong Tanah - see Johor (Wheatley, p. 301) UMBOI - island, Papua-New Guinea 5DEG36'S 148DEGOO'E Other: Rooke UNAUNA - island, Indonesia ODEG10'S 121DEG35'E Other: Nanguna UNFEDERATED MALAY STATES - former colony, United Kingdom Included: Johor, Kedah, Kelantan, Perlis, and Terengganu Union - see La Union Upalarajadhani - see Ubon Ratchathani Upper Annam - ancient region, Vietnam Other: Jih Nan Upper Coast - see (Mainland) Southeast Asia (Wheatley, p. 63) Upper Pugan - see Tagaung Urang Salah - see Phuket (Wheatley, p. 235) Ussa - see Pegu (Wheatley, p. 192; I.S.S.E.A., p. 30) Utaidhani - see Uthaithani Utang talim - see Johor Utaradit - see Uttaradit JTHAITHANI - town, Thailand 15DEG23'N 99DEG33'N Other: Udayadhani; Utaidhani Uttaradhani - see Udonthani UTTARADIT - town, Thailand 17DEG38'N 100DEGO6'E Other: Utaradit; Uttaratittha Uttaratittha - see Uttaradit Uyong Tanah - see Johor (I.S.S.E.A., p. 244)
+Ubi - see Khoai Ubon - see Ubon Ratchathani UBON RATCHATHANI - town, Thailand 15DEG14'N 104DEG54'E Other: Ubon; Upalara jadhani Udayadhani - see Uthaithani Udia - see Ayuthia Udjung Djambuaje - see Jambuair Ud jung Peureula - see Peureulak UDONTHANI - town, Thailand 17DEG26'N 102DEG46'E Other: Ban Mak Khaeng; Mak Khaeng; Udorn; Udornthani; Uttaradhani Udorn - see Udonthani Udornthani - see Udonthani Ujong Kulon - see Java Head Ujong Pandang - see Macassar Ujong Salang - see Phuket (Wheatley, p. 235) Ujong Tanah - see Johor (Wheatley, p. 301) UMBOI - island, Papua-New Guinea 5DEG36'S 148DEG00'E Other: Rooke UNAUNA - island, Indonesia ODEG10'S 121DEG35'E Other: Nanguna UNFEDERATED MALAY STATES - former colony, United Kingdom Included: Johor, Kedah, Kelantan, Perlis, and Terengganu Union - see La Union Upalarajadhani - see Ubon Ratchathani Upper Annam - ancient region, Vietnam Other: Jih Nan Upper Coast - see (Mainland) Southeast Asia (Wheatley, p. 63) Upper Pugan - see Tagaung Urang Salah - see Phuket (Wheatley, p. 235) Ussa - see Pegu (Wheatley, p. 192; I.S.S.E.A., p. 30) Utaidhani - see Uthaithani Utang talim - see Johor Utaradit - see Uttaradit JTHAITHANI - town, Thailand 15DEG23'N 99DEG33'N Other: Udayadhani; Utaidhani Uttaradhani - see Udonthani UTTARADIT - town, Thailand 17DEG38'N 100DEG06'E Other: Utaradit; Uttaratittha Uttaratittha - see Uttaradit Uyong Tanah - see Johor (I.S.S.E.A., p. 244)
 Vai - see Burma
 Vai Co - see Song Vai Co
 Vaico - see Song Vai Co
@@ -3423,12 +3423,12 @@ Vijayapura - see Brunei (Brown, p. 132)
 Vindanao - see Mindanao (Quirino, p. 72)
 Vinh Bac Bo - see Gulf of Tonkin
 Vinh Loi - see Bac Lieu
-VINH LONG - district, Vietnam 14DEGO5'N 109DEGO1'E Other: Long Ho; Long Hor
+VINH LONG - district, Vietnam 14DEG05'N 109DEG01'E Other: Long Ho; Long Hor
 Vioma - see Tioman
 Vireies - see Burias (Quirino, p. 68)
 Virejos - see Burias (Quirino, p. 68)
 106
-VISAYAN ISLANDS - Philippines 11DEGOO'N 123DEG30'E Other: Bisayas: San hsu; Visayas
+VISAYAN ISLANDS - Philippines 11DEG00'N 123DEG30'E Other: Bisayas: San hsu; Visayas
 Visayas - see Visayan Islands
 Visscher's Island - see Simberi
 Vjoma - see Tioman
@@ -3446,7 +3446,7 @@ Wang Mai Khon - see Sawankhalok
 Wan li shih t'ang - see Paracels
 Wan nien ban - see Muri (Mills, n. 680)
 Wan sheng shih t'ang hsu - see Paracels (Mills, n. 681)
-WARD HUNT - cape, Papua-New Guinea 8DEGO2'S 148DEGO9'E Other: Cape Ward Hunt
+WARD HUNT - cape, Papua-New Guinea 8DEG02'S 148DEG09'E Other: Cape Ward Hunt
 Wariagar - see Aimau (U.S., p. 8)
 Way - see 1. Wai (Crawfurd, p. 445) 2. We (Crawfurd, p. 445)
 WE - island, Indonesia 5DEG51'N 95DEG18'E Other: Hsiao mao shan; Lung-yen-yu; Mao shan; Nan mao shan; Way; Weh
@@ -3465,7 +3465,7 @@ West New Guinea - see Irian Jaya (Room, p. 177)
 WETAR - island, Indonesia 7DEG48'S 126DEG18'E Other: Wetter
 Wetter - see Wetar (Crawfurd, p. 445)
 Wharton Deep - see Java Trough
-WHITE ROCK - point, Malaysia 4DEGOO'N 100DEG31'E Other: Horsburgh Light; Pai chiao; Pai shih k'ou; Pedra Bramca; Pedra Branca
+WHITE ROCK - point, Malaysia 4DEG00'N 100DEG31'E Other: Horsburgh Light; Pai chiao; Pai shih k'ou; Pedra Bramca; Pedra Branca
 Wiak - see Biak
 Wijnkoops Baai - see Wyncoops Bay
 Wilhelmina Top - see Trikera (Room, p. 162)
@@ -3475,7 +3475,7 @@ Wu chueh - see Pekalongan
 Wu-li-tung shan - see Billiton (Mills, n. 694)
 Wu-nu-ku - see Moluccas
 Wu-ting Ch'iao-lin - see Johor (Mills, n. 698)
-WYNCOOPS BAY - Indonesia 7DEGO3'S 106DEG27'E Other: Wijnkoops Baai
+WYNCOOPS BAY - Indonesia 7DEG03'S 106DEG27'E Other: Wijnkoops Baai
 108
 -—
 Xacatara - see Jakarta
@@ -3493,7 +3493,7 @@ Ya-ch'i - see Achin (Mills, n. 699)
 Yadanabon - see Mandalay
 Ya-lu - see Aru (Mills, n. 702; Wheatley, p. 101)
 Yamdena - see Jamdena
-YAMIN, PUNCAK - mountain, Indonesia 4DEG39'S 140DEGO6'E Other: Prins Hendrik Top; Yamin Peak
+YAMIN, PUNCAK - mountain, Indonesia 4DEG39'S 140DEG06'E Other: Prins Hendrik Top; Yamin Peak
 Yam Island - see 1. Khoai 2. Obi (Crawfurd, p. 306)
 Yamu - see Yaring
 Yandabu - see Tenasserim
@@ -3523,14 +3523,14 @@ Yuan Chiang - see Song Hong
 Yueh Nan - see Vietnam
 Yugyakarta - see Jogjakarta
 Yun - see Chiengmai
-YUNNAN - province, China 25DEGOO'N 102DEGOO'E Other: Junnan; Nanchao; Ouan; Teen
+YUNNAN - province, China 25DEG00'N 102DEG00'E Other: Junnan; Nanchao; Ouan; Teen
 Yuthia - see Ayuthia
 Yu-ti-ya - see Ayuthia (Mills, n. 714)
 Zaba - (erroneous) Singapore (error discussed by Lach, p. 507)
 Zabag - see Palembang (Wolters, p. 10, notes Java; Wheatley, in Herrmann, xxii, notes Javaka)
 Zamal - see Samar (Quirino, p. 71; Pigafetta, v. 1, p. 99)
 Zamatra - see Sumatra (Pigafetta, v. 1, p. 109)
-ZAMBOANGA - town and province, Philippines 6DEG58'N 122DEGO2'E Other: Canola; Chu ch'i ma shan [province includes Isabela de Basilan]
+ZAMBOANGA - town and province, Philippines 6DEG58'N 122DEG02'E Other: Canola; Chu ch'i ma shan [province includes Isabela de Basilan]
 Zampa - see Champa
 Zapa - see Champa
 Zeba - see Cebu

@@ -4,19 +4,23 @@ import Layout from "./../components/Layout";
 
 const WordPage = ({ data, pageContext }) => {
   const { previous, next } = pageContext;
-  const { headWord, original, rest, rawLat, rawLong, primary } = data.namesJson;
+  const { headWord, original, rawLat, rawLong, primary, definition, others } =
+    data.namesJson;
   return (
     <Layout>
       <article>
         <h2>{headWord || original}</h2>
         <ul>
-          <li>
-            <strong>Original:</strong> {original}
-          </li>
-          <li>
-            <strong>Primary/secondary: </strong>{" "}
-            {primary ? "primary" : "secondary"}
-          </li>
+          {definition ? (
+            <li>
+              <strong>Definition:</strong> {definition}
+            </li>
+          ) : null}
+          {others ? (
+            <li>
+              <strong>Other:</strong> {others}
+            </li>
+          ) : null}
           {rawLat && rawLong ? (
             <React.Fragment>
               <li>
@@ -25,11 +29,15 @@ const WordPage = ({ data, pageContext }) => {
               <li>
                 <strong>Longitude: </strong> {rawLong}
               </li>
-              <li>
-                <strong>Rest: </strong> {rest}
-              </li>
             </React.Fragment>
           ) : null}
+          <li>
+            <strong>Original:</strong> {original}
+          </li>
+          <li>
+            <strong>Primary/secondary: </strong>{" "}
+            {primary ? "primary" : "secondary"}
+          </li>
         </ul>
         <h3>The data:</h3>
         <p>{JSON.stringify(data.namesJson)}</p>
@@ -56,6 +64,8 @@ export const query = graphql`
       rawLat
       rawLong
       primary
+      others
+      definition
     }
   }
 `;

@@ -49,16 +49,31 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
     if (thisLine.indexOf(" - ") > -1) {
       const parts = thisLine.split(" - ");
       output[i].headWord = parts[0];
-      if (parts[0] === parts[0].toUpperCase()) {
-        output[i].primary = true;
-      }
       output[i].slug = slugify(parts[0]);
       output[i].rest = parts[1];
-      const lat = parts[1].match(/\d+DEG\d+'[NS]/);
-      const long = parts[1].match(/\d+DEG\d+'[EW]/);
-      if (lat && long) {
-        output[i].rawLat = lat[0];
-        output[i].rawLong = long[0];
+      if (parts[0] === parts[0].toUpperCase()) {
+        output[i].primary = true;
+        // TODO: this is a main word.
+        const lat = parts[1].match(/\d+DEG\d+'[NS]/) || "";
+        const long = parts[1].match(/\d+DEG\d+'[EW]/) || "";
+        if (lat && long) {
+          output[i].rawLat = lat[0];
+          output[i].rawLong = long[0];
+          //TODO: decimalize these. N is positive, E is positive
+          // deg + min / 60
+        }
+        const otherIndex = parts[1].indexOf("Other: ");
+        if (otherIndex > -1) {
+          output[i].others = parts[1].substring(otherIndex + 7).trim();
+          output[i].definition = parts[1]
+            .substring(0, otherIndex)
+            .replace(lat, "")
+            .replace(long, "")
+            .trim();
+          // TODO: this fails sometimes: http://localhost:8000/word/visayan-islands
+        }
+      } else {
+        // TODO: this is a reference
       }
     }
   }
