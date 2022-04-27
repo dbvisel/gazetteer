@@ -1,0 +1,33 @@
+:root {
+	--outsidePadding: 50px;
+	--insidePadding: 25px;
+	--mainFont: 'Open Sans', sans-serif;
+	--backgroundColor: #ccc;
+	--black: #333;
+	--white: #ffff;
+	--accentColor: #00cccc;
+	--linkColor: firebrick;
+	--borderRadius: 6px;
+	--headerHeight: 100px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: var(--backgroundColor);
+	color: var(--black);
+	font-family: var(--mainFont);
+}
+
+body {
+	padding: var(--outsidePadding);
+}
+
+a {
+	color: var(--linkColor);
+}

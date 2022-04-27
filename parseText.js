@@ -44,10 +44,14 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
       id: `entry_${i}`,
       original: thisLine,
       slug: `entry_${i}`,
+      primary: false,
     };
     if (thisLine.indexOf(" - ") > -1) {
       const parts = thisLine.split(" - ");
       output[i].headWord = parts[0];
+      if (parts[0] === parts[0].toUpperCase()) {
+        output[i].primary = true;
+      }
       output[i].slug = slugify(parts[0]);
       output[i].rest = parts[1];
       const lat = parts[1].match(/\d+DEG\d+'[NS]/);

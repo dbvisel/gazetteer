@@ -2,6 +2,7 @@ import * as React from "react";
 import PropTypes from "prop-types";
 import { useStaticQuery, graphql } from "gatsby";
 import Header from "../Header";
+import { Wrapper } from "./elements";
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -17,10 +18,10 @@ const Layout = ({ children }) => {
   return (
     <React.Fragment>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div>
+      <Wrapper>
         <main>{children}</main>
         <footer>© {new Date().getFullYear()}, footer goes here.</footer>
-      </div>
+      </Wrapper>
     </React.Fragment>
   );
 };

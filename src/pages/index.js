@@ -1,6 +1,7 @@
 import * as React from "react";
 import { useStaticQuery, graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
+import { InlineList } from "../components/Layout/elements";
 
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
@@ -18,14 +19,16 @@ const IndexPage = () => {
   `).allNamesJson.nodes;
   return (
     <Layout>
-      <h2>Index</h2>
-      <ul>
-        {data.map((x, index) => (
-          <li key={index}>
-            <Link to={`/word/${x.slug}/`}>{x.headWord}</Link>
-          </li>
-        ))}
-      </ul>
+      <article>
+        <h2>Index</h2>
+        <InlineList>
+          {data.map((x, index) => (
+            <li key={index}>
+              <Link to={`/word/${x.slug}/`}>{x.headWord}</Link>
+            </li>
+          ))}
+        </InlineList>
+      </article>
     </Layout>
   );
 };

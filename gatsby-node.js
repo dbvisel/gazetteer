@@ -10,29 +10,44 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           edges {
             node {
               slug
+              headWord
               id
+            }
+            next {
+              slug
+              headWord
+            }
+            previous {
+              slug
+              headWord
             }
           }
         }
       }
     `
   );
-  // Handle errors
   if (result.errors) {
     reporter.panicOnBuild(`Error while running GraphQL query.`);
     return;
   }
-  // Create pages for each markdown file.
-  result.data.allNamesJson.edges.forEach(({ node }) => {
-    const path = `/word/${node.slug}`;
-    createPage({
-      path,
-      component: wordTemplate,
-      // In your blog post template's graphql query, you can use pagePath
-      // as a GraphQL variable to query for data from the markdown file.
-      context: {
-        id: node.id,
-      },
-    });
+  result.data.allNamesJson.edges.forEach((name) => {
+    const path = `/word/${name.node.slug}`;
+    if (name.node.headWord) {
+      createPage({
+        path,
+        component: wordTemplate,
+        context: {
+          id: name.node.id,
+          next:
+            name.next && name.next.headWord
+              ? { slug: name.next.slug, name: name.next.headWord }
+              : null,
+          previous:
+            name.previous && name.previous.headWord
+              ? { slug: name.previous.slug, name: name.previous.headWord }
+              : null,
+        },
+      });
+    }
   });
 };
