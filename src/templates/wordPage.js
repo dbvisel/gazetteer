@@ -22,6 +22,8 @@ export const query = graphql`
       rest
       index
       headWord
+      rawLat
+      rawLong
     }
   }
 `;

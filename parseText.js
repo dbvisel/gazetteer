@@ -50,6 +50,12 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
       output[i].headWord = parts[0];
       output[i].slug = slugify(parts[0]);
       output[i].rest = parts[1];
+      const lat = parts[1].match(/\d+DEG\d+'[NS]/);
+      const long = parts[1].match(/\d+DEG\d+'[EW]/);
+      if (lat && long) {
+        output[i].rawLat = lat[0];
+        output[i].rawLong = long[0];
+      }
     }
   }
   storeData(output, __dirname + "/src/data/names.json");
