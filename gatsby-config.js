@@ -6,7 +6,8 @@ module.exports = {
     siteUrl: `https://gazetteer.netlify.app/`,
   },
   plugins: [
-    `gatsby-plugin-netlify``gatsby-plugin-react-helmet`,
+    `gatsby-plugin-netlify`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
