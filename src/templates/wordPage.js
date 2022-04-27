@@ -4,7 +4,7 @@ import Layout from "./../components/Layout";
 
 const WordPage = ({ data }) => {
   const thisWord = data.namesJson;
-  console.log(thisWord);
+  // console.log(thisWord);
   return (
     <Layout>
       <h1>{thisWord.headWord || thisWord.original}</h1>
