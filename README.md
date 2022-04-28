@@ -5,6 +5,14 @@
  - Original PDF source: https://deepblue.lib.umich.edu/handle/2027.42/58233
  - Tempo upload: https://archive.org/details/historical-gazetteer-of-southeast-asia
 
+
+## To do:
+
+ - Move this to DSG:
+   - https://v4.gatsbyjs.com/docs/how-to/rendering-options/using-deferred-static-generation/
+   - https://www.netlify.com/blog/2021/09/16/run-gatsby-4-with-dsg-and-ssr-on-netlify-today/
+ - Make a page of all names that have lat/longs
+ - Make a map component
 ## Data model
 
 word

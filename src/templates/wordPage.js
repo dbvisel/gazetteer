@@ -77,6 +77,21 @@ const WordPage = ({ data, pageContext }) => {
             {primary ? "primary" : "secondary"}
           </li>
         </ul>
+        {rawLat && rawLong ? (
+          <iframe
+            title={headWord}
+            src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyAinrlU-Cdpb85M_iQ-IwBUBy9lrqq-y7E&q=${lat},${long}`}
+            style={{
+              width: "100%",
+              height: 800,
+              boder: "none",
+            }}
+            loading="lazy"
+            allowfullscreen
+            referrerpolicy="no-referrer-when-downgrade"
+            allowFullScreen
+          />
+        ) : null}
         <h3>The data:</h3>
         <p>{JSON.stringify(data.namesJson)}</p>
       </article>

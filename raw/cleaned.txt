@@ -2139,13 +2139,13 @@ Nagara Svarga - see Nakhon Sawan (I.S.S.E.A., p. 163) Nagarit - see Negrais
 Nagogor - see Nakhon Si Thammarat (Wheatley, p. 173) Nagor Sri Dharmaraj - see Nakhon Si Thammarat
 Naja Bara - see Nicobar (Wheatley, p. 237)
 Najrirashi - see Negrais (Wheatley, p. 240)
-NAKHON PATHOM - town, Thailand 13DEG49'N 100DEG03'E
-Other: Nagara Pathama; Nagara Pathom; Nakon Btom NAKHON PHANOM - town, Thailand 17DEG24'N 104DEG47'E
-Other: Lakhon; Nagara Bnam; Nagara Panom; Nakon Pnom NAKHON RATCHASIMA - town, Thailand 14DEG58'N 102DEG07'E
-Other: Khorat; Korat; Nagara Ra jasima NAKHON SAWAN - town, Thailand 15DEG41'N 100DEG07'E
-Other: Nagara Svarga; Nakon Swan NAKHON SI THAMMARAT - town, Thailand 8DEG26'N 99DEG58'E
-(literally: City of the Lord of the Dharma]
-Other: Dharmanagara; Jih-lo-t'ing; Lagar; Lagon: Lakan; Lakon: Legor; Ligor; Ligoor; Liu-k'un; Loguor; Lugo; Lugor; Lugou; Lygoor; Madamalinga; Muang Lakhon; Nagara Sridhar- maraj; Nagogor; Nagor Sri Dharmaraj; Nakon Sritammarat; Si Thammarat; Siridhammanagara; Tambralinga; Tamralinga; Tan-ma-ling: Tan-mei-liu Nakhon Sritammarat - see Nakhon Si Thammarat (Lach, p. 521) Nakkavaram - see Nicobar (Wheatley, p. 201)
+NAKHON PATHOM - town, Thailand 13DEG49'N 100DEG03'E Other: Nagara Pathama; Nagara Pathom; Nakon Btom 
+NAKHON PHANOM - town, Thailand 17DEG24'N 104DEG47'E Other: Lakhon; Nagara Bnam; Nagara Panom; Nakon Pnom 
+NAKHON RATCHASIMA - town, Thailand 14DEG58'N 102DEG07'E Other: Khorat; Korat; Nagara Ra jasima 
+NAKHON SAWAN - town, Thailand 15DEG41'N 100DEG07'E Other: Nagara Svarga; Nakon Swan 
+NAKHON SI THAMMARAT - town, Thailand 8DEG26'N 99DEG58'E (literally: City of the Lord of the Dharma) Other: Dharmanagara; Jih-lo-t'ing; Lagar; Lagon: Lakan; Lakon: Legor; Ligor; Ligoor; Liu-k'un; Loguor; Lugo; Lugor; Lugou; Lygoor; Madamalinga; Muang Lakhon; Nagara Sridhar- maraj; Nagogor; Nagor Sri Dharmaraj; Nakon Sritammarat; Si Thammarat; Siridhammanagara; Tambralinga; Tamralinga; Tan-ma-ling: Tan-mei-liu 
+Nakhon Sritammarat - see Nakhon Si Thammarat (Lach, p. 521) 
+Nakkavaram - see Nicobar (Wheatley, p. 201)
 Nakon Btom - see Nakhon Pathom
 Nakon Pnom - see Nakhon Phanom
 Nakon Swan - see Nakhon Sawan

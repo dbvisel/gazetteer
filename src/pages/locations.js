@@ -3,16 +3,22 @@ import { useStaticQuery, graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import { InlineList } from "../components/Layout/elements";
 
-const IndexPage = () => {
+const LocationPage = () => {
   const data = useStaticQuery(graphql`
     {
       allNamesJson(
-        filter: { headWord: { ne: null } }
+        filter: {
+          headWord: { ne: null }
+          lat: { ne: null }
+          long: { ne: null }
+        }
         sort: { fields: index }
       ) {
         nodes {
           headWord
           slug
+          lat
+          long
         }
       }
     }
@@ -20,15 +26,19 @@ const IndexPage = () => {
   return (
     <Layout>
       <article>
-        <h2>Index</h2>
-        <p>
-          See just <Link to={`/locations`}>locations with coordinates</Link>.
-        </p>
-        <h3>Everything:</h3>
+        <h2>Locations</h2>
         <InlineList>
           {data.map((x, index) => (
             <li key={index}>
-              <Link to={`/word/${x.slug}/`}>{x.headWord}</Link>
+              <Link to={`/word/${x.slug}/`}>{x.headWord}</Link>{" "}
+              <a
+                href={`https://www.google.com/maps?q=${x.lat},${x.long}`}
+                target="_blank"
+                rel="noreferrer"
+                style={{ color: "var(--black)" }}
+              >
+                ({x.lat}, {x.long})
+              </a>
             </li>
           ))}
         </InlineList>
@@ -37,4 +47,4 @@ const IndexPage = () => {
   );
 };
 
-export default IndexPage;
+export default LocationPage;

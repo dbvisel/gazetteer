@@ -9,6 +9,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         allNamesJson {
           edges {
             node {
+              index
               slug
               headWord
               id
@@ -31,7 +32,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     return;
   }
   result.data.allNamesJson.edges.forEach((name) => {
-    const path = `/word/${name.node.slug}`;
+    const path = `/word/${name.node.slug}/`;
     if (name.node.headWord) {
       createPage({
         path,
@@ -47,6 +48,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               ? { slug: name.previous.slug, name: name.previous.headWord }
               : null,
         },
+        defer: name.node.index > 100,
       });
     }
   });
