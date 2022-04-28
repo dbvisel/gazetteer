@@ -35,6 +35,7 @@ const WordPage = ({ data, pageContext }) => {
     long,
   } = data.namesJson;
   const otherList = others ? others.split(";") : [];
+
   return (
     <Layout>
       <article>
@@ -80,15 +81,14 @@ const WordPage = ({ data, pageContext }) => {
         {rawLat && rawLong ? (
           <iframe
             title={headWord}
-            src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyAinrlU-Cdpb85M_iQ-IwBUBy9lrqq-y7E&q=${lat},${long}`}
+            src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GATSBY_GOOGLE_MAPS_EMBED_API_KEY}&q=${lat},${long}`}
             style={{
               width: "100%",
               height: 800,
               boder: "none",
             }}
             loading="lazy"
-            allowfullscreen
-            referrerpolicy="no-referrer-when-downgrade"
+            referrerPolicy="no-referrer-when-downgrade"
             allowFullScreen
           />
         ) : null}

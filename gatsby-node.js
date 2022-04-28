@@ -31,7 +31,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     reporter.panicOnBuild(`Error while running GraphQL query.`);
     return;
   }
-  result.data.allNamesJson.edges.forEach((name) => {
+  result.data.allNamesJson.edges.forEach((name, index) => {
     const path = `/word/${name.node.slug}/`;
     if (name.node.headWord) {
       createPage({
@@ -48,7 +48,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               ? { slug: name.previous.slug, name: name.previous.headWord }
               : null,
         },
-        defer: name.node.index > 100,
+        defer: index > 100,
       });
     }
   });
