@@ -1,5 +1,5 @@
 import { graphql } from "gatsby";
-import WordPage from "../templates/wordPage";
+import WordPage from "../../templates/wordPage";
 
 export default WordPage;
 
