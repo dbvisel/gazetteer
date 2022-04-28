@@ -1,4 +1,7 @@
 import { graphql } from "gatsby";
+import WordPage from "../templates/wordPage";
+
+export default WordPage;
 
 export async function config() {
   const { data } = graphql`
