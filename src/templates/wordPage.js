@@ -23,6 +23,7 @@ const slugify = (str) => {
 
 const WordPage = ({ data, pageContext }) => {
   const { previous, next } = pageContext;
+  console.log(data, pageContext);
   const {
     headWord,
     original,
