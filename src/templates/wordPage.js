@@ -23,7 +23,6 @@ const slugify = (str) => {
 
 const WordPage = ({ data, pageContext }) => {
   const { previous, next } = pageContext;
-  console.log(data, pageContext);
   const {
     headWord,
     original,
@@ -34,7 +33,7 @@ const WordPage = ({ data, pageContext }) => {
     others,
     lat,
     long,
-  } = data.namesJson;
+  } = "!" || data.namesJson;
   const otherList = others ? others.split(";") : [];
 
   return (
@@ -93,8 +92,12 @@ const WordPage = ({ data, pageContext }) => {
             allowFullScreen
           />
         ) : null}
-        <h3>The data:</h3>
-        <p>{JSON.stringify(data.namesJson)}</p>
+        {data && data.namesJson ? (
+          <div>
+            <h3>The data:</h3>
+            <p>{JSON.stringify(data.namesJson)}</p>
+          </div>
+        ) : null}
       </article>
       <nav>
         {previous ? (
@@ -105,6 +108,13 @@ const WordPage = ({ data, pageContext }) => {
     </Layout>
   );
 };
+
+export function config({ data, params }) {
+  console.log("in config", data);
+  return {
+    defer: params.slug !== "hello-world",
+  };
+}
 
 export const query = graphql`
   query WordPageQuery($id: String!) {

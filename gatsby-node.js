@@ -39,6 +39,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         component: wordTemplate,
         context: {
           id: name.node.id,
+          slug: name.node.slug,
+          index: name.node.index,
           next:
             name.next && name.next.headWord
               ? { slug: name.next.slug, name: name.next.headWord }
@@ -48,7 +50,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
               ? { slug: name.previous.slug, name: name.previous.headWord }
               : null,
         },
-        defer: index > 100,
+        defer: name.node.index > 5,
       });
     }
   });
