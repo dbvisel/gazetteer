@@ -1,28 +1,34 @@
 import * as React from "react";
-import Link from "next/link";
+import { useStaticQuery, graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import { InlineList } from "../components/Layout/elements";
 
 const IndexPage = () => {
-  const data = [];
+  const data = useStaticQuery(graphql`
+    {
+      allNamesJson(
+        filter: { headWord: { ne: null } }
+        sort: { fields: index }
+      ) {
+        nodes {
+          headWord
+          slug
+        }
+      }
+    }
+  `).allNamesJson.nodes;
   return (
     <Layout>
       <article>
         <h2>Index</h2>
         <p>
-          See just{" "}
-          <Link href={`/locations`}>
-            <a>locations with coordinates</a>
-          </Link>
-          .
+          See just <Link to={`/locations`}>locations with coordinates</Link>.
         </p>
         <h3>Everything:</h3>
         <InlineList>
           {data.map((x, index) => (
             <li key={index}>
-              <Link href={`/word/${x.slug}/`}>
-                <a>{x.headWord}</a>
-              </Link>
+              <Link to={`/word/${x.slug}/`}>{x.headWord}</Link>
             </li>
           ))}
         </InlineList>
