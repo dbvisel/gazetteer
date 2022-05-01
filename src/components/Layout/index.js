@@ -3,11 +3,10 @@ import PropTypes from "prop-types";
 import Header from "../Header";
 import { Wrapper } from "./elements";
 
-const Layout = ({ children }) => {
-  const data = { site: { siteMetadata: { title: "", description: "" } } };
+const Layout = ({ children, title }) => {
   return (
     <React.Fragment>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+      <Header siteTitle={title ? `Gazetteer: ${title}` : "Gazetteer"} />
       <Wrapper>
         <main>{children}</main>
         <footer>© {new Date().getFullYear()}, footer goes here.</footer>

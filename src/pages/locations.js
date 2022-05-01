@@ -6,7 +6,7 @@ import data from "./../data/names.json";
 
 export async function getStaticProps() {
   const filteredData = data
-    .filter((x) => x.headWord)
+    .filter((x) => x.headWord && x.lat && x.long)
     .sort((a, b) => a.index - b.index);
 
   return {
@@ -16,25 +16,26 @@ export async function getStaticProps() {
   };
 }
 
-const IndexPage = ({ data }) => {
+const LocationPage = ({ data }) => {
   return (
     <Layout>
       <article>
-        <h2>Index</h2>
-        <p>
-          See just{" "}
-          <Link href={`/locations`}>
-            <a>locations with coordinates</a>
-          </Link>
-          .
-        </p>
-        <h3>Everything:</h3>
+        <h2>Locations</h2>
+        <p>(Clicking on coordinates opens Google Maps in a new tab.)</p>
         <InlineList>
           {data.map((x, index) => (
             <li key={index}>
               <Link href={`/word/${x.slug}/`}>
                 <a>{x.headWord}</a>
-              </Link>
+              </Link>{" "}
+              <a
+                href={`https://www.google.com/maps?q=${x.lat},${x.long}`}
+                target="_blank"
+                rel="noreferrer"
+                style={{ color: "var(--black)" }}
+              >
+                ({x.lat}, {x.long})
+              </a>
             </li>
           ))}
         </InlineList>
@@ -43,4 +44,4 @@ const IndexPage = ({ data }) => {
   );
 };
 
-export default IndexPage;
+export default LocationPage;
