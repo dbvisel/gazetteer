@@ -1,6 +1,7 @@
 import * as React from "react";
 import Link from "next/link";
 import Layout from "./../../components/Layout";
+import data from "../../data/names.json";
 
 const slugify = (str) => {
   str = str.replace(/^\s+|\s+$/g, ""); // trim
@@ -21,19 +22,42 @@ const slugify = (str) => {
   return str;
 };
 
-const WordPage = ({ data, pageContext }) => {
-  const previous = "";
-  const next = "";
-  const headWord = "";
-  const original = "";
-  const rawLat = "";
-  const rawLong = "";
-  const primary = true;
-  const definition = "";
-  const others = "";
-  const lat = 0;
-  const long = 0;
-  // const { previous, next } = pageContext;
+export const getStaticPaths = async () => {
+  const slugs = data.map((x) => x.slug);
+  // console.log(slugs);
+  return {
+    paths: slugs.map((x) => {
+      return { params: { slug: x } };
+    }),
+    fallback: false, // fallback is set to false because we already know the slugs ahead of time
+  };
+};
+
+export const getStaticProps = async ({ params }) => {
+  const thisWord = data.find((x) => x.slug === params.slug);
+  const previous = data.find((x) => x.index === params.index - 1);
+  const next = data.find((x) => x.index === params.index + 1);
+  return {
+    props: {
+      previous: previous ? previous.slug : null,
+      next: next ? next.slug : null,
+      word: thisWord,
+    },
+  };
+};
+
+const WordPage = ({ previous, next, word }) => {
+  const {
+    headWord,
+    original,
+    rawLat,
+    rawLong,
+    primary,
+    definition,
+    others,
+    lat,
+    long,
+  } = word;
 
   const otherList = others ? others.split(";") : [];
 
@@ -78,7 +102,7 @@ const WordPage = ({ data, pageContext }) => {
         {rawLat && rawLong ? (
           <iframe
             title={headWord}
-            src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GATSBY_GOOGLE_MAPS_EMBED_API_KEY}&q=${lat},${long}`}
+            src={`https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_API_KEY}&q=${lat},${long}`}
             style={{
               width: "100%",
               height: 800,
