@@ -35,12 +35,12 @@ export const getStaticPaths = async () => {
 
 export const getStaticProps = async ({ params }) => {
   const thisWord = data.find((x) => x.slug === params.slug);
-  const previous = data.find((x) => x.index === params.index - 1);
-  const next = data.find((x) => x.index === params.index + 1);
+  const previous = data.find((x) => x.index === thisWord.index - 1);
+  const next = data.find((x) => x.index === thisWord.index + 1);
   return {
     props: {
-      previous: previous ? previous.slug : null,
-      next: next ? next.slug : null,
+      previous: previous ? previous : null,
+      next: next ? next : null,
       word: thisWord,
     },
   };
@@ -123,12 +123,12 @@ const WordPage = ({ previous, next, word }) => {
       <nav>
         {previous ? (
           <Link href={`/word/${previous.slug}`}>
-            <a>{previous.name}←</a>
+            <a>{previous.headWord}←</a>
           </Link>
         ) : null}
         {next ? (
           <Link href={`/word/${next.slug}`}>
-            <a>→{next.name}</a>
+            <a>→{next.headWord}</a>
           </Link>
         ) : null}
       </nav>
