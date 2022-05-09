@@ -24,7 +24,6 @@ const slugify = (str) => {
 
 export const getStaticPaths = async () => {
   const slugs = data.map((x) => x.slug);
-  // console.log(slugs);
   return {
     paths: slugs.map((x) => {
       return { params: { slug: x } };
@@ -74,11 +73,13 @@ const WordPage = ({ previous, next, word }) => {
           {otherList.length ? (
             <li>
               <strong>Other:</strong>{" "}
-              {otherList.map((x) => (
-                <Link key={x} href={`/word/${slugify(x)}/`}>
-                  <a style={{ marginRight: "1em" }}>{x.trim()}</a>
-                </Link>
-              ))}
+              <span style={{ display: "inline-flex", flexWrap: "wrap" }}>
+                {otherList.map((x) => (
+                  <Link key={x} href={`/word/${slugify(x)}/`}>
+                    <a style={{ marginRight: "1em" }}>{x.trim()}</a>
+                  </Link>
+                ))}
+              </span>
             </li>
           ) : null}
           {rawLat && rawLong ? (

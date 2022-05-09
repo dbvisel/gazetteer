@@ -30,6 +30,9 @@ export const Wrapper = styled.div`
         opacity: 0.75;
       }
     }
+    @media (max-width: 768px) {
+      flex-wrap: wrap;
+    }
   }
 
   & footer {

@@ -31,3 +31,10 @@ body {
 a {
 	color: var(--linkColor);
 }
+
+@media (max-width: 767px) {
+	:root {
+		--outsidePadding: 10px;
+		--insidePadding: 10px;
+	}
+}

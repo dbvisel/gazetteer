@@ -24,8 +24,8 @@ const slugify = (str) => {
   str = str.toLowerCase();
 
   // remove accents, swap ñ for n, etc
-  const from = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;";
-  const to = "aaaaeeeeiiiioooouuuunc------";
+  const from = "àáäâèéëêìíïîòóöôùúüûñç·/_,:;'";
+  const to = "aaaaeeeeiiiioooouuuunc-------";
   for (let i = 0, l = from.length; i < l; i++) {
     str = str.replace(new RegExp(from.charAt(i), "g"), to.charAt(i));
   }
@@ -59,7 +59,10 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
     if (thisLine.indexOf(" - ") > -1) {
       const parts = thisLine.split(" - ");
       output[i].headWord = parts[0];
-      output[i].slug = slugify(parts[0]);
+      output[i].slug =
+        output.map((x) => x.slug).indexOf(slugify(parts[0])) < 0
+          ? slugify(parts[0])
+          : `${slugify(parts[0])}_${count}`;
       output[i].rest = parts[1];
       if (parts[0] === parts[0].toUpperCase()) {
         output[i].primary = true;
@@ -86,13 +89,13 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
         }
       } else {
         // TODO: this is a reference
-        if (parts[1].split("see ").length < 2) {
-          console.log(thisLine);
-        } else {
-          if (parts[1].split("see ").length > 2) {
-            console.log(thisLine);
-          }
-        }
+        // if (parts[1].split("see ").length < 2) {
+        //   console.log(thisLine);
+        // } else {
+        //   if (parts[1].toLowerCase().split("see").length > 2) {
+        //     console.log(thisLine);
+        //   }
+        // }
         count++;
       }
     }

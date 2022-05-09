@@ -49,15 +49,17 @@ const WordPage = ({ data, pageContext }) => {
           {otherList.length ? (
             <li>
               <strong>Other:</strong>{" "}
-              {otherList.map((x) => (
-                <Link
-                  key={x}
-                  to={`/word/${slugify(x)}/`}
-                  style={{ marginRight: "1em" }}
-                >
-                  {x.trim()}
-                </Link>
-              ))}
+              <span style={{ display: "inline-flex", flexWrap: "wrap" }}>
+                {otherList.map((x) => (
+                  <Link
+                    key={x}
+                    to={`/word/${slugify(x)}/`}
+                    style={{ marginRight: "1em" }}
+                  >
+                    {x.trim()}
+                  </Link>
+                ))}
+              </span>
             </li>
           ) : null}
           {rawLat && rawLong ? (
