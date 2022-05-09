@@ -46,7 +46,7 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
   }
   const myText = data.toString();
   const lines = myText.split("\n");
-
+  let count = 0;
   for (let i = 0; i < lines.length; i++) {
     const thisLine = lines[i];
     output[i] = {
@@ -86,6 +86,14 @@ fs.readFile(__dirname + "/raw/cleaned.txt", (error, data) => {
         }
       } else {
         // TODO: this is a reference
+        if (parts[1].split("see ").length < 2) {
+          console.log(thisLine);
+        } else {
+          if (parts[1].split("see ").length > 2) {
+            console.log(thisLine);
+          }
+        }
+        count++;
       }
     }
   }

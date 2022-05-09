@@ -8,6 +8,7 @@
 
 ## To do:
 
+ - accents checked through end of M, p. 64
  - Move this to DSG:
    - https://v4.gatsbyjs.com/docs/how-to/rendering-options/using-deferred-static-generation/
    - https://www.netlify.com/blog/2021/09/16/run-gatsby-4-with-dsg-and-ssr-on-netlify-today/
